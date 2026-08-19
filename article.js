@@ -118,7 +118,12 @@ if (isGameGuide(model)) {
 } else {
   relatedPool = candidates;
 }
-const related = relatedPool.slice(0,3);
+const explicitRelated = (model.relatedSlugs || [])
+  .map(slug => all.find(x => x.slug === slug))
+  .filter(Boolean);
+const related = explicitRelated.length
+  ? [...explicitRelated, ...relatedPool.filter(x => !explicitRelated.some(r => r.slug === x.slug))].slice(0,3)
+  : relatedPool.slice(0,3);
 if (relatedGrid) {
   relatedGrid.innerHTML = related.map(x => `
     <a class="related-card" href="article.html?slug=${x.slug}">
