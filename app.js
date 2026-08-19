@@ -3,7 +3,14 @@ const reviewGrid = document.getElementById('reviewGrid');
 const guideGrid = document.getElementById('guideGrid');
 function card(item, kind){
   return `<a class="content-card searchable" data-text="${(item.title+' '+item.category+' '+item.excerpt).toLowerCase()}" href="article.html?slug=${item.slug}&kind=${kind}">
-    <div class="card-art ${item.art}">${item.image ? `<img class="card-image" src="${item.image}" alt="">` : ""}<span class="pill card-pill">${item.category}</span></div>
+    <div class="card-art ${item.art}">
+      ${item.heroImages?.length > 1
+        ? `<div class="card-image-pair">${item.heroImages.slice(0,2).map((src,i)=>`<img src="${src}" alt="${item.title} product ${i+1}">`).join('')}</div>`
+        : (item.productImage || item.image)
+          ? `<img class="card-image" src="${item.productImage || item.image}" alt="${item.title}">`
+          : ""}
+      <span class="pill card-pill">${item.category}</span>
+    </div>
     <div class="card-body"><div class="card-meta"><span>${kind === 'review' ? 'REVIEW / COMPARISON' : kind === 'game' ? 'GAME GUIDE' : 'BUYING GUIDE'}</span><span class="rating">${item.score}</span></div><h3>${item.title}</h3><p>${item.excerpt}</p><span class="more">Read article →</span></div>
   </a>`;
 }

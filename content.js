@@ -30,7 +30,8 @@ window.CHECKPOINT_CONTENT = {
     {
       slug:"moza-r5-vs-fanatec-csl-dd",
       image:"assets/images/moza-vs-fanatec.svg",
-      productImage:"https://uk.mozaracing.com/cdn/shop/files/R5_fd3a8598-4f5f-474c-bfd5-50793e2c417d.png?v=1752746491&width=1031",
+      heroImages:["https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000"],
+      productImage:"https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000",
       category:"SIM RACING COMPARISON",
       title:"MOZA R5 vs Fanatec CSL DD 5 Nm: Which Beginner Direct-Drive Bundle Is Better?",
       excerpt:"Two of the most obvious first direct-drive setups compared on torque, pedals, ecosystem, upgrade path and platform support.",
@@ -86,6 +87,7 @@ window.CHECKPOINT_CONTENT = {
     {
       slug:"moza-r3-vs-r5",
       image:"assets/images/r3-vs-r5.svg",
+      heroImages:["https://uk.mozaracing.com/cdn/shop/files/r3_bundle_pc_0803.png?v=1785733315&width=1000","https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000"],
       productImage:"https://uk.mozaracing.com/cdn/shop/files/r3_bundle_pc_0803.png?v=1785733315&width=1000",
       category:"SIM RACING COMPARISON",
       title:"MOZA R3 vs R5: Is 3.9 Nm Enough or Should You Start at 5.5 Nm?",
@@ -112,7 +114,8 @@ window.CHECKPOINT_CONTENT = {
     {
       slug:"moza-r5-vs-r5-pro",
       image:"assets/images/r5-vs-r5pro.svg",
-      productImage:"https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=1200",
+      heroImages:["https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000","https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000"],
+      productImage:"https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000",
       category:"SIM RACING COMPARISON",
       title:"MOZA R5 vs R5 Pro: What Does the New 6 Nm Bundle Actually Improve?",
       excerpt:"The newer R5 Pro adds more than half a Newton metre: the encoder and force-feedback generation also change.",
@@ -138,6 +141,8 @@ window.CHECKPOINT_CONTENT = {
     {
       slug:"moza-r9-v3-vs-r12-v2",
       image:"assets/images/r9-vs-r12.svg",
+      heroImages:["https://uk.mozaracing.com/cdn/shop/files/R9_V3-1.webp?v=1767606156&width=1000","https://uk.mozaracing.com/cdn/shop/files/R12_V2-1.webp?v=1767606172&width=1000"],
+      productImage:"https://uk.mozaracing.com/cdn/shop/files/R9_V3-1.webp?v=1767606156&width=1000",
       category:"SIM RACING COMPARISON",
       title:"MOZA R9 V3 vs R12 V2: Is 12 Nm Worth Paying More For?",
       excerpt:"Nine Newton metres is already serious direct drive. Here is when moving to 12 Nm actually makes sense.",
@@ -247,6 +252,8 @@ window.CHECKPOINT_CONTENT = {
     {
       slug:"beginner-sim-racing-setup-2026",
       image:"assets/images/beginner-sim-setup.svg",
+      heroImages:["https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000"],
+      productImage:"https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000",
       category:"SIM RACING BUYING GUIDE",
       title:"Beginner Sim Racing Setup 2026: Where To Spend Your Money First",
       excerpt:"Wheel, pedals, desk or cockpit, monitor and upgrade path—in the order that actually matters.",
@@ -301,6 +308,8 @@ window.CHECKPOINT_CONTENT = {
     {
       slug:"best-direct-drive-wheel-under-500-uk",
       image:"assets/images/best-dd-under-500.svg",
+      heroImages:["https://uk.mozaracing.com/cdn/shop/files/r3_bundle_pc_0803.png?v=1785733315&width=1000","https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000","https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000"],
+      productImage:"https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000",
       category:"SIM RACING BUYING GUIDE",
       title:"Best Direct-Drive Sim Racing Options Under £500 in 2026",
       excerpt:"The current entry-to-midrange sweet spot: MOZA R3, R5, R5 Pro and Fanatec CSL DD.",

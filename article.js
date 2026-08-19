@@ -31,12 +31,17 @@ document.getElementById('articleRead').textContent = model.score || (kind === 'r
 document.getElementById('quickText').textContent = model.quick || '';
 document.getElementById('main').innerHTML = model.body || '<h2>Main guide</h2>';
 
-const hero = document.getElementById('articleHeroImage');
-const heroImage = model.productImage || model.image;
-if (heroImage) {
-  hero.src = heroImage;
-  hero.alt = model.title;
-  hero.hidden = false;
+const heroGallery = document.getElementById('articleHeroGallery');
+const heroImages = (model.heroImages && model.heroImages.length)
+  ? model.heroImages
+  : [model.productImage || model.image].filter(Boolean);
+
+if (heroImages.length) {
+  heroGallery.innerHTML = heroImages.map((src, i) =>
+    `<figure class="article-product-shot"><img src="${src}" alt="${model.title} product image ${i + 1}"></figure>`
+  ).join('');
+  heroGallery.dataset.count = String(heroImages.length);
+  heroGallery.hidden = false;
 }
 
 document.getElementById('productName').textContent = model.product || 'Related product';
