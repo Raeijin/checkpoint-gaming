@@ -51,7 +51,7 @@ window.CHECKPOINT_CONTENT = {
         <p>Neither starter pedal set should be the end of the journey if you get serious. Pedal upgrades—especially a load-cell brake—can improve consistency more than adding a few extra Newton metres of wheel torque.</p>`,
       product:"MOZA R5 Racing Bundle",
       productWhy:"A compact PC-first direct-drive starter bundle with wheel, pedals and table clamp included.",
-      affiliate_url:"https://eu.mozaracing.com/products/r5-racing-bundle",
+      affiliate_url:"https://uk.mozaracing.com/products/r5-racing-bundle?ref=AIDANKING",
       sources:[
         ["MOZA R5 official specifications","https://eu.mozaracing.com/products/r5-racing-bundle"],
         ["Fanatec CSL DD 5 Nm Ready2Race","https://www.fanatec.com/eu/en/p/ready2race/r2r_csl_dd_qr2_5nm_eu/csl-dd-qr2-ready2race-bundle-pc-5-nm-eu"]
@@ -74,9 +74,9 @@ window.CHECKPOINT_CONTENT = {
         <p>Torque numbers do not tell the whole story, but they illustrate the gap: the R5 has more than double the peak torque rating of the G923, and direct drive removes the gear train between the motor and your hands.</p>
         <h2>Who should still buy the G923?</h2>
         <p>Console players who value straightforward compatibility, people buying during a strong discount, or anyone who wants a familiar ecosystem without planning a larger rig can still be well served by it. For a PC-first setup that may grow over time, direct drive is usually the more interesting starting point.</p>`,
-      product:"Compare Logitech G923 pricing on Amazon UK",
-      productWhy:"The G923 is often widely stocked, so Amazon can be useful for checking whether a sale price changes the value calculation.",
-      affiliate_url:"https://www.logitechg.com/en-gb/collections/driving.html",
+      product:"MOZA R5 Racing Bundle",
+      productWhy:"For PC buyers comparing the G923 with entry-level direct drive, the R5 is the alternative worth pricing alongside it.",
+      affiliate_url:"https://uk.mozaracing.com/products/r5-racing-bundle?ref=AIDANKING",
       sources:[
         ["Logitech G UK racing comparison","https://www.logitechg.com/en-gb/collections/driving.html"],
         ["MOZA R5 official specifications","https://eu.mozaracing.com/products/r5-racing-bundle"]
@@ -185,7 +185,7 @@ window.CHECKPOINT_CONTENT = {
         <p>If you have a rigid cockpit and expect to keep the base for years, buying the 8 Nm package avoids an early upgrade and better matches load-cell pedals and a more serious rig.</p>`,
       product:"Fanatec CSL DD QR2 Ready2Race 8 Nm",
       productWhy:"The higher-torque version of Fanatec's entry direct-drive ecosystem.",
-      affiliate_url:"https://www.fanatec.com/eu/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_eu/csl-dd-qr2-ready2race-bundle-pc-8-nm-eu",
+      affiliate_url:"",
       sources:[["Fanatec CSL DD 8 Nm bundle","https://www.fanatec.com/eu/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_eu/csl-dd-qr2-ready2race-bundle-pc-8-nm-eu"]]
     }
 ,
@@ -351,9 +351,9 @@ window.CHECKPOINT_CONTENT = {
         <p>This upgrade only works properly if the pedals and seat stay put. Strong brake pressure on a sliding pedal set or rolling office chair becomes an exercise in furniture migration.</p>
         <h2>Fanatec example</h2>
         <p>Fanatec's CSL Elite Pedals V2 use a load-cell brake, Hall sensors and an all-metal pedal structure. They are a useful example of the type of upgrade to consider after a starter wheel-and-pedal bundle.</p>`,
-      product:"Fanatec CSL Elite Pedals V2",
-      productWhy:"A load-cell pedal upgrade with adjustable brake feel and metal construction.",
-      affiliate_url:"https://www.fanatec.com/eu/en/p/pedals/csl_ep_v2/csl-elite-pedals-v2",
+      product:"MOZA SRP2 Pedals",
+      productWhy:"A practical first load-cell upgrade for PC sim racers who want more repeatable braking.",
+      affiliate_url:"https://uk.mozaracing.com/products/srp2-pedals?ref=AIDANKING",
       sources:[["Fanatec CSL Elite Pedals V2","https://www.fanatec.com/eu/en/p/pedals/csl_ep_v2/csl-elite-pedals-v2"]]
     },
     {

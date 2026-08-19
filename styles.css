@@ -181,3 +181,16 @@ linear-gradient(180deg,#0b0f16,#07090d)}
       var(--sim-bg) center/cover no-repeat;
   }
 }
+
+/* Checkpoint Loadout brand + finish pass */
+.logo-word{white-space:nowrap}.logo-word b{color:var(--green)}.logo-mark{font-size:11px;letter-spacing:-.03em}
+.footer-tagline{margin:8px 0 0;max-width:360px}.text-link{color:var(--green);font-weight:800}.text-link:hover{text-decoration:underline;text-underline-offset:3px}
+.brand-intro{padding-bottom:18px}.brand-intro-grid{display:grid;grid-template-columns:.8fr 1.2fr;gap:36px;align-items:start;padding:34px;border:1px solid var(--line);border-radius:20px;background:linear-gradient(120deg,rgba(111,255,195,.05),rgba(110,215,255,.025))}
+.brand-intro-grid h2{font-size:34px;line-height:1.08;margin:8px 0 0}.brand-intro-grid p{color:var(--muted);margin:0}
+.legal-page{max-width:920px;padding:78px 0 96px}.legal-page h1{font-size:clamp(44px,6vw,70px);line-height:1;letter-spacing:-.045em;margin:12px 0 24px}.legal-page h2{font-size:28px;line-height:1.15;margin-top:44px}.legal-page .deck{max-width:780px}
+.legal-card{border:1px solid var(--line);border-radius:16px;background:var(--panel);padding:22px;margin:18px 0}.legal-card h2{margin:0 0 10px;font-size:22px}
+.info-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:34px 0}.info-grid .legal-card{margin:0}
+.method-list{display:grid;gap:14px;margin-top:36px}.method-list section{display:grid;grid-template-columns:58px 1fr;gap:18px;padding:22px;border:1px solid var(--line);border-radius:16px;background:var(--panel)}.method-list section>span{font-size:13px;font-weight:900;color:var(--green);letter-spacing:.1em}.method-list h2{margin:0 0 8px;font-size:23px}.method-list p{margin:0;color:#c0c8d2}
+.error-page{min-height:62vh;display:flex;flex-direction:column;justify-content:center;padding:70px 0}.error-page h1{font-size:clamp(54px,9vw,96px);letter-spacing:-.06em;line-height:.9;margin:14px 0 22px}.error-page p{color:var(--muted);max-width:580px;font-size:18px}
+@media(max-width:900px){.brand-intro-grid{grid-template-columns:1fr}.info-grid{grid-template-columns:1fr}}
+@media(max-width:620px){.logo-word{font-size:12px}.legal-page{padding:54px 0 72px}.method-list section{grid-template-columns:1fr;gap:8px}}
