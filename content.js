@@ -30,6 +30,7 @@ window.CHECKPOINT_CONTENT = {
     {
       slug:"moza-r5-vs-fanatec-csl-dd",
       image:"assets/images/moza-vs-fanatec.svg",
+      productImage:"https://uk.mozaracing.com/cdn/shop/files/R5_fd3a8598-4f5f-474c-bfd5-50793e2c417d.png?v=1752746491&width=1031",
       category:"SIM RACING COMPARISON",
       title:"MOZA R5 vs Fanatec CSL DD 5 Nm: Which Beginner Direct-Drive Bundle Is Better?",
       excerpt:"Two of the most obvious first direct-drive setups compared on torque, pedals, ecosystem, upgrade path and platform support.",
@@ -85,6 +86,7 @@ window.CHECKPOINT_CONTENT = {
     {
       slug:"moza-r3-vs-r5",
       image:"assets/images/r3-vs-r5.svg",
+      productImage:"https://uk.mozaracing.com/cdn/shop/files/r3_bundle_pc_0803.png?v=1785733315&width=1000",
       category:"SIM RACING COMPARISON",
       title:"MOZA R3 vs R5: Is 3.9 Nm Enough or Should You Start at 5.5 Nm?",
       excerpt:"The two obvious entry points into MOZA direct drive compared for PC and Xbox buyers.",
@@ -110,6 +112,7 @@ window.CHECKPOINT_CONTENT = {
     {
       slug:"moza-r5-vs-r5-pro",
       image:"assets/images/r5-vs-r5pro.svg",
+      productImage:"https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=1200",
       category:"SIM RACING COMPARISON",
       title:"MOZA R5 vs R5 Pro: What Does the New 6 Nm Bundle Actually Improve?",
       excerpt:"The newer R5 Pro adds more than half a Newton metre: the encoder and force-feedback generation also change.",
@@ -244,6 +247,7 @@ window.CHECKPOINT_CONTENT = {
     {
       slug:"beginner-sim-racing-setup-2026",
       image:"assets/images/beginner-sim-setup.svg",
+      productImage:"https://uk.mozaracing.com/cdn/shop/files/R5_fd3a8598-4f5f-474c-bfd5-50793e2c417d.png?v=1752746491&width=1031",
       category:"SIM RACING BUYING GUIDE",
       title:"Beginner Sim Racing Setup 2026: Where To Spend Your Money First",
       excerpt:"Wheel, pedals, desk or cockpit, monitor and upgrade path—in the order that actually matters.",
@@ -298,6 +302,7 @@ window.CHECKPOINT_CONTENT = {
     {
       slug:"best-direct-drive-wheel-under-500-uk",
       image:"assets/images/best-dd-under-500.svg",
+      productImage:"https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=1200",
       category:"SIM RACING BUYING GUIDE",
       title:"Best Direct-Drive Sim Racing Options Under £500 in 2026",
       excerpt:"The current entry-to-midrange sweet spot: MOZA R3, R5, R5 Pro and Fanatec CSL DD.",
@@ -322,4 +327,92 @@ window.CHECKPOINT_CONTENT = {
     }
 
   ]
+  ,
+  gameGuides: [
+    {
+      slug:"elden-ring-first-hours-guide",
+      image:"assets/images/elden-ring-beginner.svg",
+      category:"ELDEN RING GUIDE",
+      title:"Elden Ring Beginner Guide: What to Do in Your First Few Hours",
+      excerpt:"A spoiler-light route through the early game: exploration, upgrades, map fragments, summons and when to stop headbutting a boss.",
+      score:"9 MIN",
+      art:"game",
+      quick:"Explore Limgrave before forcing the main route. Unlock Sites of Grace, collect map fragments, upgrade your main weapon, spend runes before risky fights, and use Spirit Ashes when the game allows them.",
+      body:`
+        <h2>Do not treat the golden path as a command</h2>
+        <p>The guidance from Sites of Grace points toward major objectives, but Elden Ring expects you to wander. If an early boss feels wildly stronger than you, exploring elsewhere is usually the intended answer rather than repeating the same fight for hours.</p>
+        <h2>Prioritise weapon upgrades</h2>
+        <p>A weapon you understand and have upgraded is more valuable than constantly swapping to every new weapon you find. Smithing Stones are worth hunting early because weapon level has a large effect on practical damage.</p>
+        <h2>Buy the crafting kit and use map markers</h2>
+        <p>Early merchants sell useful basics, and the map lets you place your own markers. Mark caves, locked areas and bosses you want to revisit instead of relying on memory.</p>
+        <h2>Spend runes before dangerous exploration</h2>
+        <p>If you are carrying enough runes for a level, spending them before entering a new dungeon removes a lot of unnecessary stress.</p>
+        <h2>Use the tools the game gives you</h2>
+        <p>Spirit Ashes, guard counters, jumping attacks, stealth and mounted combat are core mechanics rather than emergency cheats. Different encounters reward different tools.</p>`,
+      hideProduct:true
+    },
+    {
+      slug:"baldurs-gate-3-beginner-guide",
+      image:"assets/images/bg3-beginner.svg",
+      category:"BALDUR'S GATE 3 GUIDE",
+      title:"Baldur's Gate 3 Beginner Guide: The Systems Worth Understanding First",
+      excerpt:"A practical introduction to actions, bonus actions, rests, concentration, advantage and why talking can be stronger than fighting.",
+      score:"10 MIN",
+      art:"game",
+      quick:"Learn the action economy first: each turn is built around movement, an action and often a bonus action. Use high ground and advantage, protect concentration spells, rest regularly, and save before decisions you genuinely care about.",
+      body:`
+        <h2>Understand actions and bonus actions</h2>
+        <p>Most characters get one main action per turn plus movement, and many builds have useful bonus actions. A turn becomes much stronger when you deliberately use both rather than ending after a single attack.</p>
+        <h2>Advantage is a huge deal</h2>
+        <p>Attacking from favourable positions, hiding, restraining enemies or using class abilities can give advantage. It improves reliability and is often more valuable than chasing a tiny damage increase.</p>
+        <h2>Concentration changes spell choices</h2>
+        <p>Many powerful spells require concentration, and a character normally maintains only one concentration spell at a time. Casting another concentration spell replaces the first.</p>
+        <h2>Rest more often than you think</h2>
+        <p>Short and long rests restore important resources. The game also uses camp conversations to advance companion stories, so avoiding rests indefinitely can mean missing character moments.</p>
+        <h2>Talking is gameplay</h2>
+        <p>Dialogue skills, disguises, spells and class-specific choices can resolve encounters or create completely different outcomes. Combat is only one solution.</p>`,
+      hideProduct:true
+    },
+    {
+      slug:"cyberpunk-2077-beginner-guide",
+      image:"assets/images/cyberpunk-settings.svg",
+      category:"CYBERPUNK 2077 GUIDE",
+      title:"Cyberpunk 2077 Beginner Guide: Skills, Cyberware and Early Priorities",
+      excerpt:"A clean start for new players: pick a playstyle, understand cyberware capacity, upgrade deliberately and stop hoarding every gun in Night City.",
+      score:"9 MIN",
+      art:"game",
+      quick:"Choose a broad playstyle before spreading attribute points everywhere. Sell or dismantle excess loot, keep cyberware aligned with your build, use cover and mobility, and treat iconic weapons as long-term gear worth paying attention to.",
+      body:`
+        <h2>Pick a direction before specialising</h2>
+        <p>You do not need a perfect build immediately, but it helps to decide whether you enjoy guns, blades, hacking, stealth or a hybrid. Attribute investment becomes more meaningful as higher-tier perks unlock.</p>
+        <h2>Cyberware is part of the build</h2>
+        <p>Cyberware is not just passive armour. Different implants affect movement, survivability, hacking, weapon handling and combat tempo, so visit ripperdocs as your capacity grows.</p>
+        <h2>Do not carry an armoury everywhere</h2>
+        <p>Regular loot piles up quickly. Keep weapons that suit your playstyle or have special value, then sell or dismantle the rest so inventory management does not become the actual final boss.</p>
+        <h2>Use mobility</h2>
+        <p>Movement upgrades can transform combat. Repositioning, breaking line of sight and attacking from better angles is often safer than trading damage in the open.</p>`,
+      hideProduct:true
+    },
+    {
+      slug:"helldivers-2-beginner-guide",
+      image:"assets/images/helldivers-beginner.svg",
+      category:"HELLDIVERS 2 GUIDE",
+      title:"Helldivers 2 Beginner Guide: The Habits That Make Squads Better",
+      excerpt:"Friendly fire, objectives, reinforcement discipline and why running away is occasionally the most patriotic option.",
+      score:"8 MIN",
+      art:"game",
+      quick:"Stay near the squad without standing on top of them, call reinforcement beacons into safe areas, learn stratagem placement, complete objectives before chasing every fight, and remember that disengaging can save more time than winning a pointless battle.",
+      body:`
+        <h2>Friendly fire is always part of the equation</h2>
+        <p>Your weapons and stratagems can kill teammates. Give explosives room, announce dangerous call-ins when possible and avoid firing through another diver just because an enemy is somewhere behind them.</p>
+        <h2>Objectives matter more than kill count</h2>
+        <p>Enemies can keep arriving. Completing the mission, secondary objectives and useful map tasks is generally more important than fighting every patrol you encounter.</p>
+        <h2>Reinforce intelligently</h2>
+        <p>Throw reinforcement beacons toward safe ground and, when practical, near the fallen player's equipment. Tossing someone directly into the middle of a swarm is technically a deployment strategy, just not a particularly kind one.</p>
+        <h2>Know when to disengage</h2>
+        <p>A squad can burn through reinforcements fighting for ground that has no strategic value. Breaking contact and moving to the next objective is often the stronger choice.</p>`,
+      hideProduct:true
+    }
+  ]
+
 };

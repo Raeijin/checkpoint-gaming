@@ -3,7 +3,7 @@ const params = new URLSearchParams(location.search);
 const slug = params.get('slug');
 const kind = params.get('kind');
 const type = params.get('type');
-const all = [...window.CHECKPOINT_CONTENT.reviews, ...window.CHECKPOINT_CONTENT.guides];
+const all = [...window.CHECKPOINT_CONTENT.reviews, ...window.CHECKPOINT_CONTENT.guides, ...(window.CHECKPOINT_CONTENT.gameGuides || [])];
 const item = all.find(x => x.slug === slug);
 
 let model = item || {
@@ -55,9 +55,17 @@ if (url.includes('amazon.co.uk')) {
 
 const productImage = document.getElementById('productImage');
 const placeholder = document.getElementById('productPlaceholder');
-if (model.image) {
-  productImage.src = model.image;
+const displayProductImage = model.productImage || model.image;
+if (displayProductImage) {
+  productImage.src = displayProductImage;
   productImage.alt = model.product || model.title;
   productImage.hidden = false;
   placeholder.hidden = true;
+}
+
+const pickSection = document.getElementById('pick');
+const pickToc = document.querySelector('.toc a[href="#pick"]');
+if (model.hideProduct || !model.affiliate_url || model.affiliate_url === '#') {
+  if (pickSection) pickSection.hidden = true;
+  if (pickToc) pickToc.hidden = true;
 }
