@@ -80,6 +80,107 @@ window.CHECKPOINT_CONTENT = {
         ["MOZA R5 official specifications","https://eu.mozaracing.com/products/r5-racing-bundle"]
       ]
     }
+
+    ,
+    {
+      slug:"moza-r3-vs-r5",
+      image:"assets/images/r3-vs-r5.svg",
+      category:"SIM RACING COMPARISON",
+      title:"MOZA R3 vs R5: Is 3.9 Nm Enough or Should You Start at 5.5 Nm?",
+      excerpt:"The two obvious entry points into MOZA direct drive compared for PC and Xbox buyers.",
+      score:"10 MIN",
+      art:"sim",
+      quick:"Choose the R3 when price, Xbox compatibility or a very compact first setup matters most. Choose the R5 when you are on PC and want noticeably more torque headroom without jumping to a larger mid-range base.",
+      body:`
+        <h2>The important difference</h2>
+        <p>The R3 is rated at 3.9 Nm peak torque, while the standard R5 is rated at 5.5 Nm. Both are direct-drive systems, so even the R3 avoids the gear-driven feel associated with older entry-level wheels.</p>
+        <h2>Platform support</h2>
+        <p>MOZA sells the R3 in both PC-only and officially licensed Xbox-and-PC versions. The standard R5 bundle is positioned as a PC product, so Xbox buyers should not assume the R5 is a drop-in upgrade.</p>
+        <h2>Who should buy the R3?</h2>
+        <p>It makes sense for a first desk-mounted setup, especially if you are unsure how deep you will go into sim racing. The bundle includes the base, wheel, two-pedal set and table clamp.</p>
+        <h2>Who should buy the R5?</h2>
+        <p>The extra torque gives more headroom for stronger steering forces and for retaining detail when force feedback is turned up. It is the better starting point for a PC buyer who already knows sim racing will be a long-term hobby.</p>
+        <h2>Verdict</h2>
+        <p>The R3 is the value-first entry point. The R5 is the stronger long-term PC buy when the budget allows.</p>`,
+      product:"MOZA R3 Racing Bundle",
+      productWhy:"The lower-cost direct-drive route, with an Xbox-compatible version available.",
+      affiliate_url:"https://uk.mozaracing.com/products/r3-racing-bundle-xbox",
+      sources:[["MOZA R3 UK","https://uk.mozaracing.com/products/r3-racing-bundle-xbox"],["MOZA R5 UK","https://uk.mozaracing.com/products/r5-racing-bundle"]]
+    },
+    {
+      slug:"moza-r5-vs-r5-pro",
+      image:"assets/images/r5-vs-r5pro.svg",
+      category:"SIM RACING COMPARISON",
+      title:"MOZA R5 vs R5 Pro: What Does the New 6 Nm Bundle Actually Improve?",
+      excerpt:"The newer R5 Pro adds more than half a Newton metre: the encoder and force-feedback generation also change.",
+      score:"11 MIN",
+      art:"sim",
+      quick:"The R5 Pro is the better buy when the price gap is modest. It moves from 5.5 Nm to 6 Nm, uses a 21-bit magnetic encoder and MOZA's newer NexGen 5.0 force-feedback system.",
+      body:`
+        <h2>R5 versus R5 Pro in one sentence</h2>
+        <p>The R5 Pro is an evolutionary update rather than a completely different class of wheelbase.</p>
+        <h2>Torque</h2>
+        <p>The standard R5 is rated at 5.5 Nm peak torque. The R5 Pro increases that to 6 Nm. That is not a dramatic leap by itself, but it adds a little more headroom before force-feedback clipping.</p>
+        <h2>Encoder and feedback system</h2>
+        <p>MOZA lists the standard R5 with a 15-bit encoder and NexGen 4.0 force feedback. The R5 Pro moves to a 21-bit magnetic encoder and NexGen 5.0.</p>
+        <h2>Bundle contents</h2>
+        <p>The R5 Pro bundle includes the compact 6 Nm base, ES Lite steering wheel and SR-P Lite2 pedals. It remains aimed at buyers who want a complete starter system rather than building a wheelbase, wheel and pedals separately.</p>
+        <h2>Verdict</h2>
+        <p>If the R5 is heavily discounted, it can still be the value choice. At similar pricing, the R5 Pro is the version to buy because the improvements are broader than the small torque increase suggests.</p>`,
+      product:"MOZA R5 Pro Racing Simulator",
+      productWhy:"The updated 6 Nm entry bundle with a higher-resolution encoder and newer feedback system.",
+      affiliate_url:"https://uk.mozaracing.com/products/r5-pro-bundle",
+      sources:[["MOZA R5 Pro UK","https://uk.mozaracing.com/products/r5-pro-bundle"],["MOZA R5 UK","https://uk.mozaracing.com/products/r5-racing-bundle"]]
+    },
+    {
+      slug:"moza-r9-v3-vs-r12-v2",
+      image:"assets/images/r9-vs-r12.svg",
+      category:"SIM RACING COMPARISON",
+      title:"MOZA R9 V3 vs R12 V2: Is 12 Nm Worth Paying More For?",
+      excerpt:"Nine Newton metres is already serious direct drive. Here is when moving to 12 Nm actually makes sense.",
+      score:"12 MIN",
+      art:"sim",
+      quick:"The R9 V3 is enough for most home rigs. Choose the R12 V2 if you use a rigid cockpit, want more dynamic range, run heavier wheels or simply prefer stronger forces with more clipping headroom.",
+      body:`
+        <h2>Torque class</h2>
+        <p>MOZA rates the R9 V3 at 9 Nm peak torque and the R12 V2 at 12 Nm. Both use 21-bit encoders and MOZA's NexGen 4.0 force-feedback platform.</p>
+        <h2>Why 9 Nm is already a lot</h2>
+        <p>For many home racers, 9 Nm is enough to produce convincing steering weight while leaving usable detail in the signal. It is also easier to live with on lighter cockpits.</p>
+        <h2>What 12 Nm buys you</h2>
+        <p>The benefit is not just stronger steering. Extra torque gives more headroom for sharp peaks and allows you to run heavier wheels without making the base feel muted.</p>
+        <h2>Rig requirements</h2>
+        <p>The more torque you buy, the more important chassis rigidity becomes. A wheelbase cannot deliver clean detail if the mounting plate and seat are flexing underneath you.</p>
+        <h2>Verdict</h2>
+        <p>R9 V3 for value and most home setups; R12 V2 for a more serious rigid rig where the extra headroom will actually be used.</p>`,
+      product:"MOZA R9 V3",
+      productWhy:"A strong mid-range sweet spot before torque and cockpit requirements escalate.",
+      affiliate_url:"https://uk.mozaracing.com/collections/racing-simulator-home",
+      sources:[["MOZA Racing UK wheel bases","https://uk.mozaracing.com/collections/racing-simulator-home"]]
+    },
+    {
+      slug:"fanatec-csl-dd-5nm-vs-8nm",
+      image:"assets/images/fanatec-5-vs-8.svg",
+      category:"SIM RACING COMPARISON",
+      title:"Fanatec CSL DD 5 Nm vs 8 Nm: Is the Boost Kit Worth It?",
+      excerpt:"Same core CSL DD base, very different torque headroom. Here is who should actually pay for 8 Nm.",
+      score:"10 MIN",
+      art:"sim",
+      quick:"If you already know you enjoy sim racing and have a solid mount, 8 Nm is the better long-term CSL DD setup. The 5 Nm version is still a sensible way to enter the ecosystem because the base can be upgraded later with Fanatec's Boost Kit 180.",
+      body:`
+        <h2>Same base, different power supply</h2>
+        <p>Fanatec's CSL DD QR2 base is rated at 5 Nm in standard form. The 8 Nm Ready2Race package includes the Boost Kit 180 power supply, unlocking the higher torque mode.</p>
+        <h2>What you feel at 8 Nm</h2>
+        <p>The main gain is headroom. Strong corners and sudden force-feedback peaks are less likely to flatten against the base's torque ceiling, so detail can remain more distinct at higher overall strength.</p>
+        <h2>When 5 Nm makes sense</h2>
+        <p>Choose 5 Nm when you want the lowest entry price, you are desk mounting, or you want to confirm that sim racing sticks before spending more.</p>
+        <h2>When to buy 8 Nm immediately</h2>
+        <p>If you have a rigid cockpit and expect to keep the base for years, buying the 8 Nm package avoids an early upgrade and better matches load-cell pedals and a more serious rig.</p>`,
+      product:"Fanatec CSL DD QR2 Ready2Race 8 Nm",
+      productWhy:"The higher-torque version of Fanatec's entry direct-drive ecosystem.",
+      affiliate_url:"https://www.fanatec.com/eu/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_eu/csl-dd-qr2-ready2race-bundle-pc-8-nm-eu",
+      sources:[["Fanatec CSL DD 8 Nm bundle","https://www.fanatec.com/eu/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_eu/csl-dd-qr2-ready2race-bundle-pc-8-nm-eu"]]
+    }
+
   ],
   guides: [
     {
@@ -170,5 +271,55 @@ window.CHECKPOINT_CONTENT = {
         ["Thrustmaster T300RS GT","https://www.thrustmaster.com/en-ie/products/t300rs-gt-edition/"]
       ]
     }
+    ,
+    {
+      slug:"load-cell-pedals-first-upgrade",
+      image:"assets/images/load-cell.svg",
+      category:"SIM RACING BUYING GUIDE",
+      title:"Why Load-Cell Pedals Should Usually Be Your First Serious Sim-Racing Upgrade",
+      excerpt:"More wheel torque is fun. Better braking is usually more useful.",
+      score:"11 MIN",
+      art:"sim",
+      quick:"If your wheel is already direct drive, improving the brake pedal often makes more sense than buying a stronger base. A load-cell brake measures force rather than simply pedal travel, which can make repeatable braking easier to learn.",
+      body:`
+        <h2>Why braking matters so much</h2>
+        <p>Lap time is often won or lost under braking. A load-cell system lets you build muscle memory around pressure, similar to the way a real car brake becomes increasingly resistant.</p>
+        <h2>Wheel torque versus pedal feel</h2>
+        <p>Moving from 5 Nm to 8 or 9 Nm improves steering strength and headroom. Moving from a basic position-based brake to a good load-cell pedal can change how consistently you hit the same braking point every lap.</p>
+        <h2>You need a rigid mount</h2>
+        <p>This upgrade only works properly if the pedals and seat stay put. Strong brake pressure on a sliding pedal set or rolling office chair becomes an exercise in furniture migration.</p>
+        <h2>Fanatec example</h2>
+        <p>Fanatec's CSL Elite Pedals V2 use a load-cell brake, Hall sensors and an all-metal pedal structure. They are a useful example of the type of upgrade to consider after a starter wheel-and-pedal bundle.</p>`,
+      product:"Fanatec CSL Elite Pedals V2",
+      productWhy:"A load-cell pedal upgrade with adjustable brake feel and metal construction.",
+      affiliate_url:"https://www.fanatec.com/eu/en/p/pedals/csl_ep_v2/csl-elite-pedals-v2",
+      sources:[["Fanatec CSL Elite Pedals V2","https://www.fanatec.com/eu/en/p/pedals/csl_ep_v2/csl-elite-pedals-v2"]]
+    },
+    {
+      slug:"best-direct-drive-wheel-under-500-uk",
+      image:"assets/images/best-dd-under-500.svg",
+      category:"SIM RACING BUYING GUIDE",
+      title:"Best Direct-Drive Sim Racing Options Under £500 in 2026",
+      excerpt:"The current entry-to-midrange sweet spot: MOZA R3, R5, R5 Pro and Fanatec CSL DD.",
+      score:"14 MIN",
+      art:"sim",
+      quick:"For the cheapest proper direct drive, start with MOZA R3. For PC value, the R5 and newer R5 Pro are stronger all-in-one options. Fanatec CSL DD remains attractive when its ecosystem and 8 Nm upgrade path matter to you.",
+      body:`
+        <h2>MOZA R3</h2>
+        <p>Rated at 3.9 Nm, the R3 is the low-cost direct-drive entry point. MOZA sells both PC and Xbox-and-PC versions, making it especially interesting for console buyers.</p>
+        <h2>MOZA R5</h2>
+        <p>The standard R5 raises peak torque to 5.5 Nm and remains a compact complete bundle for PC.</p>
+        <h2>MOZA R5 Pro</h2>
+        <p>The newer R5 Pro moves to 6 Nm, a 21-bit magnetic encoder and NexGen 5.0 force feedback. It is the one to watch when its price is close to the standard R5.</p>
+        <h2>Fanatec CSL DD</h2>
+        <p>The CSL DD starts at 5 Nm and can be taken to 8 Nm with the Boost Kit 180. Fanatec's ecosystem and platform licensing options are a major part of the buying decision.</p>
+        <h2>What we would prioritise</h2>
+        <p>Do not choose on torque alone. Check platform support, table-clamp requirements, pedal quality, wheel compatibility and the cost of the upgrades you are likely to want next.</p>`,
+      product:"MOZA R5 Pro Racing Simulator",
+      productWhy:"A strong current all-in-one PC option with 6 Nm and a newer encoder/feedback system.",
+      affiliate_url:"https://uk.mozaracing.com/products/r5-pro-bundle",
+      sources:[["MOZA R3 UK","https://uk.mozaracing.com/products/r3-racing-bundle-pc"],["MOZA R5 Pro UK","https://uk.mozaracing.com/products/r5-pro-bundle"],["Fanatec CSL DD 8 Nm","https://www.fanatec.com/eu/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_eu/csl-dd-qr2-ready2race-bundle-pc-8-nm-eu"]]
+    }
+
   ]
 };
