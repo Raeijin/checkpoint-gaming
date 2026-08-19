@@ -42,7 +42,16 @@ document.getElementById('productName').textContent = model.product || 'Related p
 document.getElementById('productWhy').textContent = model.productWhy || '';
 const affiliateBtn = document.getElementById('affiliateBtn');
 affiliateBtn.href = model.affiliate_url || '#';
-affiliateBtn.textContent = (model.affiliate_url || '').includes('amazon.co.uk') ? 'Check price on Amazon UK →' : 'View product →';
+const url = model.affiliate_url || '';
+if (url.includes('amazon.co.uk')) {
+  affiliateBtn.textContent = 'Check price on Amazon UK →';
+} else if (url.includes('uk.mozaracing.com')) {
+  affiliateBtn.textContent = 'View at MOZA UK →';
+} else if (url.includes('fanatec.com')) {
+  affiliateBtn.textContent = 'View at Fanatec →';
+} else {
+  affiliateBtn.textContent = 'View product →';
+}
 
 const productImage = document.getElementById('productImage');
 const placeholder = document.getElementById('productPlaceholder');

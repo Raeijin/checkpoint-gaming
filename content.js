@@ -104,8 +104,8 @@ window.CHECKPOINT_CONTENT = {
         <p>The R3 is the value-first entry point. The R5 is the stronger long-term PC buy when the budget allows.</p>`,
       product:"MOZA R3 Racing Bundle",
       productWhy:"The lower-cost direct-drive route, with an Xbox-compatible version available.",
-      affiliate_url:"https://uk.mozaracing.com/products/r3-racing-bundle-xbox",
-      sources:[["MOZA R3 UK","https://uk.mozaracing.com/products/r3-racing-bundle-xbox"],["MOZA R5 UK","https://uk.mozaracing.com/products/r5-racing-bundle"]]
+      affiliate_url:"https://uk.mozaracing.com/products/r3-racing-bundle-xbox?ref=AIDANKING",
+      sources:[["MOZA R3 UK","https://uk.mozaracing.com/products/r3-racing-bundle-xbox?ref=AIDANKING"],["MOZA R5 UK","https://uk.mozaracing.com/products/r5-racing-bundle?ref=AIDANKING"]]
     },
     {
       slug:"moza-r5-vs-r5-pro",
@@ -129,8 +129,8 @@ window.CHECKPOINT_CONTENT = {
         <p>If the R5 is heavily discounted, it can still be the value choice. At similar pricing, the R5 Pro is the version to buy because the improvements are broader than the small torque increase suggests.</p>`,
       product:"MOZA R5 Pro Racing Simulator",
       productWhy:"The updated 6 Nm entry bundle with a higher-resolution encoder and newer feedback system.",
-      affiliate_url:"https://uk.mozaracing.com/products/r5-pro-bundle",
-      sources:[["MOZA R5 Pro UK","https://uk.mozaracing.com/products/r5-pro-bundle"],["MOZA R5 UK","https://uk.mozaracing.com/products/r5-racing-bundle"]]
+      affiliate_url:"https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
+      sources:[["MOZA R5 Pro UK","https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING"],["MOZA R5 UK","https://uk.mozaracing.com/products/r5-racing-bundle?ref=AIDANKING"]]
     },
     {
       slug:"moza-r9-v3-vs-r12-v2",
@@ -154,8 +154,8 @@ window.CHECKPOINT_CONTENT = {
         <p>R9 V3 for value and most home setups; R12 V2 for a more serious rigid rig where the extra headroom will actually be used.</p>`,
       product:"MOZA R9 V3",
       productWhy:"A strong mid-range sweet spot before torque and cockpit requirements escalate.",
-      affiliate_url:"https://uk.mozaracing.com/collections/racing-simulator-home",
-      sources:[["MOZA Racing UK wheel bases","https://uk.mozaracing.com/collections/racing-simulator-home"]]
+      affiliate_url:"https://uk.mozaracing.com/collections/racing-simulator-home?ref=AIDANKING",
+      sources:[["MOZA Racing UK wheel bases","https://uk.mozaracing.com/collections/racing-simulator-home?ref=AIDANKING"]]
     },
     {
       slug:"fanatec-csl-dd-5nm-vs-8nm",
@@ -317,8 +317,8 @@ window.CHECKPOINT_CONTENT = {
         <p>Do not choose on torque alone. Check platform support, table-clamp requirements, pedal quality, wheel compatibility and the cost of the upgrades you are likely to want next.</p>`,
       product:"MOZA R5 Pro Racing Simulator",
       productWhy:"A strong current all-in-one PC option with 6 Nm and a newer encoder/feedback system.",
-      affiliate_url:"https://uk.mozaracing.com/products/r5-pro-bundle",
-      sources:[["MOZA R3 UK","https://uk.mozaracing.com/products/r3-racing-bundle-pc"],["MOZA R5 Pro UK","https://uk.mozaracing.com/products/r5-pro-bundle"],["Fanatec CSL DD 8 Nm","https://www.fanatec.com/eu/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_eu/csl-dd-qr2-ready2race-bundle-pc-8-nm-eu"]]
+      affiliate_url:"https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
+      sources:[["MOZA R3 UK","https://uk.mozaracing.com/products/r3-racing-bundle-pc?ref=AIDANKING"],["MOZA R5 Pro UK","https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING"],["Fanatec CSL DD 8 Nm","https://www.fanatec.com/eu/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_eu/csl-dd-qr2-ready2race-bundle-pc-8-nm-eu"]]
     }
 
   ]

@@ -16,3 +16,10 @@ After approval, replace normal Fanatec URLs in content.js with Impact tracking l
 Keep the existing Amazon tracking ID and SiteStripe workflow for Amazon-listed products.
 
 Do not claim hands-on testing unless the product was actually tested.
+
+
+## MOZA tracking installed
+MOZA UK referral ID: `AIDANKING`
+
+Current MOZA UK article links in `content.js` now preserve the referral parameter:
+`ref=AIDANKING`
