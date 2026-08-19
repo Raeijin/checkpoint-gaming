@@ -32,8 +32,9 @@ document.getElementById('quickText').textContent = model.quick || '';
 document.getElementById('main').innerHTML = model.body || '<h2>Main guide</h2>';
 
 const hero = document.getElementById('articleHeroImage');
-if (model.image) {
-  hero.src = model.image;
+const heroImage = model.productImage || model.image;
+if (heroImage) {
+  hero.src = heroImage;
   hero.alt = model.title;
   hero.hidden = false;
 }

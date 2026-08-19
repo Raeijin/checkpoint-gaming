@@ -73,3 +73,7 @@ linear-gradient(180deg,#0b0f16,#07090d)}
 .reader-note{margin:32px 0;padding:18px 20px;border:1px solid var(--line);border-radius:14px;background:rgba(255,255,255,.025)}
 .reader-note strong{display:block;margin-bottom:6px}
 .reader-note p{margin:0;color:var(--muted)}
+
+/* Prefer clean presentation for real product photography */
+.card-image{object-fit:contain;background:#fff;padding:12px}
+.article-hero-image{object-fit:contain;background:#fff;padding:18px}
