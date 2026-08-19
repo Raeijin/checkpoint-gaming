@@ -32,3 +32,7 @@ Replace it later with:
 - images supplied by an affiliate programme/API under its terms
 
 Do not simply download random copyrighted product photos from retailer pages.
+
+
+## Deployment asset version
+Current cache-busting version: `20260819-3`

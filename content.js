@@ -247,7 +247,6 @@ window.CHECKPOINT_CONTENT = {
     {
       slug:"beginner-sim-racing-setup-2026",
       image:"assets/images/beginner-sim-setup.svg",
-      productImage:"https://uk.mozaracing.com/cdn/shop/files/R5_fd3a8598-4f5f-474c-bfd5-50793e2c417d.png?v=1752746491&width=1031",
       category:"SIM RACING BUYING GUIDE",
       title:"Beginner Sim Racing Setup 2026: Where To Spend Your Money First",
       excerpt:"Wheel, pedals, desk or cockpit, monitor and upgrade path—in the order that actually matters.",
@@ -302,7 +301,6 @@ window.CHECKPOINT_CONTENT = {
     {
       slug:"best-direct-drive-wheel-under-500-uk",
       image:"assets/images/best-dd-under-500.svg",
-      productImage:"https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=1200",
       category:"SIM RACING BUYING GUIDE",
       title:"Best Direct-Drive Sim Racing Options Under £500 in 2026",
       excerpt:"The current entry-to-midrange sweet spot: MOZA R3, R5, R5 Pro and Fanatec CSL DD.",
