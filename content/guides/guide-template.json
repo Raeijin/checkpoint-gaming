@@ -1,0 +1,24 @@
+{
+  "title": "Example New Game: Beginner Guide",
+  "slug": "example-new-game-beginner-guide",
+  "category": "BEGINNER GUIDE",
+  "summary": "One-sentence description shown on the homepage.",
+  "sections": [
+    {
+      "heading": "What to do first",
+      "body": "Write the exact opening route here."
+    },
+    {
+      "heading": "Best early upgrades",
+      "body": "Explain the upgrade order and why."
+    },
+    {
+      "heading": "Things you can miss",
+      "body": "List important missables."
+    },
+    {
+      "heading": "Boss preparation",
+      "body": "Give gear, level and tactics."
+    }
+  ]
+}

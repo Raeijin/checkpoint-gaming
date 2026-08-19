@@ -1,0 +1,29 @@
+{
+  "title": "Example Product Review",
+  "slug": "example-product-review",
+  "category": "REVIEW",
+  "affiliate_url": "PASTE-YOUR-AFFILIATE-LINK-HERE",
+  "tested_by_us": false,
+  "sections": [
+    {
+      "heading": "Who it is for",
+      "body": "Define the buyer."
+    },
+    {
+      "heading": "Key specs",
+      "body": "Use verified manufacturer specifications."
+    },
+    {
+      "heading": "What is good",
+      "body": "Specific strengths."
+    },
+    {
+      "heading": "What is not",
+      "body": "Specific weaknesses."
+    },
+    {
+      "heading": "Alternatives",
+      "body": "Compare against direct rivals."
+    }
+  ]
+}

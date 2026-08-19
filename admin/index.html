@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Checkpoint Admin</title>
+<link rel="stylesheet" href="../styles.css">
+<style>
+.admin-shell{max-width:1100px;margin:0 auto;padding:38px 18px 80px}
+.admin-head{display:flex;justify-content:space-between;gap:20px;align-items:center;margin-bottom:30px}
+.admin-head h1{font-size:38px;margin:0}.admin-head p{color:var(--muted);margin:3px 0 0}
+.admin-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.admin-card{border:1px solid var(--line);background:var(--panel);border-radius:18px;padding:22px}
+label{display:block;font-size:12px;font-weight:800;margin:14px 0 6px;color:#c9d2dc}
+input,select,textarea{width:100%;background:#080c12;color:#fff;border:1px solid var(--line);border-radius:10px;padding:11px 12px;font:inherit}
+textarea{min-height:115px;resize:vertical}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}
+button{cursor:pointer}.muted-btn{background:#111720;color:#fff;border:1px solid var(--line)}
+.preview{min-height:520px}.preview h2{font-size:32px;line-height:1.05}.preview .preview-body{color:#c4ccd5;white-space:pre-wrap}
+.draft-item{border-top:1px solid var(--line);padding:12px 0;display:flex;justify-content:space-between;gap:12px}.draft-item small{color:var(--muted)}
+.help{margin-top:20px;border-left:3px solid var(--green);padding:14px 16px;background:#0d1415;border-radius:10px;color:#c6d0d8}
+code{background:#080c12;padding:2px 5px;border-radius:5px}
+@media(max-width:800px){.admin-grid{grid-template-columns:1fr}.row{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="topbar">
+ <div class="wrap nav">
+  <a class="logo" href="../index.html"><span class="logo-mark">C</span><span>CHECKPOINT</span></a>
+  <nav><a href="../index.html">View site</a></nav>
+ </div>
+</header>
+
+<main class="admin-shell">
+ <div class="admin-head">
+  <div><span class="kicker">CONTENT MANAGER</span><h1>New article</h1><p>Create a guide or product article, save a draft and export it for publishing.</p></div>
+ </div>
+
+ <div class="admin-grid">
+  <section class="admin-card">
+   <div class="row">
+    <div><label>Content type</label><select id="type"><option value="guide">Game Guide</option><option value="review">Product Review</option><option value="buying">Buying Guide</option><option value="comparison">Comparison</option></select></div>
+    <div><label>Category label</label><input id="category" value="BEGINNER GUIDE"></div>
+   </div>
+   <label>Article title</label><input id="title" placeholder="e.g. Resident Evil: 12 Things To Do First">
+   <label>Short homepage summary</label><textarea id="excerpt" placeholder="One or two sentences that make someone want to click."></textarea>
+   <div class="row">
+    <div><label>Score / read time</label><input id="score" placeholder="e.g. 9.2 or 10 MIN"></div>
+    <div><label>Slug</label><input id="slug" placeholder="auto-created-from-title"></div>
+   </div>
+   <label>Quick answer</label><textarea id="quick" placeholder="Give the reader the useful answer immediately."></textarea>
+   <label>Main article</label><textarea id="body" style="min-height:260px" placeholder="Write the article here. Simple paragraphs and headings are fine."></textarea>
+   <label>Affiliate product name (optional)</label><input id="product" placeholder="e.g. MOZA R5 Bundle">
+   <label>Affiliate URL (optional)</label><input id="affiliate" placeholder="https://...">
+   <div class="actions">
+    <button class="btn primary" id="saveDraft">Save draft</button>
+    <button class="btn muted-btn" id="exportJson">Export article</button>
+    <button class="btn muted-btn" id="clearForm">Clear</button>
+   </div>
+   <div class="help"><strong>For now:</strong> export the finished article as JSON and add it to the site repository. The next version can connect this screen directly to GitHub so “Publish” commits it automatically.</div>
+  </section>
+
+  <section>
+   <div class="admin-card preview">
+    <span id="pCategory" class="pill">BEGINNER GUIDE</span>
+    <h2 id="pTitle">Your article title</h2>
+    <p id="pExcerpt" style="color:var(--muted)">Your homepage summary will appear here.</p>
+    <div class="callout"><strong>Quick answer</strong><p id="pQuick">Your direct answer appears here.</p></div>
+    <h3>Main article</h3>
+    <div id="pBody" class="preview-body">Start writing on the left to preview it here.</div>
+    <div id="pProductBox" class="product-box" style="margin-top:25px;display:none">
+      <div class="product-thumb">PRODUCT</div>
+      <div><span class="pill">AFFILIATE</span><h3 id="pProduct"></h3><a class="btn primary" href="#">Check price →</a></div>
+    </div>
+   </div>
+   <div class="admin-card" style="margin-top:20px">
+    <h3>Saved drafts</h3><div id="drafts"></div>
+   </div>
+  </section>
+ </div>
+</main>
+<script src="admin.js"></script>
+</body></html>
