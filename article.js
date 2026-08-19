@@ -22,13 +22,6 @@ let model = item || {
 };
 
 document.title = model.title + ' — Checkpoint';
-let metaDescription = document.querySelector('meta[name="description"]');
-if (!metaDescription) {
-  metaDescription = document.createElement('meta');
-  metaDescription.name = 'description';
-  document.head.appendChild(metaDescription);
-}
-metaDescription.content = model.excerpt || model.quick || '';
 document.getElementById('crumbType').textContent = model.category;
 document.getElementById('articleTag').textContent = model.category;
 document.getElementById('articleTitle').textContent = model.title;
@@ -83,37 +76,14 @@ if (model.hideProduct || !model.affiliate_url || model.affiliate_url === '#') {
   if (pickToc) pickToc.hidden = true;
 }
 
-
-// Related articles: keep readers moving through the same topic cluster.
 const relatedGrid = document.getElementById('relatedGrid');
-const isSim = (x) => (x.category || '').toUpperCase().includes('SIM RACING');
-const isGame = (x) => (x.category || '').toUpperCase().includes('GUIDE') &&
-                      !(x.category || '').toUpperCase().includes('SIM RACING');
-let candidates = all.filter(x => x.slug !== model.slug);
-
-if (isSim(model)) {
-  const simMatches = candidates.filter(isSim);
-  const rest = candidates.filter(x => !isSim(x));
-  candidates = [...simMatches, ...rest];
-} else if ((model.category || '').includes('GUIDE') && kind === 'game') {
-  const gameMatches = (window.CHECKPOINT_CONTENT.gameGuides || []).filter(x => x.slug !== model.slug);
-  candidates = [...gameMatches, ...candidates.filter(x => !gameMatches.includes(x))];
-}
-
-const related = candidates.slice(0, 3);
-if (relatedGrid && related.length) {
+const simTopic = x => (x.category || '').toUpperCase().includes('SIM RACING');
+const candidates = all.filter(x => x.slug !== model.slug);
+const related = [...candidates.filter(x => simTopic(x) === simTopic(model)), ...candidates.filter(x => simTopic(x) !== simTopic(model))].slice(0,3);
+if (relatedGrid) {
   relatedGrid.innerHTML = related.map(x => `
     <a class="related-card" href="article.html?slug=${x.slug}">
-      <div class="related-thumb">
-        ${(x.heroImages?.[0] || x.productImage || x.image) ? `<img src="${x.heroImages?.[0] || x.productImage || x.image}" alt="">` : ''}
-      </div>
-      <div>
-        <span class="pill">${x.category}</span>
-        <h3>${x.title}</h3>
-        <span class="more">Read next →</span>
-      </div>
-    </a>
-  `).join('');
-} else {
-  document.getElementById('related')?.remove();
+      <div class="related-thumb">${(x.heroImages?.[0] || x.productImage || x.image) ? `<img src="${x.heroImages?.[0] || x.productImage || x.image}" alt="">` : ''}</div>
+      <div><span class="pill">${x.category}</span><h3>${x.title}</h3><span class="more">Read next →</span></div>
+    </a>`).join('');
 }

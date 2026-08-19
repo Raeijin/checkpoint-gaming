@@ -188,9 +188,7 @@ window.CHECKPOINT_CONTENT = {
       affiliate_url:"https://www.fanatec.com/eu/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_eu/csl-dd-qr2-ready2race-bundle-pc-8-nm-eu",
       sources:[["Fanatec CSL DD 8 Nm bundle","https://www.fanatec.com/eu/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_eu/csl-dd-qr2-ready2race-bundle-pc-8-nm-eu"]]
     }
-
-
-    ,
+,
     {
       slug:"moza-srp2-vs-crp2",
       image:"assets/images/load-cell.svg",
@@ -198,26 +196,15 @@ window.CHECKPOINT_CONTENT = {
       heroImages:["https://uk.mozaracing.com/cdn/shop/files/MOZA_SRP2_Pedals_Throttle_Brake_-1_ea85807a-cb31-4048-b3cf-e59ceeb13e65.png?v=1774429530&width=2000","https://uk.mozaracing.com/cdn/shop/files/MOZA_CRP2_Load_Cell_Pedals.webp?v=1767606128&width=1000"],
       category:"SIM RACING COMPARISON",
       title:"MOZA SRP2 vs CRP2: Which Load-Cell Pedals Make More Sense?",
-      excerpt:"MOZA's £139 SRP2 and higher-end CRP2 compared on load-cell range, materials, adjustability and who should actually spend more.",
+      excerpt:"MOZA's SRP2 and higher-end CRP2 compared on load-cell range, materials, adjustability and who should actually spend more.",
       score:"12 MIN",
       art:"sim",
-      quick:"For most first serious pedal upgrades, the SRP2 is the value pick: 100 kg load cell, 15-bit angle sensing and broad adjustment for much less money. The CRP2 is for a more serious rigid rig where its 200 kg load cell, aluminum construction, carbon-fiber heel plate and much deeper tuning range will actually be used.",
-      body:`
-        <h2>The biggest difference is not just the number on the load cell</h2>
-        <p>The SRP2 uses a 100 kg load cell paired with a 15-bit angle sensor. The CRP2 doubles the quoted load-cell range to 200 kg while keeping 15-bit angle sensing, but it also moves to more premium materials and much broader mechanical adjustment.</p>
-        <h2>SRP2: the sensible upgrade</h2>
-        <p>The SRP2 is built from high-strength steel and supports angle, spacing and height adjustment. MOZA also uses a hybrid angle-and-load-cell sensing system, and the standard elastomer setup can be expanded with an optional performance kit.</p>
-        <h2>CRP2: for a rigid cockpit</h2>
-        <p>The CRP2 uses aerospace-grade aluminum pedal bodies, a carbon-fiber heel plate and a 200 kg load cell. The brake, throttle and clutch geometry can be tuned much more extensively, and MOZA supports optional inverted mounting.</p>
-        <h2>Which should you buy?</h2>
-        <p>Choose SRP2 if you are moving beyond starter pedals and want the biggest improvement per pound. Choose CRP2 if the rest of your rig is already serious enough that pedal construction, adjustability and very high brake-force headroom matter.</p>`,
+      quick:"For most first serious pedal upgrades, the SRP2 is the value pick. The CRP2 is for a more serious rigid rig where its premium construction and deeper tuning range will actually be used.",
+      body:`<h2>Which makes more sense?</h2><p>The SRP2 is the easier first serious pedal upgrade for most buyers. The CRP2 is aimed at rigs where premium construction and deeper adjustment are worth paying for.</p><h2>Who should buy SRP2?</h2><p>Buy it when you want a meaningful braking upgrade without immediately jumping to flagship-pedal pricing.</p><h2>Who should buy CRP2?</h2><p>Buy it when the rest of your cockpit is already strong enough to take advantage of a higher-end pedal set.</p>`,
       product:"MOZA SRP2 Pedals",
       productWhy:"The more sensible first load-cell upgrade for most MOZA and mixed-brand PC setups.",
       affiliate_url:"https://uk.mozaracing.com/products/srp2-pedals?ref=AIDANKING",
-      sources:[
-        ["MOZA SRP2 official product page","https://uk.mozaracing.com/products/srp2-pedals"],
-        ["MOZA CRP2 official product page","https://uk.mozaracing.com/products/crp2-pedals"]
-      ]
+      sources:[["MOZA SRP2 official product page","https://uk.mozaracing.com/products/srp2-pedals"],["MOZA CRP2 official product page","https://uk.mozaracing.com/products/crp2-pedals"]]
     },
     {
       slug:"moza-hgp-shifter-review",
@@ -225,22 +212,12 @@ window.CHECKPOINT_CONTENT = {
       productImage:"https://uk.mozaracing.com/cdn/shop/files/MOZA-HGP-Shifter-1-update_4494227f-8eb6-48fc-b28a-75084a963a67.webp?v=1752746553&width=1000",
       heroImages:["https://uk.mozaracing.com/cdn/shop/files/MOZA-HGP-Shifter-1-update_4494227f-8eb6-48fc-b28a-75084a963a67.webp?v=1752746553&width=1000"],
       category:"RESEARCHED SIM RACING REVIEW",
-      title:"MOZA HGP Shifter Review: Is the 7+R H-Pattern Worth Adding to Your Rig?",
-      excerpt:"A researched look at MOZA's aluminum H-pattern shifter, its 7+R layout, mounting needs and who will actually benefit from one.",
+      title:"MOZA HGP Shifter Review: Is the H-Pattern Worth Adding to Your Rig?",
+      excerpt:"A researched look at MOZA's H-pattern shifter, mounting needs and who will actually benefit from one.",
       score:"9 MIN",
       art:"sim",
-      quick:"The HGP makes the most sense for people who actually drive manual road cars, historic racers, rally cars or truck sims. If nearly everything you race uses paddles, pedals or a better wheel should come first.",
-      body:`
-        <h2>What it is</h2>
-        <p>The HGP is an H-pattern shifter with seven forward gears plus reverse. MOZA machines the housing from anodized aviation-grade aluminum and lists a net weight of 1.8 kg.</p>
-        <h2>The useful feature people overlook</h2>
-        <p>MOZA includes an intelligent downshift system that can add throttle blips during downshifts. It is configurable in Pit House, so it can make manual driving easier while you are learning heel-and-toe technique.</p>
-        <h2>Who should buy it?</h2>
-        <p>It adds a lot to classic touring cars, road cars, rally, vintage racing and truck simulators. It adds much less to modern GT or formula racing where paddle shifting is already the authentic control method.</p>
-        <h2>Mounting matters</h2>
-        <p>A shifter is only satisfying if it is firmly mounted. The HGP uses M6 threaded mounting holes, so budget for a proper rig mount or table-mount solution if your current setup has nowhere rigid to put it.</p>
-        <h2>Verdict</h2>
-        <p>It is a fun, purpose-specific upgrade rather than a universal must-buy. Get pedals and a solid wheel setup sorted first; then add the HGP when the cars you enjoy actually justify it.</p>`,
+      quick:"The HGP makes the most sense for people who actually drive manual road cars, historic racers, rally cars or truck sims.",
+      body:`<h2>What it adds</h2><p>An H-pattern shifter adds a lot to classic touring cars, road cars, rally, vintage racing and truck simulators.</p><h2>Who should buy it?</h2><p>It is a purpose-specific upgrade rather than a universal must-buy. Get pedals and a solid wheel setup sorted first.</p><h2>Mounting matters</h2><p>A shifter is only satisfying if it is firmly mounted, so include mounting in the real cost.</p>`,
       product:"MOZA HGP Shifter",
       productWhy:"Best for manual-car, historic-racing, rally and truck-sim setups where an H-pattern shifter adds real value.",
       affiliate_url:"https://uk.mozaracing.com/products/hgp-shifter?ref=AIDANKING",
@@ -253,25 +230,16 @@ window.CHECKPOINT_CONTENT = {
       heroImages:["https://uk.mozaracing.com/cdn/shop/files/MOZA-HBP-Handbrake-1.webp?v=1767606077&width=1000"],
       category:"RESEARCHED SIM RACING REVIEW",
       title:"MOZA HBP Handbrake Review: Worth It for Rally and Drifting?",
-      excerpt:"A focused look at MOZA's adjustable aluminum USB handbrake and whether it deserves space on a compact sim rig.",
+      excerpt:"A focused look at MOZA's adjustable handbrake and whether it deserves space on a compact sim rig.",
       score:"8 MIN",
       art:"sim",
-      quick:"The HBP is worth considering if rally, drifting or handbrake-heavy driving is a meaningful part of what you play. For circuit racing, it is a low-priority accessory compared with better pedals, a stronger wheelbase or a rigid cockpit.",
-      body:`
-        <h2>What the HBP offers</h2>
-        <p>MOZA uses an aluminum body and a non-contact 16-bit angle sensor. Resistance, lever travel and stop position are adjustable, and the lever can be mounted in different orientations.</p>
-        <h2>Why that matters for rally and drifting</h2>
-        <p>A progressive analog handbrake gives you far more control than mapping the handbrake to a binary button. That matters when you want to rotate the car without instantly locking the rear wheels at full input.</p>
-        <h2>Desk users need to think about mounting</h2>
-        <p>The handbrake is designed to be mounted. MOZA sells mounting hardware for rigs and desk setups, so include that in the real cost if you do not already have a suitable plate.</p>
-        <h2>Who should skip it?</h2>
-        <p>If your time is mostly spent in GT3, formula or prototype cars, you will get more value from pedals, seating position or display upgrades. This is a specialist control, and that is fine.</p>`,
+      quick:"The HBP is worth considering if rally, drifting or handbrake-heavy driving is a meaningful part of what you play.",
+      body:`<h2>Why an analog handbrake matters</h2><p>A progressive handbrake gives you more control than mapping the handbrake to a simple on/off button.</p><h2>Mounting matters</h2><p>The handbrake needs to be mounted firmly. Include mounting hardware in the real cost if you do not already have a suitable plate.</p><h2>Who should skip it?</h2><p>If your time is mostly spent in GT3, formula or prototype cars, pedals or cockpit upgrades should come first.</p>`,
       product:"MOZA HBP Handbrake",
       productWhy:"A useful analog upgrade for rally, drifting and other cars where handbrake modulation matters.",
       affiliate_url:"https://uk.mozaracing.com/products/hbp-handbrake?ref=AIDANKING",
       sources:[["MOZA HBP official product page","https://uk.mozaracing.com/products/hbp-handbrake"]]
     }
-
   ],
   guides: [
     {
@@ -415,7 +383,24 @@ window.CHECKPOINT_CONTENT = {
       affiliate_url:"https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
       sources:[["MOZA R3 UK","https://uk.mozaracing.com/products/r3-racing-bundle-pc?ref=AIDANKING"],["MOZA R5 Pro UK","https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING"],["Fanatec CSL DD 8 Nm","https://www.fanatec.com/eu/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_eu/csl-dd-qr2-ready2race-bundle-pc-8-nm-eu"]]
     }
-
+,
+    {
+      slug:"best-upgrades-for-moza-r5-r5-pro",
+      image:"assets/images/beginner-sim-setup.svg",
+      productImage:"https://uk.mozaracing.com/cdn/shop/files/MOZA_SRP2_Pedals_Throttle_Brake_-1_ea85807a-cb31-4048-b3cf-e59ceeb13e65.png?v=1774429530&width=2000",
+      heroImages:["https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000","https://uk.mozaracing.com/cdn/shop/files/MOZA_SRP2_Pedals_Throttle_Brake_-1_ea85807a-cb31-4048-b3cf-e59ceeb13e65.png?v=1774429530&width=2000","https://uk.mozaracing.com/cdn/shop/files/MOZA-HGP-Shifter-1-update_4494227f-8eb6-48fc-b28a-75084a963a67.webp?v=1752746553&width=1000"],
+      category:"SIM RACING BUYING GUIDE",
+      title:"Best Upgrades for a MOZA R5 or R5 Pro Setup: What to Buy First",
+      excerpt:"Pedals, rig, wheel, shifter or handbrake? A sensible upgrade order for getting more from an R5-class setup.",
+      score:"13 MIN",
+      art:"sim",
+      quick:"For most R5 and R5 Pro owners, upgrade stability and braking first. Add a shifter or handbrake only when the cars you drive actually use them.",
+      body:`<h2>1. Make the setup stop moving</h2><p>Before buying more torque, make sure the wheel and pedals are mounted securely.</p><h2>2. Upgrade the brake pedal</h2><p>A load-cell pedal set is a logical next step because it makes braking more about repeatable pressure than pedal travel.</p><h2>3. Add car-specific controls</h2><p>An H-pattern shifter is excellent for manual road cars and historic racing. An analog handbrake is excellent for rally and drifting.</p><h2>4. Only then think about more wheelbase</h2><p>More torque can be worthwhile later, but it makes more sense once the cockpit and pedals are good enough to support it.</p>`,
+      product:"MOZA SRP2 Pedals",
+      productWhy:"For most R5-class owners, a load-cell brake is the highest-value functional upgrade after getting the rig stable.",
+      affiliate_url:"https://uk.mozaracing.com/products/srp2-pedals?ref=AIDANKING",
+      sources:[["MOZA SRP2 official product page","https://uk.mozaracing.com/products/srp2-pedals"],["MOZA HGP official product page","https://uk.mozaracing.com/products/hgp-shifter"],["MOZA HBP official product page","https://uk.mozaracing.com/products/hbp-handbrake"]]
+    }
   ]
   ,
   gameGuides: [
@@ -506,37 +491,3 @@ window.CHECKPOINT_CONTENT = {
   ]
 
 };
-    ,
-    {
-      slug:"best-upgrades-for-moza-r5-r5-pro",
-      image:"assets/images/beginner-sim-setup.svg",
-      productImage:"https://uk.mozaracing.com/cdn/shop/files/MOZA_SRP2_Pedals_Throttle_Brake_-1_ea85807a-cb31-4048-b3cf-e59ceeb13e65.png?v=1774429530&width=2000",
-      heroImages:["https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000","https://uk.mozaracing.com/cdn/shop/files/MOZA_SRP2_Pedals_Throttle_Brake_-1_ea85807a-cb31-4048-b3cf-e59ceeb13e65.png?v=1774429530&width=2000","https://uk.mozaracing.com/cdn/shop/files/MOZA-HGP-Shifter-1-update_4494227f-8eb6-48fc-b28a-75084a963a67.webp?v=1752746553&width=1000"],
-      category:"SIM RACING BUYING GUIDE",
-      title:"Best Upgrades for a MOZA R5 or R5 Pro Setup: What to Buy First",
-      excerpt:"Pedals, rig, wheel, shifter or handbrake? A sensible upgrade order for getting more from an R5-class setup without buying random accessories.",
-      score:"13 MIN",
-      art:"sim",
-      quick:"For most R5 and R5 Pro owners, upgrade stability and braking first. A rigid mount and load-cell pedals usually improve consistency more than immediately replacing a 5.5–6 Nm wheelbase. Add a shifter or handbrake only when the cars you drive actually use them.",
-      body:`
-        <h2>1. Make the setup stop moving</h2>
-        <p>Before buying more torque, make sure the wheel and pedals are mounted securely. Flex and sliding erase detail and make consistent braking harder.</p>
-        <h2>2. Upgrade the brake pedal</h2>
-        <p>The SRP2 is a logical step up because it uses a 100 kg load cell and 15-bit angle sensing. If you already have a strong cockpit and want a more premium pedal set, the CRP2 moves to a 200 kg load cell with significantly more adjustment.</p>
-        <h2>3. Add car-specific controls</h2>
-        <p>An H-pattern shifter is excellent for manual road cars and historic racing. An analog handbrake is excellent for rally and drifting. Neither is particularly urgent if you mostly drive modern paddle-shift race cars.</p>
-        <h2>4. Only then think about more wheelbase</h2>
-        <p>An R5 or R5 Pro already gives you direct drive. Moving to 9 or 12 Nm can be worthwhile later, but stronger feedback makes much more sense once the cockpit and pedals are good enough to support it.</p>
-        <h2>Our upgrade order</h2>
-        <p><strong>Rigid mounting → load-cell pedals → car-specific controls → stronger wheelbase.</strong> It is not as exciting as buying the biggest motor first, but it usually produces a better overall rig.</p>`,
-      product:"MOZA SRP2 Pedals",
-      productWhy:"For most R5-class owners, a load-cell brake is the highest-value functional upgrade after getting the rig stable.",
-      affiliate_url:"https://uk.mozaracing.com/products/srp2-pedals?ref=AIDANKING",
-      sources:[
-        ["MOZA SRP2 official product page","https://uk.mozaracing.com/products/srp2-pedals"],
-        ["MOZA CRP2 official product page","https://uk.mozaracing.com/products/crp2-pedals"],
-        ["MOZA HGP official product page","https://uk.mozaracing.com/products/hgp-shifter"],
-        ["MOZA HBP official product page","https://uk.mozaracing.com/products/hbp-handbrake"]
-      ]
-    }
-
