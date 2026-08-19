@@ -18,3 +18,17 @@ Use `admin/index.html` to draft, preview, save and export reviews, buying guides
 
 ## Security
 Never put passwords, Amazon credentials, GitHub access tokens or private API keys in this public repository.
+
+
+## Product images
+Each content item can now have an `image` field.
+Use local files such as:
+`assets/images/my-product.jpg`
+
+The current SVG artwork is original illustrative placeholder art, not manufacturer photography.
+Replace it later with:
+- your own product photos
+- manufacturer press/media assets you have permission to use
+- images supplied by an affiliate programme/API under its terms
+
+Do not simply download random copyrighted product photos from retailer pages.

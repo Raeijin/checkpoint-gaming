@@ -2,6 +2,7 @@ window.CHECKPOINT_CONTENT = {
   reviews: [
     {
       slug:"asus-vy279hgr-review",
+      image:"assets/images/asus-vy279hgr.svg",
       category:"RESEARCHED MONITOR REVIEW",
       title:"ASUS VY279HGR Review: A Cheap 27-inch Gaming Monitor That Makes Sense at the Right Price",
       excerpt:"A 27-inch 1080p IPS display with up to 120Hz, Adaptive-Sync and a very low entry price. Good for casual gaming; less convincing for sharp desktop work.",
@@ -28,6 +29,7 @@ window.CHECKPOINT_CONTENT = {
     },
     {
       slug:"moza-r5-vs-fanatec-csl-dd",
+      image:"assets/images/moza-vs-fanatec.svg",
       category:"SIM RACING COMPARISON",
       title:"MOZA R5 vs Fanatec CSL DD 5 Nm: Which Beginner Direct-Drive Bundle Is Better?",
       excerpt:"Two of the most obvious first direct-drive setups compared on torque, pedals, ecosystem, upgrade path and platform support.",
@@ -55,6 +57,7 @@ window.CHECKPOINT_CONTENT = {
     },
     {
       slug:"logitech-g923-vs-direct-drive",
+      image:"assets/images/logitech-vs-dd.svg",
       category:"SIM RACING BUYING GUIDE",
       title:"Logitech G923 vs Direct Drive: Is It Still Worth Buying a Gear-Driven Wheel?",
       excerpt:"The G923 is easy to buy and widely compatible, but entry-level direct drive has changed the value equation.",
@@ -81,6 +84,7 @@ window.CHECKPOINT_CONTENT = {
   guides: [
     {
       slug:"best-budget-gaming-monitors-uk",
+      image:"assets/images/budget-monitors.svg",
       category:"MONITOR BUYING GUIDE",
       title:"Best Budget Gaming Monitor Upgrades: What To Buy Before You Waste Money",
       excerpt:"Start with resolution, refresh rate and GPU capability—not marketing badges. Here's how to choose a sensible budget gaming display.",
@@ -109,6 +113,7 @@ window.CHECKPOINT_CONTENT = {
     },
     {
       slug:"best-monitor-for-sim-racing",
+      image:"assets/images/sim-monitor.svg",
       category:"SIM RACING MONITOR GUIDE",
       title:"Best Monitor Type for Sim Racing: Single Screen, Ultrawide or Triple?",
       excerpt:"The right sim display depends more on field of view, rig space and GPU load than on headline refresh rate.",
@@ -137,6 +142,7 @@ window.CHECKPOINT_CONTENT = {
     },
     {
       slug:"beginner-sim-racing-setup-2026",
+      image:"assets/images/beginner-sim-setup.svg",
       category:"SIM RACING BUYING GUIDE",
       title:"Beginner Sim Racing Setup 2026: Where To Spend Your Money First",
       excerpt:"Wheel, pedals, desk or cockpit, monitor and upgrade path—in the order that actually matters.",

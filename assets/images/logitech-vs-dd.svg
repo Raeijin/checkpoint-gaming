@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#080b10"/><circle cx="350" cy="340" r="200" fill="none" stroke="#546273" stroke-width="50"/><circle cx="350" cy="340" r="70" fill="#19212c"/><path d="M350 270V145M300 385L215 500M400 385L485 500" stroke="#3c4858" stroke-width="28" stroke-linecap="round"/>
+<circle cx="850" cy="340" r="200" fill="none" stroke="#6fffc3" stroke-width="50"/><circle cx="850" cy="340" r="70" fill="#14221d"/><path d="M850 270V145M800 385L715 500M900 385L985 500" stroke="#48596b" stroke-width="28" stroke-linecap="round"/>
+<text x="350" y="610" text-anchor="middle" fill="#9ba8b7" font-family="Arial" font-size="34" font-weight="700">GEAR DRIVE</text><text x="850" y="610" text-anchor="middle" fill="#6fffc3" font-family="Arial" font-size="34" font-weight="700">DIRECT DRIVE</text><text x="600" y="95" text-anchor="middle" fill="#fff" font-family="Arial" font-size="46" font-weight="700">Which starter wheel?</text>
+</svg>

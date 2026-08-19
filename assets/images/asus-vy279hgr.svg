@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#08110f"/></linearGradient><linearGradient id="s"><stop stop-color="#6fffc3"/><stop offset="1" stop-color="#79b8ff"/></linearGradient></defs>
+<rect width="1200" height="700" fill="#070a0f"/><circle cx="850" cy="190" r="260" fill="#6fffc3" opacity=".09"/><circle cx="250" cy="570" r="250" fill="#8875ff" opacity=".10"/>
+<rect x="175" y="85" width="850" height="470" rx="30" fill="#202936"/><rect x="197" y="107" width="806" height="426" rx="17" fill="url(#b)"/>
+<path d="M210 455 C400 315 620 570 995 230 L995 533 L210 533Z" fill="url(#s)" opacity=".22"/><path d="M210 462 C440 305 690 580 995 252" fill="none" stroke="#6fffc3" stroke-width="5" opacity=".6"/>
+<rect x="585" y="555" width="30" height="75" rx="9" fill="#2a3543"/><rect x="475" y="622" width="250" height="18" rx="9" fill="#2a3543"/>
+<text x="235" y="175" fill="#6fffc3" font-family="Arial" font-size="28" font-weight="700">27-INCH • 1080P • 120Hz</text><text x="235" y="235" fill="#fff" font-family="Arial" font-size="46" font-weight="700">Budget Gaming Monitor</text>
+</svg>
