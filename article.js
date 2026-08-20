@@ -10,6 +10,7 @@ const fallbackSlug = type === 'sim'
   : 'best-budget-gaming-monitors-uk';
 const model = item || all.find(x => x.slug === fallbackSlug);
 
+document.body.dataset.articleSlug = model.slug || '';
 document.title = model.title + ' — Checkpoint Loadout';
 
 function ensureMeta(selector, attrs) {

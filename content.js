@@ -2565,7 +2565,8 @@ window.CHECKPOINT_CONTENT = {
           "Tom's Hardware best gaming monitors 2026",
           "https://www.tomshardware.com/reviews/best-gaming-monitors%2C4533.html"
         ]
-      ]
+      ],
+      "cardImageMode": "monitor-focus"
     },
     {
       "slug": "oled-vs-mini-led-gaming-monitor-2026",
@@ -2654,11 +2655,12 @@ window.CHECKPOINT_CONTENT = {
           "Tom's Hardware best gaming monitors 2026",
           "https://www.tomshardware.com/reviews/best-gaming-monitors%2C4533.html"
         ]
-      ]
+      ],
+      "cardImageMode": "monitor-focus"
     },
     {
       "slug": "best-monitor-arm-for-gaming-desk-2026",
-      "image": "assets/images/monitor-arm.svg",
+      "image": "assets/images/monitor-arm-product.png",
       "category": "DESK GEAR BUYING GUIDE",
       "title": "Best Monitor Arm for a Gaming Desk in 2026: What to Check Before You Clamp One On",
       "excerpt": "A good monitor arm is less about RGB and more about VESA support, monitor weight, desk thickness and useful range of motion.",
@@ -2710,21 +2712,21 @@ window.CHECKPOINT_CONTENT = {
           "name": "Ergotron LX Desk Monitor Arm",
           "why": "Clear published load range, useful extension and a long warranty make it the benchmark pick.",
           "url": "https://www.amazon.co.uk/s?k=Ergotron+LX+Desk+Monitor+Arm&tag=aidan0701-20",
-          "fallbackImage": "assets/images/monitor-arm.svg"
+          "fallbackImage": "assets/images/monitor-arm-product.png"
         },
         {
           "label": "BUDGET SEARCH",
           "name": "Single Monitor Arm 32-inch class",
           "why": "Use the results as a shortlist, then verify weight, VESA and clamp limits against your monitor.",
           "url": "https://www.amazon.co.uk/s?k=monitor+arm+32+inch+VESA+100x100+gas+spring&tag=aidan0701-20",
-          "fallbackImage": "assets/images/monitor-arm.svg"
+          "fallbackImage": "assets/images/monitor-arm-product.png"
         },
         {
           "label": "DUAL-MONITOR SEARCH",
           "name": "Dual Monitor Arm",
           "why": "Only buy after checking combined weight, screen width and whether you want independent arm movement.",
           "url": "https://www.amazon.co.uk/s?k=dual+monitor+arm+gaming+desk+VESA&tag=aidan0701-20",
-          "fallbackImage": "assets/images/monitor-arm.svg"
+          "fallbackImage": "assets/images/monitor-arm-product.png"
         }
       ],
       "relatedSlugs": [
@@ -2741,6 +2743,10 @@ window.CHECKPOINT_CONTENT = {
           "Ergotron LX Desk Monitor Arm product sheet",
           "https://media.ergotron.com/reserved/resources/05-056-ea-orig.pdf"
         ]
+      ],
+      "productImage": "assets/images/monitor-arm-product.png",
+      "heroImages": [
+        "assets/images/monitor-arm-product.png"
       ]
     }
   ],

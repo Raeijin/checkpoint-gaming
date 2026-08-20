@@ -230,3 +230,12 @@ linear-gradient(180deg,#0b0f16,#07090d)}
 .recommendation-thumb{background:#fff}
 .recommendation-thumb img{object-fit:contain;padding:10px}
 .tech-section .card-image{object-fit:contain;background:#fff;padding:10px}
+
+/* Batch 11.1 visual fixes */
+.tech-section .content-card[data-image-mode="monitor-focus"] .card-art{background:radial-gradient(circle at 50% 45%,#202936 0,#0d1118 66%,#080b10 100%)}
+.tech-section .content-card[data-image-mode="monitor-focus"] .card-image{padding:0;background:#0b0e13;object-fit:contain;object-position:center center;transform:scale(1.32) translateX(4%);transform-origin:center center}
+.tech-section .content-card[data-image-mode="monitor-focus"] .card-art:after{background:linear-gradient(to top,rgba(6,8,12,.82),rgba(6,8,12,.02) 68%)}
+.tech-section .content-card[data-slug="best-monitor-arm-for-gaming-desk-2026"] .card-image{padding:0;object-fit:cover;object-position:center;background:#080c12}
+body[data-article-slug="best-monitor-arm-for-gaming-desk-2026"] .article-product-shot{background:#080c12}
+body[data-article-slug="best-monitor-arm-for-gaming-desk-2026"] .article-product-shot img{padding:0;object-fit:cover}
+@media(max-width:620px){.tech-section .content-card[data-image-mode="monitor-focus"] .card-image{transform:scale(1.20) translateX(3%)}}

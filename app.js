@@ -3,7 +3,7 @@ const reviewGrid = document.getElementById('reviewGrid');
 const guideGrid = document.getElementById('guideGrid');
 const techGrid = document.getElementById('techGrid');
 function card(item, kind){
-  return `<a class="content-card searchable" data-text="${(item.title+' '+item.category+' '+item.excerpt).toLowerCase()}" href="article.html?slug=${item.slug}&kind=${kind}">
+  return `<a class="content-card searchable" data-slug="${item.slug}" data-image-mode="${item.cardImageMode || ''}" data-text="${(item.title+' '+item.category+' '+item.excerpt).toLowerCase()}" href="article.html?slug=${item.slug}&kind=${kind}">
     <div class="card-art ${item.art}">
       ${item.heroImages?.length > 1
         ? `<div class="card-image-pair">${item.heroImages.slice(0,2).map((src,i)=>`<img src="${src}" alt="${item.title} product ${i+1}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src=\'${item.image}\'">`).join('')}</div>`
