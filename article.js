@@ -82,7 +82,7 @@ const heroImages = (model.heroImages && model.heroImages.length)
 
 if (heroImages.length) {
   heroGallery.innerHTML = heroImages.map((src, i) =>
-    `<figure class="article-product-shot"><img src="${src}" alt="${model.title} product image ${i + 1}"></figure>`
+    `<figure class="article-product-shot"><img src="${src}" alt="${model.title} product image ${i + 1}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src=\'${model.image}\'"></figure>`
   ).join('');
   heroGallery.dataset.count = String(heroImages.length);
   heroGallery.hidden = false;
@@ -107,7 +107,11 @@ if (recs.length) {
   legacyProductBox.style.display = 'none';
   recommendationGrid.innerHTML = recs.map((r,i) => `
     <article class="recommendation-card">
-      <div class="recommendation-thumb">${r.image ? `<img src="${r.image}" alt="${r.name}">` : '<span>PRODUCT</span>'}</div>
+      <div class="recommendation-thumb">${r.image
+        ? `<img src="${r.image}" alt="${r.name}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${r.fallbackImage || model.image || ''}'">`
+        : (r.fallbackImage || model.image)
+          ? `<img src="${r.fallbackImage || model.image}" alt="${r.name}">`
+          : '<span>PRODUCT</span>'}</div>
       <div class="recommendation-copy"><span class="pill">${r.label || (i===0 ? 'TOP PICK' : 'ALTERNATIVE')}</span><h3>${r.name}</h3><p>${r.why || ''}</p>
       <div class="buy-row"><a class="btn primary" href="${r.url}" rel="sponsored nofollow">${buttonText(r.url || '')}</a><small>${affiliateLabel(r.url || '')}</small></div></div>
     </article>`).join('');

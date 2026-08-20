@@ -225,3 +225,8 @@ linear-gradient(180deg,#0b0f16,#07090d)}
 
 /* Respect semantic hidden state even when component classes set display */
 [hidden]{display:none!important}
+
+/* Batch 11: product photography should read as product photography, not cropped wallpaper */
+.recommendation-thumb{background:#fff}
+.recommendation-thumb img{object-fit:contain;padding:10px}
+.tech-section .card-image{object-fit:contain;background:#fff;padding:10px}

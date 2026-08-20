@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#10151d"/><stop offset="1" stop-color="#080a0f"/></linearGradient></defs>
+<rect width="1200" height="675" rx="28" fill="url(#g)"/>
+<path d="M0 560 L1200 390 L1200 675 L0 675Z" fill="#6fffc3" opacity=".06"/>
+<circle cx="980" cy="135" r="175" fill="#6ed7ff" opacity=".055"/>
+<text x="90" y="155" fill="#6fffc3" font-family="Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="5">CHECKPOINT LOADOUT</text>
+<text x="90" y="318" fill="#f5f7fb" font-family="Arial,sans-serif" font-size="102" font-weight="900">▰</text>
+<text x="90" y="442" fill="#f5f7fb" font-family="Arial,sans-serif" font-size="48" font-weight="850">GAMING MONITORS</text>
+<text x="90" y="500" fill="#96a0ad" font-family="Arial,sans-serif" font-size="27">1440p, OLED & Mini-LED</text>
+</svg>

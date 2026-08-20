@@ -9,7 +9,7 @@ window.CHECKPOINT_CONTENT = {
       "score": "8 MIN",
       "art": "monitor",
       "quick": "The ASUS VY279HGR is a sensible low-cost gaming monitor if your priority is a bigger 27-inch screen and smoother-than-60Hz play. Its 1920×1080 resolution is the main compromise: at 27 inches it will look softer than 1440p, so this is best treated as a budget gaming screen rather than an enthusiast display.",
-      "body": "\n        <h2>What the ASUS VY279HGR actually is</h2>\n        <p>ASUS lists the VY279HGR as a 27-inch 16:9 IPS monitor with a 1920×1080 resolution, up to 120Hz refresh rate, 1ms MPRT and Adaptive-Sync. It also includes ASUS GamePlus, Shadow Boost, low-blue-light and flicker-free features.</p>\n        <p>The important thing is positioning. This is not a 1440p esports monitor and it is not an HDR showpiece. It is a budget 1080p IPS monitor with a higher refresh rate than a basic 60Hz office display.</p>\n        <h2>Where it makes sense</h2>\n        <p>For a lower-cost gaming PC, secondary gaming setup, console desk or starter sim rig, 1080p is easy to drive and 120Hz is a meaningful jump over 60Hz. Adaptive-Sync also helps when frame rate moves around rather than staying perfectly locked.</p>\n        <h2>The trade-offs</h2>\n        <p>The biggest compromise is pixel density. 1920×1080 spread across 27 inches is visibly less sharp than 2560×1440 at the same size. ASUS also lists just one HDMI 1.4 input plus VGA, and the stand has tilt adjustment but no height adjustment. There are no built-in speakers.</p>\n        <h2>Verdict</h2>\n        <p>If the price is low, the VY279HGR is easy to understand: IPS colour and viewing angles, a useful 120Hz ceiling and basic variable refresh support for not much money. If you spend hours reading text or you have a stronger GPU, a 27-inch 1440p display is the better long-term target.</p><h2>Who should actually buy this monitor?</h2><p>The VY279HGR makes the most sense when the budget is tight and the system is unlikely to push high frame rates at 1440p anyway. A 120Hz ceiling is enough to make desktop motion and games feel clearly smoother than a basic 60Hz panel, while 1080p keeps GPU demands modest.</p><p>The harder question is whether 27 inches is the right size for 1080p. If you sit close to the screen, text and fine UI elements will look softer than on a 24-inch 1080p or 27-inch 1440p display. That is not a defect; it is simply the pixel-density trade-off.</p><h2>What to compare before buying</h2><p>Check the price against entry 1440p IPS monitors, not only against other 1080p displays. If the gap is small and your GPU can handle 1440p, the higher-resolution option is usually the better long-term purchase. Also check whether you need DisplayPort, height adjustment, speakers or USB-C, because this ASUS is intentionally basic in those areas.</p>",
+      "body": "\n        <h2>What the ASUS VY279HGR actually is</h2>\n        <p>ASUS lists the VY279HGR as a 27-inch 16:9 IPS monitor with a 1920×1080 resolution, up to 120Hz refresh rate, 1ms MPRT and Adaptive-Sync. It also includes ASUS GamePlus, Shadow Boost, low-blue-light and flicker-free features.</p>\n        <p>The important thing is positioning. This is not a 1440p esports monitor and it is not an HDR showpiece. It is a budget 1080p IPS monitor with a higher refresh rate than a basic 60Hz office display.</p>\n        <h2>Where it makes sense</h2>\n        <p>For a lower-cost gaming PC, secondary gaming setup, console desk or starter sim rig, 1080p is easy to drive and 120Hz is a meaningful jump over 60Hz. Adaptive-Sync also helps when frame rate moves around rather than staying perfectly locked.</p>\n        <h2>The trade-offs</h2>\n        <p>The biggest compromise is pixel density. 1920×1080 spread across 27 inches is visibly less sharp than 2560×1440 at the same size. ASUS also lists just one HDMI 1.4 input plus VGA, and the stand has tilt adjustment but no height adjustment. There are no built-in speakers.</p>\n        <h2>Verdict</h2>\n        <p>If the price is low, the VY279HGR is easy to understand: IPS colour and viewing angles, a useful 120Hz ceiling and basic variable refresh support for not much money. If you spend hours reading text or you have a stronger GPU, a 27-inch 1440p display is the better long-term target.</p><h2>Who should actually buy this monitor?</h2><p>The VY279HGR makes the most sense when the budget is tight and the system is unlikely to push high frame rates at 1440p anyway. A 120Hz ceiling is enough to make desktop motion and games feel clearly smoother than a basic 60Hz panel, while 1080p keeps GPU demands modest.</p><p>The harder question is whether 27 inches is the right size for 1080p. If you sit close to the screen, text and fine UI elements will look softer than on a 24-inch 1080p or 27-inch 1440p display. That is not a defect; it is simply the pixel-density trade-off.</p><h2>What to compare before buying</h2><p>Check the price against entry 1440p IPS monitors, not only against other 1080p displays. If the gap is small and your GPU can handle 1440p, the higher-resolution option is usually the better long-term purchase. Also check whether you need DisplayPort, height adjustment, speakers or USB-C, because this ASUS is intentionally basic in those areas.</p><h2>When you should spend more for 1440p</h2><p>If this will be your main monitor for several years and your GPU can comfortably drive 1440p, the extra pixel density at 27 inches is the more meaningful upgrade than chasing another small refresh-rate increase. See our <a href=\"article.html?slug=best-1440p-gaming-monitor-2026\">1440p gaming monitor guide</a> before buying purely because the VY279HGR is cheap.</p><h2>One spec-sheet trap</h2><p>ASUS describes 120Hz as the maximum refresh rate and markets it as an overclocked/game-mode figure. Treat the monitor as a budget 120Hz-class display, not as a substitute for the 165–180Hz 1440p tier.</p>",
       "product": "ASUS VY279HGR 27-inch Gaming Monitor",
       "productWhy": "Best suited to buyers prioritising price, a larger screen and 120Hz gaming over resolution sharpness.",
       "affiliate_url": "https://www.amazon.co.uk/ASUS-VY279HGR-Care-Gaming-Monitor/dp/B0DJTDVCVT?crid=3KT6J9UV6V0FO&dib=eyJ2IjoiMSJ9.hs5u1E00WDO4_avyWJMI80JQCVWnCNSaAtdOgZF9jeMmnxRc74fwbP_2MoA_7YA99PobyujoVkmd_kMMVvU585ASGajI5T4V0D3jzCo-HxaMzIwTdw3b_1keMwmrWf0k64D3NXOKRihIJvAF5qf0dCsr2dnGu3DQHThWEQpRCL8tVcNyCfEz2tqTaxWS2KpEjy0o2uBjMtlR-io9e_FXy3GumM3PbyqLrj45CA1u_bw.CruI2knUKrNvBcWo9TbKsHg5vjFotwFC1xoBCLwhuuY&dib_tag=se&keywords=GAMING%2BMONITOR&qid=1787155040&sprefix=gaming%2Bmonitor%2Caps%2C154&sr=8-5&th=1&linkCode=ll2&tag=aidan0701-20&linkId=1e5d3dc472532c258b6fce3ad515cd50&ref_=as_li_ss_tl",
@@ -109,6 +109,37 @@ window.CHECKPOINT_CONTENT = {
         "You need PlayStation support from this exact hardware",
         "Your desk or cockpit cannot hold a direct-drive base securely",
         "You are choosing purely by torque number rather than ecosystem"
+      ],
+      "specs": [
+        [
+          "MOZA R5",
+          "5.5 Nm direct drive"
+        ],
+        [
+          "Fanatec CSL DD",
+          "5 Nm standard / 8 Nm with Boost Kit 180"
+        ],
+        [
+          "Core decision",
+          "Ecosystem, platform and total bundle cost"
+        ]
+      ],
+      "recommendations": [
+        {
+          "label": "MOZA ROUTE",
+          "name": "MOZA R5 Racing Bundle",
+          "why": "Compact 5.5 Nm PC bundle and the cleaner direct-drive route if you want the MOZA ecosystem.",
+          "url": "https://uk.mozaracing.com/products/r5-racing-bundle?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000",
+          "fallbackImage": "assets/images/moza-vs-fanatec.svg"
+        },
+        {
+          "label": "FANATEC PRICE CHECK",
+          "name": "Fanatec CSL DD",
+          "why": "Check Amazon UK availability and seller legitimacy before buying.",
+          "url": "https://www.amazon.co.uk/s?k=Fanatec+CSL+DD&tag=aidan0701-20",
+          "fallbackImage": "assets/images/fanatec-5-vs-8.svg"
+        }
       ]
     },
     {
@@ -120,7 +151,7 @@ window.CHECKPOINT_CONTENT = {
       "score": "10 MIN",
       "art": "sim",
       "quick": "The Logitech G923 still makes sense when you want broad console compatibility, a complete three-pedal bundle and easy setup at a good sale price. At normal pricing, however, PC buyers should compare it closely with entry-level direct-drive bundles such as the MOZA R5 because direct drive offers a cleaner, stronger force-feedback path.",
-      "body": "\n        <h2>What the G923 offers</h2>\n        <p>Logitech lists the G923 as a 2.3 Nm dual-motor TRUEFORCE racing system with a leather wheel, 900° rotation and pedals included. It is an established plug-and-play option across supported PlayStation, Xbox and PC configurations.</p>\n        <h2>Why direct drive changed the conversation</h2>\n        <p>Entry-level direct-drive bundles now sit much closer to mainstream wheel prices. MOZA's R5, for example, is rated at 5.5 Nm and drives the wheel directly from the motor shaft.</p>\n        <p>Torque numbers do not tell the whole story, but they illustrate the gap: the R5 has more than double the peak torque rating of the G923, and direct drive removes the gear train between the motor and your hands.</p>\n        <h2>Who should still buy the G923?</h2>\n        <p>Console players who value straightforward compatibility, people buying during a strong discount, or anyone who wants a familiar ecosystem without planning a larger rig can still be well served by it. For a PC-first setup that may grow over time, direct drive is usually the more interesting starting point.</p><h2>The G923's real strength is convenience</h2><p>The G923 is not suddenly bad because direct drive became affordable. Its advantage is that it is familiar, widely supported and sold as a complete package. For a family console setup or a buyer who wants to clamp it down and drive, that simplicity has value.</p><p>Where the maths changes is at normal rather than sale pricing. If an entry direct-drive bundle is only modestly more expensive, the stronger and cleaner feedback, quick-release ecosystem and future wheel options can justify spending more at the start.</p><h2>Upgrade or buy from scratch?</h2><p>If you already own a G923 and use it regularly, jumping to direct drive is a meaningful hardware upgrade. If you are buying from scratch, compare the G923 against current direct-drive bundles before assuming the Logitech is still the default beginner choice.</p>",
+      "body": "\n        <h2>What the G923 offers</h2>\n        <p>Logitech lists the G923 as a 2.3 Nm dual-motor TRUEFORCE racing system with a leather wheel, 900° rotation and pedals included. It is an established plug-and-play option across supported PlayStation, Xbox and PC configurations.</p>\n        <h2>Why direct drive changed the conversation</h2>\n        <p>Entry-level direct-drive bundles now sit much closer to mainstream wheel prices. MOZA's R5, for example, is rated at 5.5 Nm and drives the wheel directly from the motor shaft.</p>\n        <p>Torque numbers do not tell the whole story, but they illustrate the gap: the R5 has more than double the peak torque rating of the G923, and direct drive removes the gear train between the motor and your hands.</p>\n        <h2>Who should still buy the G923?</h2>\n        <p>Console players who value straightforward compatibility, people buying during a strong discount, or anyone who wants a familiar ecosystem without planning a larger rig can still be well served by it. For a PC-first setup that may grow over time, direct drive is usually the more interesting starting point.</p><h2>The G923's real strength is convenience</h2><p>The G923 is not suddenly bad because direct drive became affordable. Its advantage is that it is familiar, widely supported and sold as a complete package. For a family console setup or a buyer who wants to clamp it down and drive, that simplicity has value.</p><p>Where the maths changes is at normal rather than sale pricing. If an entry direct-drive bundle is only modestly more expensive, the stronger and cleaner feedback, quick-release ecosystem and future wheel options can justify spending more at the start.</p><h2>Upgrade or buy from scratch?</h2><p>If you already own a G923 and use it regularly, jumping to direct drive is a meaningful hardware upgrade. If you are buying from scratch, compare the G923 against current direct-drive bundles before assuming the Logitech is still the default beginner choice.</p><h2>When a G923 sale can still change the answer</h2><p>At full mainstream-wheel pricing, entry direct drive is increasingly difficult to ignore on PC. A deep G923 discount can still make sense for a console-first buyer who values the included three-pedal set and simple support. Compare the exact R5 Pro alternative in our <a href=\"article.html?slug=moza-r5-pro-vs-logitech-g923\">R5 Pro vs G923 guide</a>.</p>",
       "product": "MOZA R5 Racing Bundle",
       "productWhy": "For PC buyers comparing the G923 with entry-level direct drive, the R5 is the alternative worth pricing alongside it.",
       "affiliate_url": "https://uk.mozaracing.com/products/r5-racing-bundle?ref=AIDANKING",
@@ -154,6 +185,29 @@ window.CHECKPOINT_CONTENT = {
           "url": "https://www.amazon.co.uk/s?k=Logitech+G923+racing+wheel&tag=aidan0701-20",
           "image": "assets/images/logitech-vs-dd.svg"
         }
+      ],
+      "productImage": "https://resource.logitechg.com/w_544%2Ch_466%2Car_7%3A6%2Cc_pad%2Cq_auto%2Cf_auto%2Cdpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g923-and-trueforce/g923-gallery/g923-ps4-gallery-1-new-image.png",
+      "heroImages": [
+        "https://resource.logitechg.com/w_544%2Ch_466%2Car_7%3A6%2Cc_pad%2Cq_auto%2Cf_auto%2Cdpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g923-and-trueforce/g923-gallery/g923-ps4-gallery-1-new-image.png",
+        "https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000"
+      ],
+      "specs": [
+        [
+          "Logitech G923",
+          "Up to 2.3 Nm dual-motor TRUEFORCE"
+        ],
+        [
+          "MOZA R5",
+          "5.5 Nm direct drive"
+        ],
+        [
+          "G923 rotation",
+          "900°"
+        ],
+        [
+          "Core decision",
+          "Console simplicity vs direct-drive headroom"
+        ]
       ]
     },
     {
@@ -217,6 +271,24 @@ window.CHECKPOINT_CONTENT = {
           "R5 platform",
           "PC"
         ]
+      ],
+      "recommendations": [
+        {
+          "label": "LOWER-COST DD",
+          "name": "MOZA R3 Racing Bundle",
+          "why": "Entry direct-drive route when Xbox/PC support and lower torque fit the use case.",
+          "url": "https://uk.mozaracing.com/products/r3-racing-bundle-xbox?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/r3_bundle_pc_0803.png?v=1785733315&width=1000",
+          "fallbackImage": "assets/images/r3-vs-r5.svg"
+        },
+        {
+          "label": "STRONGER PC PICK",
+          "name": "MOZA R5 Racing Bundle",
+          "why": "5.5 Nm step-up when the price gap is reasonable.",
+          "url": "https://uk.mozaracing.com/products/r5-racing-bundle?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000",
+          "fallbackImage": "assets/images/r3-vs-r5.svg"
+        }
       ]
     },
     {
@@ -233,7 +305,7 @@ window.CHECKPOINT_CONTENT = {
       "score": "11 MIN",
       "art": "sim",
       "quick": "The R5 Pro is the better buy when the price gap is modest. It moves from 5.5 Nm to 6 Nm, uses a 21-bit magnetic encoder and MOZA's newer NexGen 5.0 force-feedback system.",
-      "body": "\n        <h2>R5 versus R5 Pro in one sentence</h2>\n        <p>The R5 Pro is an evolutionary update rather than a completely different class of wheelbase.</p>\n        <h2>Torque</h2>\n        <p>The standard R5 is rated at 5.5 Nm peak torque. The R5 Pro increases that to 6 Nm. That is not a dramatic leap by itself, but it adds a little more headroom before force-feedback clipping.</p>\n        <h2>Encoder and feedback system</h2>\n        <p>MOZA lists the standard R5 with a 15-bit encoder and NexGen 4.0 force feedback. The R5 Pro moves to a 21-bit magnetic encoder and NexGen 5.0.</p>\n        <h2>Bundle contents</h2>\n        <p>The R5 Pro bundle includes the compact 6 Nm base, ES Lite steering wheel and SR-P Lite2 pedals. It remains aimed at buyers who want a complete starter system rather than building a wheelbase, wheel and pedals separately.</p>\n        <h2>Verdict</h2>\n        <p>If the R5 is heavily discounted, it can still be the value choice. At similar pricing, the R5 Pro is the version to buy because the improvements are broader than the small torque increase suggests.</p><h2>Is 0.5 Nm worth upgrading for?</h2><p>Not by itself. An existing R5 owner should not expect the move from 5.5 to 6 Nm to transform the experience. The R5 Pro is more compelling as a new purchase because the encoder and force-feedback generation also move forward.</p><h2>Who should keep buying the older R5?</h2><p>A meaningful clearance discount can still make the R5 excellent value. If the saving pays for a firmer wheel stand or a better brake pedal, the older bundle may produce the stronger overall setup.</p><h2>Who should skip both?</h2><p>If you already know you want a rigid cockpit and stronger steering, compare the R9 class before spending repeatedly on small torque steps. The sweet spot is not the same for a first-time desk racer and someone building a permanent rig.</p>",
+      "body": "\n        <h2>R5 versus R5 Pro in one sentence</h2>\n        <p>The R5 Pro is an evolutionary update rather than a completely different class of wheelbase.</p>\n        <h2>Torque</h2>\n        <p>The standard R5 is rated at 5.5 Nm peak torque. The R5 Pro increases that to 6 Nm. That is not a dramatic leap by itself, but it adds a little more headroom before force-feedback clipping.</p>\n        <h2>Encoder and feedback system</h2>\n        <p>MOZA lists the standard R5 with a 15-bit encoder and NexGen 4.0 force feedback. The R5 Pro moves to a 21-bit magnetic encoder and NexGen 5.0.</p>\n        <h2>Bundle contents</h2>\n        <p>The R5 Pro bundle includes the compact 6 Nm base, ES Lite steering wheel and SR-P Lite2 pedals. It remains aimed at buyers who want a complete starter system rather than building a wheelbase, wheel and pedals separately.</p>\n        <h2>Verdict</h2>\n        <p>If the R5 is heavily discounted, it can still be the value choice. At similar pricing, the R5 Pro is the version to buy because the improvements are broader than the small torque increase suggests.</p><h2>Is 0.5 Nm worth upgrading for?</h2><p>Not by itself. An existing R5 owner should not expect the move from 5.5 to 6 Nm to transform the experience. The R5 Pro is more compelling as a new purchase because the encoder and force-feedback generation also move forward.</p><h2>Who should keep buying the older R5?</h2><p>A meaningful clearance discount can still make the R5 excellent value. If the saving pays for a firmer wheel stand or a better brake pedal, the older bundle may produce the stronger overall setup.</p><h2>Who should skip both?</h2><p>If you already know you want a rigid cockpit and stronger steering, compare the R9 class before spending repeatedly on small torque steps. The sweet spot is not the same for a first-time desk racer and someone building a permanent rig.</p><h2>New buyer versus existing R5 owner</h2><p>The R5 Pro is easier to justify for a new buyer than as an upgrade from an existing R5. An owner already at 5.5 Nm will usually get more from pedals, mounting or a different wheel than replacing the entire bundle for a 0.5 Nm torque increase. New buyers should compare live bundle pricing and take the Pro when the gap is modest.</p>",
       "product": "MOZA R5 Pro Racing Simulator",
       "productWhy": "The updated 6 Nm entry bundle with a higher-resolution encoder and newer feedback system.",
       "affiliate_url": "https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
@@ -280,6 +352,24 @@ window.CHECKPOINT_CONTENT = {
           "R5 Pro USB refresh",
           "1000Hz"
         ]
+      ],
+      "recommendations": [
+        {
+          "label": "CURRENT PICK",
+          "name": "MOZA R5 Pro Racing Simulator",
+          "why": "6 Nm, newer encoder/feedback system and the version we would favour at similar pricing.",
+          "url": "https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000",
+          "fallbackImage": "assets/images/r5-vs-r5pro.svg"
+        },
+        {
+          "label": "VALUE CHECK",
+          "name": "MOZA R5 Racing Bundle",
+          "why": "Still worth checking if the older bundle is heavily discounted.",
+          "url": "https://uk.mozaracing.com/products/r5-racing-bundle?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000",
+          "fallbackImage": "assets/images/r5-vs-r5pro.svg"
+        }
       ]
     },
     {
@@ -335,6 +425,24 @@ window.CHECKPOINT_CONTENT = {
           "Best fit",
           "Rigid cockpit / mid-range DD"
         ]
+      ],
+      "recommendations": [
+        {
+          "label": "9 NM PICK",
+          "name": "MOZA R9 V3",
+          "why": "Enough torque headroom for many rigid rigs without stepping to 12 Nm.",
+          "url": "https://uk.mozaracing.com/products/r9-wheelbase?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/R9_V3-1.webp?v=1767606156&width=1000",
+          "fallbackImage": "assets/images/r9-vs-r12.svg"
+        },
+        {
+          "label": "12 NM STEP-UP",
+          "name": "MOZA R12 V2",
+          "why": "For a rigid cockpit and buyers who deliberately want more torque headroom.",
+          "url": "https://uk.mozaracing.com/products/r12-wheelbase?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/R12_V2-1.webp?v=1767606172&width=1000",
+          "fallbackImage": "assets/images/r9-vs-r12.svg"
+        }
       ]
     },
     {
@@ -389,6 +497,22 @@ window.CHECKPOINT_CONTENT = {
           "Platform",
           "PC; Xbox depends on licensed wheel"
         ]
+      ],
+      "recommendations": [
+        {
+          "label": "AMAZON UK CHECK",
+          "name": "Fanatec CSL DD",
+          "why": "Check current Amazon UK listings and seller legitimacy.",
+          "url": "https://www.amazon.co.uk/s?k=Fanatec+CSL+DD&tag=aidan0701-20",
+          "fallbackImage": "assets/images/fanatec-5-vs-8.svg"
+        },
+        {
+          "label": "BOOST KIT CHECK",
+          "name": "Fanatec Boost Kit 180",
+          "why": "Relevant if you already own a compatible CSL DD and want the 8 Nm route.",
+          "url": "https://www.amazon.co.uk/s?k=Fanatec+Boost+Kit+180&tag=aidan0701-20",
+          "fallbackImage": "assets/images/fanatec-5-vs-8.svg"
+        }
       ]
     },
     {
@@ -448,6 +572,24 @@ window.CHECKPOINT_CONTENT = {
           "Upgrade priority",
           "Braking consistency"
         ]
+      ],
+      "recommendations": [
+        {
+          "label": "VALUE LOAD-CELL",
+          "name": "MOZA SRP2 Pedals",
+          "why": "Lower-cost load-cell route and sensible first serious pedal upgrade.",
+          "url": "https://uk.mozaracing.com/products/srp2-pedals?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/MOZA_SRP2_Pedals_Throttle_Brake_-1_ea85807a-cb31-4048-b3cf-e59ceeb13e65.png?v=1774429530&width=2000",
+          "fallbackImage": "assets/images/load-cell.svg"
+        },
+        {
+          "label": "PREMIUM PEDALS",
+          "name": "MOZA CRP2 Pedals",
+          "why": "More premium pedal set when adjustment and rig quality justify the spend.",
+          "url": "https://uk.mozaracing.com/products/crp2-pedals?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/MOZA_CRP2_Load_Cell_Pedals.webp?v=1767606128&width=1000",
+          "fallbackImage": "assets/images/load-cell.svg"
+        }
       ]
     },
     {
@@ -463,7 +605,7 @@ window.CHECKPOINT_CONTENT = {
       "score": "9 MIN",
       "art": "sim",
       "quick": "The HGP makes the most sense for people who actually drive manual road cars, historic racers, rally cars or truck sims.",
-      "body": "<h2>What it adds</h2><p>An H-pattern shifter adds a lot to classic touring cars, road cars, rally, vintage racing and truck simulators.</p><h2>Who should buy it?</h2><p>It is a purpose-specific upgrade rather than a universal must-buy. Get pedals and a solid wheel setup sorted first.</p><h2>Mounting matters</h2><p>A shifter is only satisfying if it is firmly mounted, so include mounting in the real cost.</p><h2>It is an immersion upgrade, not a lap-time upgrade</h2><p>An H-pattern shifter is brilliant when the virtual car actually uses one. It adds a physical sequence to braking, clutch work and gear selection that paddles cannot replicate. In modern GT and formula cars, though, it can spend most of its life unused.</p><h2>Factor in the mount</h2><p>Side load matters. A shifter that moves the desk bracket every time you select second gear feels worse than a cheaper unit mounted firmly. Include a proper bracket or wheel-stand mount in the budget rather than treating it as an afterthought.</p><h2>Who gets the most value?</h2><p>Historic racing, road-car simulation, rally and truck-sim fans are the obvious audience. If those are only occasional side activities, pedals usually deserve the money first.</p><h2>H-pattern versus sequential use</h2><p>A dedicated H-pattern unit is most valuable when the cars in your library genuinely use manual gates. If you jump constantly between modern sequential race cars and historic manuals, consider whether a separate sequential control or paddles already cover half your needs. The shifter should match the cars, not just the aesthetic of the rig.</p><h2>Clutch pedal matters too</h2><p>For the most convincing manual experience, pair an H-pattern shifter with a clutch pedal and games that model clutch engagement. Without that, the lever still adds interaction but the driving technique is less authentic.</p><h2>Buying order</h2><p>A shifter is a fun second-wave upgrade. Get the wheel, brake and mounting stable first; then add it when you know manual cars are a regular part of your sim time.</p>",
+      "body": "<h2>What it adds</h2><p>An H-pattern shifter adds a lot to classic touring cars, road cars, rally, vintage racing and truck simulators.</p><h2>Who should buy it?</h2><p>It is a purpose-specific upgrade rather than a universal must-buy. Get pedals and a solid wheel setup sorted first.</p><h2>Mounting matters</h2><p>A shifter is only satisfying if it is firmly mounted, so include mounting in the real cost.</p><h2>It is an immersion upgrade, not a lap-time upgrade</h2><p>An H-pattern shifter is brilliant when the virtual car actually uses one. It adds a physical sequence to braking, clutch work and gear selection that paddles cannot replicate. In modern GT and formula cars, though, it can spend most of its life unused.</p><h2>Factor in the mount</h2><p>Side load matters. A shifter that moves the desk bracket every time you select second gear feels worse than a cheaper unit mounted firmly. Include a proper bracket or wheel-stand mount in the budget rather than treating it as an afterthought.</p><h2>Who gets the most value?</h2><p>Historic racing, road-car simulation, rally and truck-sim fans are the obvious audience. If those are only occasional side activities, pedals usually deserve the money first.</p><h2>H-pattern versus sequential use</h2><p>A dedicated H-pattern unit is most valuable when the cars in your library genuinely use manual gates. If you jump constantly between modern sequential race cars and historic manuals, consider whether a separate sequential control or paddles already cover half your needs. The shifter should match the cars, not just the aesthetic of the rig.</p><h2>Clutch pedal matters too</h2><p>For the most convincing manual experience, pair an H-pattern shifter with a clutch pedal and games that model clutch engagement. Without that, the lever still adds interaction but the driving technique is less authentic.</p><h2>Buying order</h2><p>A shifter is a fun second-wave upgrade. Get the wheel, brake and mounting stable first; then add it when you know manual cars are a regular part of your sim time.</p><h2>Where it belongs in an upgrade order</h2><p>Buy the shifter after the wheel and pedals are stable. It is a great immersion purchase for cars that actually use an H-pattern, but it should not delay a brake or mounting upgrade that affects every lap. If you own an R5-class bundle, see our <a href=\"article.html?slug=best-upgrades-for-moza-r5-r5-pro\">R5/R5 Pro upgrade order</a>.</p>",
       "product": "MOZA HGP Shifter",
       "productWhy": "Best for manual-car, historic-racing, rally and truck-sim setups where an H-pattern shifter adds real value.",
       "affiliate_url": "https://uk.mozaracing.com/products/hgp-shifter?ref=AIDANKING",
@@ -513,7 +655,7 @@ window.CHECKPOINT_CONTENT = {
       "score": "8 MIN",
       "art": "sim",
       "quick": "The HBP is worth considering if rally, drifting or handbrake-heavy driving is a meaningful part of what you play.",
-      "body": "<h2>Why an analog handbrake matters</h2><p>A progressive handbrake gives you more control than mapping the handbrake to a simple on/off button.</p><h2>Mounting matters</h2><p>The handbrake needs to be mounted firmly. Include mounting hardware in the real cost if you do not already have a suitable plate.</p><h2>Who should skip it?</h2><p>If your time is mostly spent in GT3, formula or prototype cars, pedals or cockpit upgrades should come first.</p><h2>Where an analogue handbrake actually helps</h2><p>Rally and drifting are the two obvious cases. An analogue lever gives you control over how much rear-wheel braking you apply rather than turning the handbrake into a simple on/off command. That makes it easier to vary rotation instead of producing the same full input every time.</p><h2>Where it adds almost nothing</h2><p>For GT, prototype and formula racing, a handbrake is largely irrelevant. If those disciplines make up most of your driving, spend on pedals, seating or a better wheel rim instead.</p><h2>Ergonomics matter</h2><p>Position the lever where you can reach it quickly without twisting your shoulder. A rigid mount and natural reach are more important than making the setup look like a rally cockpit.</p><h2>Connection and calibration</h2><p>Before buying, check how the handbrake will connect in your exact setup and whether your sim title lets you calibrate the full analogue range. The useful part of an analogue lever is being able to apply a little or a lot of rear braking; if the game treats it as a digital button, much of the hardware advantage disappears.</p><h2>Vertical or horizontal mounting?</h2><p>Some drivers prefer a tall rally-style lever, while others want a lower road-car position. The correct answer is the one that gives a natural wrist angle and lets you reach the lever without leaning out of the seat. Ergonomics beats imitation.</p><h2>Upgrade priority</h2><p>If rally and drifting are only occasional side modes, the handbrake should sit behind a stable wheel mount and good pedals in the budget. If those disciplines are your main reason for owning the rig, it becomes a much more defensible early accessory.</p>",
+      "body": "<h2>Why an analog handbrake matters</h2><p>A progressive handbrake gives you more control than mapping the handbrake to a simple on/off button.</p><h2>Mounting matters</h2><p>The handbrake needs to be mounted firmly. Include mounting hardware in the real cost if you do not already have a suitable plate.</p><h2>Who should skip it?</h2><p>If your time is mostly spent in GT3, formula or prototype cars, pedals or cockpit upgrades should come first.</p><h2>Where an analogue handbrake actually helps</h2><p>Rally and drifting are the two obvious cases. An analogue lever gives you control over how much rear-wheel braking you apply rather than turning the handbrake into a simple on/off command. That makes it easier to vary rotation instead of producing the same full input every time.</p><h2>Where it adds almost nothing</h2><p>For GT, prototype and formula racing, a handbrake is largely irrelevant. If those disciplines make up most of your driving, spend on pedals, seating or a better wheel rim instead.</p><h2>Ergonomics matter</h2><p>Position the lever where you can reach it quickly without twisting your shoulder. A rigid mount and natural reach are more important than making the setup look like a rally cockpit.</p><h2>Connection and calibration</h2><p>Before buying, check how the handbrake will connect in your exact setup and whether your sim title lets you calibrate the full analogue range. The useful part of an analogue lever is being able to apply a little or a lot of rear braking; if the game treats it as a digital button, much of the hardware advantage disappears.</p><h2>Vertical or horizontal mounting?</h2><p>Some drivers prefer a tall rally-style lever, while others want a lower road-car position. The correct answer is the one that gives a natural wrist angle and lets you reach the lever without leaning out of the seat. Ergonomics beats imitation.</p><h2>Upgrade priority</h2><p>If rally and drifting are only occasional side modes, the handbrake should sit behind a stable wheel mount and good pedals in the budget. If those disciplines are your main reason for owning the rig, it becomes a much more defensible early accessory.</p><h2>Mounting and calibration are part of the purchase</h2><p>An analogue handbrake only feels useful when the lever is rigid and the input range is calibrated cleanly. Desk users should budget for the bracket or clamp arrangement at the same time as the handbrake rather than discovering after delivery that the lever has nowhere solid to live.</p>",
       "product": "MOZA HBP Handbrake",
       "productWhy": "A useful analog upgrade for rally, drifting and other cars where handbrake modulation matters.",
       "affiliate_url": "https://uk.mozaracing.com/products/hbp-handbrake?ref=AIDANKING",
@@ -593,14 +735,15 @@ window.CHECKPOINT_CONTENT = {
           "5 years (subject to endurance limits)"
         ]
       ],
-      "body": "<h2>These are both mature high-end Gen4 drives</h2><p>The 990 Pro and SN850X sit near the practical ceiling of PCIe 4.0 gaming storage. Samsung rates the 2TB 990 Pro at up to 7,450 MB/s sequential read and 6,900 MB/s write. SanDisk's current WD Black SN850X data sheet lists the 2TB model at up to 7,300 MB/s read and 6,600 MB/s write.</p><p>Those numbers matter for large transfers and show how close both drives run to the interface limit, but game loading is not decided by sequential throughput alone. Random performance, firmware, the game engine and the rest of the system all matter.</p><h2>Samsung 990 Pro: the straightforward premium pick</h2><p>The 990 Pro uses Samsung's in-house controller, TLC V-NAND and DRAM cache. Samsung lists PC and PlayStation 5 use, offers heatsink and bare variants, and supports the drive through Samsung Magician. Tom's Hardware still names the 990 Pro its best overall and best gaming SSD in its 2026 guide.</p><p>That does not mean it is automatically worth a large premium. The reason to buy it is the combination of performance, mature software, broad availability and a strong track record—not a promise that your games will suddenly gain frames per second.</p><h2>WD Black SN850X: buy it when the price is better</h2><p>The SN850X remains one of the strongest alternatives. The 2TB model is rated for up to 7,300/6,600 MB/s sequential performance and 1,200 TBW endurance, with a five-year limited warranty. Heatsink variants are available, which is useful for PS5 buyers who want an all-in-one install.</p><p>Tom's Hardware currently lists the SN850X as the main alternative to the 990 Pro and also its top PS5 SSD pick. If it is meaningfully cheaper on the day you buy, there is little reason to pay extra simply to own the Samsung name.</p><h2>For PS5, get the cooling right</h2><p>Sony's console needs an M.2 SSD that meets its physical and performance requirements, and a heatsink is part of a sensible installation. Buy a heatsink version or add a compatible heatsink rather than running a bare high-performance drive in a confined slot.</p><h2>For PC, check the motherboard slot</h2><p>A Gen4 drive works in many older M.2 systems, but the slot can limit performance. Also check whether using a specific M.2 slot disables SATA ports or shares chipset lanes on your motherboard. The SSD cannot fix a platform bottleneck.</p><h2>Verdict</h2><p><strong>Buy the 990 Pro</strong> when the price gap is small and you want the safest premium all-rounder. <strong>Buy the SN850X</strong> when it is cheaper, when the heatsink package suits your console, or when you simply prefer WD's ecosystem. Both are fast enough that capacity, price and cooling should decide the purchase before tiny benchmark differences.</p>",
+      "body": "<h2>These are both mature high-end Gen4 drives</h2><p>The 990 Pro and SN850X sit near the practical ceiling of PCIe 4.0 gaming storage. Samsung rates the 2TB 990 Pro at up to 7,450 MB/s sequential read and 6,900 MB/s write. SanDisk's current WD Black SN850X data sheet lists the 2TB model at up to 7,300 MB/s read and 6,600 MB/s write.</p><p>Those numbers matter for large transfers and show how close both drives run to the interface limit, but game loading is not decided by sequential throughput alone. Random performance, firmware, the game engine and the rest of the system all matter.</p><h2>Samsung 990 Pro: the straightforward premium pick</h2><p>The 990 Pro uses Samsung's in-house controller, TLC V-NAND and DRAM cache. Samsung lists PC and PlayStation 5 use, offers heatsink and bare variants, and supports the drive through Samsung Magician. Tom's Hardware still names the 990 Pro its best overall and best gaming SSD in its 2026 guide.</p><p>That does not mean it is automatically worth a large premium. The reason to buy it is the combination of performance, mature software, broad availability and a strong track record—not a promise that your games will suddenly gain frames per second.</p><h2>WD Black SN850X: buy it when the price is better</h2><p>The SN850X remains one of the strongest alternatives. The 2TB model is rated for up to 7,300/6,600 MB/s sequential performance and 1,200 TBW endurance, with a five-year limited warranty. Heatsink variants are available, which is useful for PS5 buyers who want an all-in-one install.</p><p>Tom's Hardware currently lists the SN850X as the main alternative to the 990 Pro and also its top PS5 SSD pick. If it is meaningfully cheaper on the day you buy, there is little reason to pay extra simply to own the Samsung name.</p><h2>For PS5, get the cooling right</h2><p>Sony's console needs an M.2 SSD that meets its physical and performance requirements, and a heatsink is part of a sensible installation. Buy a heatsink version or add a compatible heatsink rather than running a bare high-performance drive in a confined slot.</p><h2>For PC, check the motherboard slot</h2><p>A Gen4 drive works in many older M.2 systems, but the slot can limit performance. Also check whether using a specific M.2 slot disables SATA ports or shares chipset lanes on your motherboard. The SSD cannot fix a platform bottleneck.</p><h2>Verdict</h2><p><strong>Buy the 990 Pro</strong> when the price gap is small and you want the safest premium all-rounder. <strong>Buy the SN850X</strong> when it is cheaper, when the heatsink package suits your console, or when you simply prefer WD's ecosystem. Both are fast enough that capacity, price and cooling should decide the purchase before tiny benchmark differences.</p><h2>Capacity usually matters more than the benchmark winner</h2><p>For a gaming library, a 2TB model with enough free space is often a better purchase than paying a large premium for a slightly faster 1TB flagship. Compare like-for-like capacity and heatsink configuration. Our <a href=\"article.html?slug=best-2tb-gaming-ssd-2026\">2TB gaming SSD guide</a> adds the Crucial T500 as a third price check.</p>",
       "recommendations": [
         {
           "label": "TOP PICK",
           "name": "Samsung 990 Pro 2TB",
           "why": "Excellent all-round Gen4 performance with Samsung Magician support and PC/PS5 positioning.",
           "url": "https://www.amazon.co.uk/s?k=Samsung+990+Pro+2TB+SSD&tag=aidan0701-20",
-          "image": "assets/images/amazon-storage.svg"
+          "image": "https://images.samsung.com/is/image/samsung/p6pim/de/mz-v9p1t0bw/gallery/de-990pro-nvme-m2-ssd-mz-v9p1t0bw-533582570?$650_519_PNG$",
+          "fallbackImage": "assets/images/amazon-storage.svg"
         },
         {
           "label": "BEST ALTERNATIVE",
@@ -634,6 +777,10 @@ window.CHECKPOINT_CONTENT = {
           "Tom's Hardware best SSDs 2026",
           "https://www.tomshardware.com/reviews/best-ssds%2C3891.html"
         ]
+      ],
+      "productImage": "https://images.samsung.com/is/image/samsung/p6pim/de/mz-v9p1t0bw/gallery/de-990pro-nvme-m2-ssd-mz-v9p1t0bw-533582570?$650_519_PNG$",
+      "heroImages": [
+        "https://images.samsung.com/is/image/samsung/p6pim/de/mz-v9p1t0bw/gallery/de-990pro-nvme-m2-ssd-mz-v9p1t0bw-533582570?$650_519_PNG$"
       ]
     },
     {
@@ -690,7 +837,8 @@ window.CHECKPOINT_CONTENT = {
           "name": "Razer Viper V4 Pro",
           "why": "For competitive players who want very low weight, premium build and top-end wireless performance.",
           "url": "https://www.amazon.co.uk/s?k=Razer+Viper+V4+Pro&tag=aidan0701-20",
-          "image": "assets/images/amazon-mouse.svg"
+          "image": "https://assets2.razerzone.com/images/pnx.assets/eb5fbd749917af6235780a1bdba7bdac/razer-viper-v4-pro-pointers-760.webp",
+          "fallbackImage": "assets/images/amazon-mouse.svg"
         },
         {
           "label": "MORE BUTTONS",
@@ -727,6 +875,10 @@ window.CHECKPOINT_CONTENT = {
           "PC Gamer Viper V4 Pro review",
           "https://www.pcgamer.com/hardware/gaming-mice/razer-viper-v4-pro-review/"
         ]
+      ],
+      "productImage": "https://assets2.razerzone.com/images/pnx.assets/eb5fbd749917af6235780a1bdba7bdac/razer-viper-v4-pro-pointers-760.webp",
+      "heroImages": [
+        "https://assets2.razerzone.com/images/pnx.assets/eb5fbd749917af6235780a1bdba7bdac/razer-viper-v4-pro-pointers-760.webp"
       ]
     },
     {
@@ -779,7 +931,8 @@ window.CHECKPOINT_CONTENT = {
           "name": "Razer BlackShark V3",
           "why": "Low-latency competitive wireless, useful connectivity and a strong integrated microphone.",
           "url": "https://www.amazon.co.uk/s?k=Razer+BlackShark+V3&tag=aidan0701-20",
-          "image": "assets/images/amazon-headset.svg"
+          "image": "https://assets2.razerzone.com/images/pnx.assets/866d791d3c6ec6bc6b0ec3b66116b696/razer-blackshark-v3-hero-3d-static-desktop.webp",
+          "fallbackImage": "assets/images/amazon-headset.svg"
         },
         {
           "label": "BATTERY ALTERNATIVE",
@@ -812,6 +965,210 @@ window.CHECKPOINT_CONTENT = {
           "PC Gamer best gaming headsets 2026",
           "https://www.pcgamer.com/best-gaming-headset/"
         ]
+      ],
+      "productImage": "https://assets2.razerzone.com/images/pnx.assets/866d791d3c6ec6bc6b0ec3b66116b696/razer-blackshark-v3-hero-3d-static-desktop.webp",
+      "heroImages": [
+        "https://assets2.razerzone.com/images/pnx.assets/866d791d3c6ec6bc6b0ec3b66116b696/razer-blackshark-v3-hero-3d-static-desktop.webp"
+      ]
+    },
+    {
+      "slug": "keychron-k2-he-researched-review",
+      "image": "assets/images/amazon-keyboard.svg",
+      "productImage": "https://www.keychron.com/cdn/shop/files/K2-HE-Special-Edition-White-1.jpg?v=1758093478",
+      "heroImages": [
+        "https://www.keychron.com/cdn/shop/files/K2-HE-Special-Edition-White-1.jpg?v=1758093478"
+      ],
+      "category": "GAMING KEYBOARD REVIEW",
+      "title": "Keychron K2 HE Researched Review: The Wireless 75% Magnetic Keyboard Sweet Spot?",
+      "excerpt": "A compact 75% layout, magnetic switches, Rapid Trigger and three connection modes make the K2 HE unusually practical — especially if you want UK ISO.",
+      "score": "14 MIN",
+      "art": "pc",
+      "lastChecked": "20 August 2026",
+      "researchStatus": "Research-backed",
+      "quick": "The K2 HE is one of the more convincing all-round magnetic gaming keyboards because it combines a useful 75% layout, adjustable magnetic actuation, Rapid Trigger, 2.4GHz wireless, Bluetooth and wired USB. The UK ISO option matters too. It suits someone who games and types on the same desk better than a one-purpose tournament board.",
+      "buyIf": [
+        "You want Rapid Trigger without giving up wireless connectivity",
+        "A 75% layout suits both gaming and everyday typing",
+        "You specifically need a UK ISO magnetic keyboard option"
+      ],
+      "skipIf": [
+        "You want a full numpad or full-size layout",
+        "You already own a strong Hall-effect board and are only chasing tiny latency gains",
+        "You want the deepest competitive software ecosystem regardless of price"
+      ],
+      "specs": [
+        [
+          "Layout",
+          "75%"
+        ],
+        [
+          "Switch type",
+          "Gateron double-rail magnetic"
+        ],
+        [
+          "Connectivity",
+          "2.4GHz / Bluetooth / USB-C"
+        ],
+        [
+          "Gaming features",
+          "Rapid Trigger + adjustable actuation"
+        ],
+        [
+          "UK layout",
+          "ISO-UK version available"
+        ],
+        [
+          "Configuration",
+          "Keychron Launcher web app"
+        ]
+      ],
+      "body": "<h2>Why the K2 HE stands out</h2><p>The K2 HE takes a familiar Keychron 75% format and uses magnetic switches that report key travel rather than only a fixed actuation point. That enables adjustable actuation and Rapid Trigger: useful for players who want movement keys to reset as soon as they begin travelling back up.</p><p>The important part is that Keychron did not turn it into a one-purpose esports board. It still offers 2.4GHz wireless, Bluetooth and wired USB, plus Mac/Windows support and a UK ISO version.</p><h2>Magnetic switches are useful — but not magic</h2><p>Adjustable actuation can genuinely change how movement-heavy games feel. A shallow setting can make repeated strafing inputs easier, while deeper actuation can reduce accidental presses for typing. Rapid Trigger is most relevant in competitive shooters and rhythm games; it will not make an RPG suddenly feel different.</p><h2>75% is the practical compromise</h2><p>A 75% keyboard keeps the function row, arrows and navigation keys while dropping the numpad. That frees mouse space without forcing layers for every secondary key. For a mixed gaming-and-work desk, that is usually easier to live with than a 60% board.</p><h2>Wireless is a real reason to consider it</h2><p>Keychron supports 2.4GHz alongside Bluetooth and USB-C. Bluetooth is useful for tablets and secondary devices; for gaming, 2.4GHz or wired mode is the sensible route. Keychron Launcher runs in a browser, so actuation and key behaviour can be adjusted without relying on a permanently running desktop suite.</p><h2>What to watch before buying</h2><p>The K2 HE is not universally hot-swappable with every magnetic switch. Keychron specifies compatibility with its supported Gateron double-rail magnetic switches, so do not assume the open-ended switch compatibility of a conventional MX hot-swap board.</p><p>Also check the exact listing for ISO-UK if that is what you want. Amazon search results can mix ANSI and ISO versions.</p><h2>Verdict</h2><p>As a researched buy, the K2 HE makes the most sense for someone who wants modern magnetic gaming features without building the whole desk around competitive FPS. The 75% layout, wireless modes and real UK ISO option make it unusually practical.</p>",
+      "recommendations": [
+        {
+          "label": "OUR WIRELESS PICK",
+          "name": "Keychron K2 HE",
+          "why": "75% magnetic board with Rapid Trigger and useful tri-mode connectivity.",
+          "url": "https://www.amazon.co.uk/s?k=Keychron+K2+HE+UK+ISO&tag=aidan0701-20",
+          "image": "https://www.keychron.com/cdn/shop/files/K2-HE-Special-Edition-White-1.jpg?v=1758093478",
+          "fallbackImage": "assets/images/amazon-keyboard.svg"
+        },
+        {
+          "label": "COMPETITIVE ALTERNATIVE",
+          "name": "Razer Huntsman V3 Pro 8K",
+          "why": "Full-size analog optical option with 8K polling for buyers prioritising competitive features.",
+          "url": "https://www.amazon.co.uk/s?k=Razer+Huntsman+V3+Pro+8K&tag=aidan0701-20",
+          "image": "https://assets2.razerzone.com/images/pnx.assets/e66e945487cf21ca2b358a0d23e26404/huntsman-v3-pro-8khz-hyperpolling-animation-%5B1920-x-700%5D_screenshot.jpg",
+          "fallbackImage": "assets/images/amazon-keyboard.svg"
+        },
+        {
+          "label": "MECHANICAL ALTERNATIVE",
+          "name": "ASUS ROG Strix Scope II 96 Wireless",
+          "why": "Compact 96% mechanical board with tri-mode wireless and hot-swappable switches.",
+          "url": "https://www.amazon.co.uk/s?k=ASUS+ROG+Strix+Scope+II+96+Wireless&tag=aidan0701-20",
+          "image": "https://dlcdnwebimgs.asus.com/gain/9E1FA5D0-65AB-4188-84DE-A80058422939/w717/h525/fwebp",
+          "fallbackImage": "assets/images/amazon-keyboard.svg"
+        }
+      ],
+      "relatedSlugs": [
+        "best-gaming-keyboard-2026",
+        "best-gaming-mouse-2026",
+        "best-pc-controller-2026"
+      ],
+      "sources": [
+        [
+          "Keychron K2 HE official product page",
+          "https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard"
+        ],
+        [
+          "PC Gamer best gaming keyboards 2026",
+          "https://www.pcgamer.com/best-gaming-keyboard/"
+        ],
+        [
+          "PC Gamer best Hall-effect keyboards 2026",
+          "https://www.pcgamer.com/hardware/gaming-keyboards/best-hall-effect-keyboards/"
+        ]
+      ]
+    },
+    {
+      "slug": "gamesir-g7-pro-researched-review",
+      "image": "assets/images/amazon-controller.svg",
+      "productImage": "https://cdn.shopify.com/s/files/1/2241/8433/files/gamesir-g7-pro-tri-mode-xbox-wired-pc-mobile-wireless-controller-5745938.png?v=1784477669&width=2048",
+      "heroImages": [
+        "https://cdn.shopify.com/s/files/1/2241/8433/files/gamesir-g7-pro-tri-mode-xbox-wired-pc-mobile-wireless-controller-5745938.png?v=1784477669&width=2048",
+        "https://assets.xboxservices.com/assets/d3/b8/d3b82872-cea1-4f26-81c8-c8da49a27362.jpg?n=Xbox-Wireless-Controller_Image-Hero-1084_White_1920x831_01.jpg"
+      ],
+      "category": "PC CONTROLLER REVIEW",
+      "title": "GameSir G7 Pro Researched Review: A Better PC Controller Than the Standard Xbox Pad?",
+      "excerpt": "TMR sticks, trigger stops, extra inputs, 1000Hz PC polling and an included charging dock make the G7 Pro one of the most feature-dense mainstream PC pads.",
+      "score": "15 MIN",
+      "art": "pc",
+      "lastChecked": "20 August 2026",
+      "researchStatus": "Research-backed",
+      "quick": "For PC, the GameSir G7 Pro is a compelling step up from a standard Xbox Wireless Controller: TMR sticks, Hall-effect analog triggers with click stops, extra buttons, 1000Hz wired/2.4GHz polling and a charging dock. The catch is important: the standard G7 Pro is wireless on PC, but wired on Xbox.",
+      "buyIf": [
+        "PC is your main platform and you want pro-style features without elite-controller pricing",
+        "TMR sticks, trigger stops and extra rear/shoulder inputs appeal to you",
+        "An included charging dock is more convenient than AA batteries"
+      ],
+      "skipIf": [
+        "You need wireless play on Xbox from this standard model",
+        "You want the simplest possible first-party controller experience",
+        "You dislike learning extra buttons or controller configuration software"
+      ],
+      "specs": [
+        [
+          "PC connection",
+          "2.4GHz wireless + wired"
+        ],
+        [
+          "Xbox connection",
+          "Wired"
+        ],
+        [
+          "Sticks",
+          "GameSir Mag-Res TMR"
+        ],
+        [
+          "Triggers",
+          "Hall-effect analog + micro-switch stops"
+        ],
+        [
+          "PC polling",
+          "Up to 1000Hz wired / 2.4GHz"
+        ],
+        [
+          "Extra inputs",
+          "4 macro buttons"
+        ],
+        [
+          "Dock",
+          "Included charging station"
+        ]
+      ],
+      "body": "<h2>The first thing to understand: platform connection modes</h2><p>GameSir describes the standard G7 Pro as wired on Xbox, 2.4GHz or wired on PC, and Bluetooth on Android. That distinction matters because a listing that says “Xbox & PC” can easily be misread as wireless on both.</p><h2>Why the controls are interesting</h2><p>The G7 Pro uses TMR magnetic thumbsticks, Hall-effect analog triggers and physical trigger stops that switch to a short click. It also adds two rear buttons and two extra shoulder buttons. Those features are the reason to consider it over a basic first-party pad.</p><h2>1000Hz is useful context, not the whole reason to buy it</h2><p>GameSir supports 1000Hz polling on PC over wired and 2.4GHz connections. A higher polling rate can reduce the interval between input reports, but ergonomics, stick feel and game support still matter more than buying the largest number on the box.</p><h2>The dock improves everyday ownership</h2><p>An included charging station is a small feature that can matter more than another spec-sheet win. The controller has a 1200mAh battery and the dock gives it a consistent home between sessions rather than turning charging into another cable hunt.</p><h2>Compared with the Xbox Wireless Controller</h2><p>Microsoft's controller remains the low-friction compatibility choice. It uses Xbox Wireless and Bluetooth, works across Xbox, Windows and mobile devices, and Microsoft rates standard AA batteries for up to 40 hours depending on use. It is simpler; the GameSir is more configurable.</p><h2>Verdict</h2><p>For PC-first buyers, the G7 Pro is the more interesting researched pick if its price stays close to the standard Xbox controller. For Xbox-first buyers who specifically want wireless play, the connection limitation changes the answer immediately.</p>",
+      "recommendations": [
+        {
+          "label": "BEST PC FEATURE SET",
+          "name": "GameSir G7 Pro",
+          "why": "Our default PC pick for TMR sticks, trigger stops, extra inputs and the included dock.",
+          "url": "https://www.amazon.co.uk/s?k=GameSir+G7+Pro+controller&tag=aidan0701-20",
+          "image": "https://cdn.shopify.com/s/files/1/2241/8433/files/gamesir-g7-pro-tri-mode-xbox-wired-pc-mobile-wireless-controller-5745938.png?v=1784477669&width=2048",
+          "fallbackImage": "assets/images/amazon-controller.svg"
+        },
+        {
+          "label": "SIMPLE COMPATIBILITY",
+          "name": "Xbox Wireless Controller",
+          "why": "The straightforward first-party choice for Xbox and PC with Xbox Wireless and Bluetooth.",
+          "url": "https://www.amazon.co.uk/s?k=Xbox+Wireless+Controller&tag=aidan0701-20",
+          "image": "https://assets.xboxservices.com/assets/d3/b8/d3b82872-cea1-4f26-81c8-c8da49a27362.jpg?n=Xbox-Wireless-Controller_Image-Hero-1084_White_1920x831_01.jpg",
+          "fallbackImage": "assets/images/amazon-controller.svg"
+        },
+        {
+          "label": "HIGH-END PC",
+          "name": "Razer Wolverine V3 Pro 8K PC",
+          "why": "Premium PC-only competitive option with TMR sticks and native 8K wireless polling.",
+          "url": "https://www.amazon.co.uk/s?k=Razer+Wolverine+V3+Pro+8K+PC&tag=aidan0701-20",
+          "fallbackImage": "assets/images/amazon-controller.svg"
+        }
+      ],
+      "relatedSlugs": [
+        "best-pc-controller-2026",
+        "best-gaming-keyboard-2026",
+        "best-gaming-mouse-2026"
+      ],
+      "sources": [
+        [
+          "GameSir G7 Pro official product page",
+          "https://gamesir.com/products/gamesir-g7-pro"
+        ],
+        [
+          "Xbox Wireless Controller official UK page",
+          "https://www.xbox.com/en-GB/accessories/controllers/xbox-wireless-controller"
+        ],
+        [
+          "PC Gamer best PC controllers 2026",
+          "https://www.pcgamer.com/best-controller-for-pc-gaming/"
+        ]
       ]
     }
   ],
@@ -825,7 +1182,7 @@ window.CHECKPOINT_CONTENT = {
       "score": "11 MIN",
       "art": "monitor",
       "quick": "For a very tight budget, a 1080p 120Hz IPS screen such as the ASUS VY279HGR is a genuine upgrade over 60Hz. If you can spend more, 27-inch 1440p is the resolution sweet spot for most PC gamers, while OLED makes sense only when the rest of the PC and budget can justify it.",
-      "body": "\n        <h2>Do not start with brand</h2>\n        <p>Start with three questions: what resolution can your GPU drive, what refresh rate can your games actually reach, and how far are you sitting from the screen?</p>\n        <h2>Cheapest sensible tier: 1080p high refresh</h2>\n        <p>The ASUS VY279HGR is a good example of this category: 27-inch IPS, 1920×1080, up to 120Hz and Adaptive-Sync. Its advantage is price and easy GPU load; its weakness is lower sharpness at 27 inches.</p>\n        <h2>The general sweet spot: 27-inch 1440p</h2>\n        <p>For most mid-range gaming PCs, 2560×1440 gives a much sharper image than 1080p without the GPU cost of 4K. A 144–180Hz IPS display is usually the sensible all-round target.</p>\n        <h2>Premium tier: OLED</h2>\n        <p>LG's 27GS95QE is a 27-inch QHD OLED with 240Hz refresh, 0.03ms GtG response, G-SYNC compatibility and FreeSync Premium Pro. Samsung's Odyssey OLED G6 G60SD pushes QHD OLED to 360Hz. Those are enthusiast options, not budget substitutes.</p>\n        <h2>Checkpoint pick for the lowest spend</h2>\n        <p>If the ASUS is substantially cheaper than 1440p alternatives, it is a reasonable entry-level buy. If prices are close, spend the extra on 1440p.</p><h2>Choose resolution before chasing refresh rate</h2><p>For most buyers, the first fork is 1080p versus 1440p. A 24-inch 1080p monitor is still a sensible budget match for modest GPUs. At 27 inches, 1440p gives a much sharper desktop and is often worth the extra cost if the graphics card can drive it.</p><h2>Do not overpay for fake-sounding HDR</h2><p>Budget monitors often advertise HDR support without the brightness, contrast or local dimming needed for dramatic HDR. Treat HDR as a bonus until independent testing shows the panel can actually deliver it.</p><h2>Stand and ports are long-term features</h2><p>Height adjustment, DisplayPort, enough HDMI inputs and VESA mounting can matter every day for years. A slightly slower panel with a better stand can be the better ownership experience than a spec-sheet winner that forces you into bad ergonomics.</p>",
+      "body": "\n        <h2>Do not start with brand</h2>\n        <p>Start with three questions: what resolution can your GPU drive, what refresh rate can your games actually reach, and how far are you sitting from the screen?</p>\n        <h2>Cheapest sensible tier: 1080p high refresh</h2>\n        <p>The ASUS VY279HGR is a good example of this category: 27-inch IPS, 1920×1080, up to 120Hz and Adaptive-Sync. Its advantage is price and easy GPU load; its weakness is lower sharpness at 27 inches.</p>\n        <h2>The general sweet spot: 27-inch 1440p</h2>\n        <p>For most mid-range gaming PCs, 2560×1440 gives a much sharper image than 1080p without the GPU cost of 4K. A 144–180Hz IPS display is usually the sensible all-round target.</p>\n        <h2>Premium tier: OLED</h2>\n        <p>LG's 27GS95QE is a 27-inch QHD OLED with 240Hz refresh, 0.03ms GtG response, G-SYNC compatibility and FreeSync Premium Pro. Samsung's Odyssey OLED G6 G60SD pushes QHD OLED to 360Hz. Those are enthusiast options, not budget substitutes.</p>\n        <h2>Checkpoint pick for the lowest spend</h2>\n        <p>If the ASUS is substantially cheaper than 1440p alternatives, it is a reasonable entry-level buy. If prices are close, spend the extra on 1440p.</p><h2>Choose resolution before chasing refresh rate</h2><p>For most buyers, the first fork is 1080p versus 1440p. A 24-inch 1080p monitor is still a sensible budget match for modest GPUs. At 27 inches, 1440p gives a much sharper desktop and is often worth the extra cost if the graphics card can drive it.</p><h2>Do not overpay for fake-sounding HDR</h2><p>Budget monitors often advertise HDR support without the brightness, contrast or local dimming needed for dramatic HDR. Treat HDR as a bonus until independent testing shows the panel can actually deliver it.</p><h2>Stand and ports are long-term features</h2><p>Height adjustment, DisplayPort, enough HDMI inputs and VESA mounting can matter every day for years. A slightly slower panel with a better stand can be the better ownership experience than a spec-sheet winner that forces you into bad ergonomics.</p><h2>What changes when you move to 1440p</h2><p>At 27 inches, 1440p is the point where text, UI and fine game detail become visibly cleaner at normal desk distance. Our <a href=\"article.html?slug=best-1440p-gaming-monitor-2026\">current 1440p guide</a> covers both premium OLED and Mini-LED options, while the <a href=\"article.html?slug=oled-vs-mini-led-gaming-monitor-2026\">OLED vs Mini-LED guide</a> explains the panel trade-off.</p><h2>Budget monitor checklist</h2><p>Before checkout, confirm the exact input used for the advertised refresh rate, whether Adaptive-Sync works over that input, whether the stand has height adjustment, and whether your GPU can actually deliver the target frame rate at the chosen resolution.</p>",
       "product": "ASUS VY279HGR — budget pick",
       "productWhy": "A low-cost route to IPS, 120Hz and Adaptive-Sync if 1080p at 27 inches is acceptable to you.",
       "affiliate_url": "https://www.amazon.co.uk/ASUS-VY279HGR-Care-Gaming-Monitor/dp/B0DJTDVCVT?th=1&linkCode=ll2&tag=aidan0701-20&linkId=1e5d3dc472532c258b6fce3ad515cd50&ref_=as_li_ss_tl",
@@ -863,6 +1220,24 @@ window.CHECKPOINT_CONTENT = {
           "url": "https://www.amazon.co.uk/ASUS-VY279HGR-Care-Gaming-Monitor/dp/B0DJTDVCVT?crid=3KT6J9UV6V0FO&dib=eyJ2IjoiMSJ9.hs5u1E00WDO4_avyWJMI80JQCVWnCNSaAtdOgZF9jeMmnxRc74fwbP_2MoA_7YA99PobyujoVkmd_kMMVvU585ASGajI5T4V0D3jzCo-HxaMzIwTdw3b_1keMwmrWf0k64D3NXOKRihIJvAF5qf0dCsr2dnGu3DQHThWEQpRCL8tVcNyCfEz2tqTaxWS2KpEjy0o2uBjMtlR-io9e_FXy3GumM3PbyqLrj45CA1u_bw.CruI2knUKrNvBcWo9TbKsHg5vjFotwFC1xoBCLwhuuY&dib_tag=se&keywords=GAMING%2BMONITOR&qid=1787155040&sprefix=gaming%2Bmonitor%2Caps%2C154&sr=8-5&th=1&linkCode=ll2&tag=aidan0701-20&linkId=1e5d3dc472532c258b6fce3ad515cd50&ref_=as_li_ss_tl",
           "image": "assets/images/asus-vy279hgr.svg"
         }
+      ],
+      "specs": [
+        [
+          "Entry tier",
+          "1080p / 120Hz+"
+        ],
+        [
+          "Mainstream target",
+          "27in 1440p / 144–180Hz"
+        ],
+        [
+          "Premium step",
+          "OLED / Mini-LED"
+        ],
+        [
+          "First check",
+          "GPU capability + viewing distance"
+        ]
       ]
     },
     {
@@ -874,7 +1249,7 @@ window.CHECKPOINT_CONTENT = {
       "score": "13 MIN",
       "art": "sim",
       "quick": "A single 27-inch screen is the cheapest way to start, a 34–49-inch ultrawide is the neatest immersion upgrade, and triple monitors give the widest usable field of view but demand the most space, GPU power and setup effort. Spend on pedals and a rigid mounting solution before chasing an exotic display setup.",
-      "body": "\n        <h2>Single monitor</h2>\n        <p>A single screen is cheap, simple and easy to run. It is ideal while you are learning whether sim racing is something you will stick with. A budget 1080p 120Hz monitor can work, but position it as close to the wheel as practical to maximise usable field of view.</p>\n        <h2>Ultrawide</h2>\n        <p>Ultrawide is the clean middle ground: more horizontal view than 16:9 without the cabling, bezels and calibration of triples. The GPU load is higher, but still generally easier to manage than three separate 1440p panels.</p>\n        <h2>Triple screens</h2>\n        <p>Triples are about peripheral vision. When correctly angled and configured, side monitors can show mirrors and cars alongside you rather than simply stretching the image. The cost is space, mounting hardware and GPU workload.</p>\n        <h2>Refresh rate and panel type</h2>\n        <p>120Hz or above is a worthwhile target for racing. OLED delivers exceptional motion clarity and contrast, while IPS remains the easier value choice and avoids OLED-specific longevity considerations.</p>\n        <h2>Budget recommendation</h2>\n        <p>For a first rig, buy one decent monitor and a solid mounting solution. The ASUS VY279HGR can serve as a cheap starter display, but 1440p becomes more attractive if you sit close to a 27-inch screen.</p><h2>Single 16:9: cheapest and easiest</h2><p>A normal monitor is the simplest place to start. Move it as close to the wheel as practical, calculate a sensible field of view and spend the saved money on controls or seating. A well-positioned 27- or 32-inch screen can be much better than a huge display sitting far away.</p><h2>Ultrawide: the convenience sweet spot</h2><p>Ultrawides add peripheral view without the cabling, GPU outputs and alignment work of triples. They are especially attractive on compact rigs where side monitors are not practical.</p><h2>Triples: maximum coverage, maximum commitment</h2><p>Three monitors can provide excellent side visibility and natural mirror placement, but they demand space, mounting, calibration and GPU horsepower. They make the most sense once the rig has become a permanent part of the room.</p>",
+      "body": "\n        <h2>Single monitor</h2>\n        <p>A single screen is cheap, simple and easy to run. It is ideal while you are learning whether sim racing is something you will stick with. A budget 1080p 120Hz monitor can work, but position it as close to the wheel as practical to maximise usable field of view.</p>\n        <h2>Ultrawide</h2>\n        <p>Ultrawide is the clean middle ground: more horizontal view than 16:9 without the cabling, bezels and calibration of triples. The GPU load is higher, but still generally easier to manage than three separate 1440p panels.</p>\n        <h2>Triple screens</h2>\n        <p>Triples are about peripheral vision. When correctly angled and configured, side monitors can show mirrors and cars alongside you rather than simply stretching the image. The cost is space, mounting hardware and GPU workload.</p>\n        <h2>Refresh rate and panel type</h2>\n        <p>120Hz or above is a worthwhile target for racing. OLED delivers exceptional motion clarity and contrast, while IPS remains the easier value choice and avoids OLED-specific longevity considerations.</p>\n        <h2>Budget recommendation</h2>\n        <p>For a first rig, buy one decent monitor and a solid mounting solution. The ASUS VY279HGR can serve as a cheap starter display, but 1440p becomes more attractive if you sit close to a 27-inch screen.</p><h2>Single 16:9: cheapest and easiest</h2><p>A normal monitor is the simplest place to start. Move it as close to the wheel as practical, calculate a sensible field of view and spend the saved money on controls or seating. A well-positioned 27- or 32-inch screen can be much better than a huge display sitting far away.</p><h2>Ultrawide: the convenience sweet spot</h2><p>Ultrawides add peripheral view without the cabling, GPU outputs and alignment work of triples. They are especially attractive on compact rigs where side monitors are not practical.</p><h2>Triples: maximum coverage, maximum commitment</h2><p>Three monitors can provide excellent side visibility and natural mirror placement, but they demand space, mounting, calibration and GPU horsepower. They make the most sense once the rig has become a permanent part of the room.</p><h2>Position can matter more than panel technology</h2><p>A premium monitor mounted too far behind the wheel can give a worse racing view than a cheaper panel positioned correctly. A monitor arm or rigid stand that lets you bring the screen close to the wheel can improve usable field of view without changing the GPU load. See our <a href=\"article.html?slug=best-monitor-arm-for-gaming-desk-2026\">monitor-arm guide</a>.</p><h2>OLED versus Mini-LED for racing</h2><p>OLED gives excellent motion clarity and dark-scene contrast; Mini-LED can deliver strong HDR brightness without the same static-content considerations. Our <a href=\"article.html?slug=oled-vs-mini-led-gaming-monitor-2026\">OLED vs Mini-LED comparison</a> goes deeper.</p>",
       "product": "ASUS VY279HGR — starter sim display",
       "productWhy": "A low-cost single-screen option while the rest of the sim budget goes into the wheel, pedals and mounting.",
       "affiliate_url": "https://www.amazon.co.uk/ASUS-VY279HGR-Care-Gaming-Monitor/dp/B0DJTDVCVT?th=1&linkCode=ll2&tag=aidan0701-20&linkId=1e5d3dc472532c258b6fce3ad515cd50&ref_=as_li_ss_tl",
@@ -903,7 +1278,46 @@ window.CHECKPOINT_CONTENT = {
         "You are buying the biggest screen without measuring the rig",
         "You expect a monitor upgrade to compensate for poor wheel/pedal setup",
         "You have not checked GPU output requirements for triples"
-      ]
+      ],
+      "specs": [
+        [
+          "Starter target",
+          "Single 120Hz+ display"
+        ],
+        [
+          "Immersion upgrade",
+          "Ultrawide or triples"
+        ],
+        [
+          "Panel options",
+          "IPS / OLED / Mini-LED"
+        ],
+        [
+          "Critical factor",
+          "Screen distance + field of view"
+        ]
+      ],
+      "recommendations": [
+        {
+          "label": "PREMIUM SINGLE SCREEN",
+          "name": "ASUS ROG Swift OLED PG27AQDP",
+          "why": "Fast 1440p OLED reference if motion clarity matters more than screen width.",
+          "url": "https://www.amazon.co.uk/s?k=ASUS+PG27AQDP&tag=aidan0701-20",
+          "image": "https://dlcdnwebimgs.asus.com/gain/5F9D40FE-DAF9-4296-B519-91424A733D27/w1000/h732",
+          "fallbackImage": "assets/images/sim-monitor.svg"
+        },
+        {
+          "label": "MONITOR ARM",
+          "name": "Ergotron LX",
+          "why": "Useful for moving a shared desk display close to the wheel when compatibility fits.",
+          "url": "https://www.amazon.co.uk/s?k=Ergotron+LX+Monitor+Arm&tag=aidan0701-20",
+          "fallbackImage": "assets/images/monitor-arm.svg"
+        }
+      ],
+      "heroImages": [
+        "https://dlcdnwebimgs.asus.com/gain/5F9D40FE-DAF9-4296-B519-91424A733D27/w1000/h732"
+      ],
+      "productImage": "https://dlcdnwebimgs.asus.com/gain/5F9D40FE-DAF9-4296-B519-91424A733D27/w1000/h732"
     },
     {
       "slug": "beginner-sim-racing-setup-2026",
@@ -951,6 +1365,41 @@ window.CHECKPOINT_CONTENT = {
         "You are spending most of the budget on peak wheel torque",
         "You have no plan for pedal or chair movement",
         "You are buying niche accessories before the core setup works"
+      ],
+      "specs": [
+        [
+          "Wheelbase",
+          "Entry direct drive where budget allows"
+        ],
+        [
+          "Pedals",
+          "Stable mounting before high brake force"
+        ],
+        [
+          "Display",
+          "Single monitor is enough to start"
+        ],
+        [
+          "Upgrade order",
+          "Pedals / mounting before chasing torque"
+        ]
+      ],
+      "recommendations": [
+        {
+          "label": "PC DIRECT DRIVE",
+          "name": "MOZA R5 Pro Racing Simulator",
+          "why": "Compact 6 Nm starter route for a PC-first setup.",
+          "url": "https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000",
+          "fallbackImage": "assets/images/beginner-sim-setup.svg"
+        },
+        {
+          "label": "STABILITY UPGRADE",
+          "name": "Sim Racing Wheel Stand",
+          "why": "A stable mount can improve the whole setup before more torque.",
+          "url": "https://www.amazon.co.uk/s?k=sim+racing+wheel+stand&tag=aidan0701-20",
+          "fallbackImage": "assets/images/beginner-sim-setup.svg"
+        }
       ]
     },
     {
@@ -983,7 +1432,39 @@ window.CHECKPOINT_CONTENT = {
         "Your chair rolls backwards or pedals slide",
         "You only want stronger force feedback, not braking consistency",
         "You cannot comfortably generate the required brake force"
-      ]
+      ],
+      "specs": [
+        [
+          "Primary benefit",
+          "Brake force consistency"
+        ],
+        [
+          "Mounting need",
+          "Stable pedals + chair/cockpit"
+        ],
+        [
+          "Best for",
+          "Drivers struggling with repeatable braking"
+        ],
+        [
+          "Not automatic",
+          "Does not replace technique/practice"
+        ]
+      ],
+      "recommendations": [
+        {
+          "label": "LOAD-CELL PICK",
+          "name": "MOZA SRP2 Pedals",
+          "why": "Practical load-cell route for PC racers who can mount the pedals securely.",
+          "url": "https://uk.mozaracing.com/products/srp2-pedals?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/MOZA_SRP2_Pedals_Throttle_Brake_-1_ea85807a-cb31-4048-b3cf-e59ceeb13e65.png?v=1774429530&width=2000",
+          "fallbackImage": "assets/images/load-cell.svg"
+        }
+      ],
+      "heroImages": [
+        "https://uk.mozaracing.com/cdn/shop/files/MOZA_SRP2_Pedals_Throttle_Brake_-1_ea85807a-cb31-4048-b3cf-e59ceeb13e65.png?v=1774429530&width=2000"
+      ],
+      "productImage": "https://uk.mozaracing.com/cdn/shop/files/MOZA_SRP2_Pedals_Throttle_Brake_-1_ea85807a-cb31-4048-b3cf-e59ceeb13e65.png?v=1774429530&width=2000"
     },
     {
       "slug": "best-direct-drive-wheel-under-500-uk",
@@ -1000,7 +1481,7 @@ window.CHECKPOINT_CONTENT = {
       "score": "14 MIN",
       "art": "sim",
       "quick": "For the cheapest proper direct drive, start with MOZA R3. For PC value, the R5 and newer R5 Pro are stronger all-in-one options. Fanatec CSL DD remains attractive when its ecosystem and 8 Nm upgrade path matter to you.",
-      "body": "\n        <h2>MOZA R3</h2>\n        <p>Rated at 3.9 Nm, the R3 is the low-cost direct-drive entry point. MOZA sells both PC and Xbox-and-PC versions, making it especially interesting for console buyers.</p>\n        <h2>MOZA R5</h2>\n        <p>The standard R5 raises peak torque to 5.5 Nm and remains a compact complete bundle for PC.</p>\n        <h2>MOZA R5 Pro</h2>\n        <p>The newer R5 Pro moves to 6 Nm, a 21-bit magnetic encoder and NexGen 5.0 force feedback. It is the one to watch when its price is close to the standard R5.</p>\n        <h2>Fanatec CSL DD</h2>\n        <p>The CSL DD starts at 5 Nm and can be taken to 8 Nm with the Boost Kit 180. Fanatec's ecosystem and platform licensing options are a major part of the buying decision.</p>\n        <h2>Two newer alternatives worth checking</h2><p>Thrustmaster's T598 brings 5 Nm constant torque, Direct Axial Drive and PlayStation support, while Logitech's newer RS50 range reaches 8 Nm and adds a modular direct-drive path. Their exact bundle prices move, so compare the complete setup rather than the wheelbase price alone.</p><h2>What we would prioritise</h2>\n        <p>Do not choose on torque alone. Check platform support, table-clamp requirements, pedal quality, wheel compatibility and the cost of the upgrades you are likely to want next.</p><h2>Compare complete bundles, not wheelbase headlines</h2><p>A base-only price can look excellent until you add a wheel, clamp and pedals. For a first rig, compare the cost of a system you can actually drive on day one. If you already own compatible pedals and a wheel, base-only deals become much more relevant.</p><h2>Platform support is a hard requirement</h2><p>PC buyers can mix brands more easily. PlayStation and Xbox buyers need to check licensing at the exact wheelbase or wheel level. Never assume that a USB connection means universal console support.</p><h2>Where the value sweet spot sits</h2><p>Entry direct drive around the 4–8 Nm class is enough to show why the technology matters without demanding an extreme cockpit. Put remaining budget into pedal stability and seating before chasing double-digit torque.</p>",
+      "body": "\n        <h2>MOZA R3</h2>\n        <p>Rated at 3.9 Nm, the R3 is the low-cost direct-drive entry point. MOZA sells both PC and Xbox-and-PC versions, making it especially interesting for console buyers.</p>\n        <h2>MOZA R5</h2>\n        <p>The standard R5 raises peak torque to 5.5 Nm and remains a compact complete bundle for PC.</p>\n        <h2>MOZA R5 Pro</h2>\n        <p>The newer R5 Pro moves to 6 Nm, a 21-bit magnetic encoder and NexGen 5.0 force feedback. It is the one to watch when its price is close to the standard R5.</p>\n        <h2>Fanatec CSL DD</h2>\n        <p>The CSL DD starts at 5 Nm and can be taken to 8 Nm with the Boost Kit 180. Fanatec's ecosystem and platform licensing options are a major part of the buying decision.</p>\n        <h2>Two newer alternatives worth checking</h2><p>Thrustmaster's T598 brings 5 Nm constant torque, Direct Axial Drive and PlayStation support, while Logitech's newer RS50 range reaches 8 Nm and adds a modular direct-drive path. Their exact bundle prices move, so compare the complete setup rather than the wheelbase price alone.</p><h2>What we would prioritise</h2>\n        <p>Do not choose on torque alone. Check platform support, table-clamp requirements, pedal quality, wheel compatibility and the cost of the upgrades you are likely to want next.</p><h2>Compare complete bundles, not wheelbase headlines</h2><p>A base-only price can look excellent until you add a wheel, clamp and pedals. For a first rig, compare the cost of a system you can actually drive on day one. If you already own compatible pedals and a wheel, base-only deals become much more relevant.</p><h2>Platform support is a hard requirement</h2><p>PC buyers can mix brands more easily. PlayStation and Xbox buyers need to check licensing at the exact wheelbase or wheel level. Never assume that a USB connection means universal console support.</p><h2>Where the value sweet spot sits</h2><p>Entry direct drive around the 4–8 Nm class is enough to show why the technology matters without demanding an extreme cockpit. Put remaining budget into pedal stability and seating before chasing double-digit torque.</p><h2>Compare complete bundles, not wheelbase headlines</h2><p>A cheaper wheelbase can become the more expensive setup once you add a wheel, pedals, clamp and platform-specific hardware. Price the complete working system on the day you buy. If the wheel is going on a shared desk, our <a href=\"article.html?slug=best-direct-drive-wheel-for-desk-setup\">desk direct-drive guide</a> is the better starting point.</p>",
       "product": "MOZA R5 Pro Racing Simulator",
       "productWhy": "A strong current all-in-one PC option with 6 Nm and a newer encoder/feedback system.",
       "affiliate_url": "https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
@@ -1037,6 +1518,54 @@ window.CHECKPOINT_CONTENT = {
         "You are comparing base-only prices with complete bundles",
         "You need console support but have not checked licensing",
         "The budget leaves nothing for pedals or mounting"
+      ],
+      "specs": [
+        [
+          "MOZA R3",
+          "3.9 Nm"
+        ],
+        [
+          "MOZA R5",
+          "5.5 Nm"
+        ],
+        [
+          "MOZA R5 Pro",
+          "6 Nm"
+        ],
+        [
+          "T598",
+          "5 Nm constant torque"
+        ],
+        [
+          "Compare",
+          "Complete bundle + platform, not base torque alone"
+        ]
+      ],
+      "recommendations": [
+        {
+          "label": "PC PICK",
+          "name": "MOZA R5 Pro Racing Simulator",
+          "why": "6 Nm compact bundle worth checking first for a PC setup.",
+          "url": "https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000",
+          "fallbackImage": "assets/images/best-dd-under-500.svg"
+        },
+        {
+          "label": "PLAYSTATION ROUTE",
+          "name": "Thrustmaster T598",
+          "why": "5 Nm constant Direct Axial Drive package with licensed PlayStation version.",
+          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598&tag=aidan0701-20",
+          "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
+          "fallbackImage": "assets/images/best-dd-under-500.svg"
+        },
+        {
+          "label": "HIGHER-TORQUE CHECK",
+          "name": "Logitech RS50 System",
+          "why": "Up to 8 Nm route when current pricing brings it into budget.",
+          "url": "https://www.amazon.co.uk/s?k=Logitech+RS50+System&tag=aidan0701-20",
+          "image": "https://resource.logitechg.com/w_544%2Ch_466%2Car_7%3A6%2Cc_pad%2Cq_auto%2Cf_auto%2Cdpr_1.0/d_transparent.gif/content/dam/gaming/en/products/rs50-system-pdp/2026-update/rs50-system-front-angle-play-station-gallery-1.png",
+          "fallbackImage": "assets/images/best-dd-under-500.svg"
+        }
       ]
     },
     {
@@ -1083,6 +1612,50 @@ window.CHECKPOINT_CONTENT = {
         "You are buying every ecosystem accessory at once",
         "Your pedals or chair still move under braking",
         "You are upgrading torque before fixing ergonomics"
+      ],
+      "specs": [
+        [
+          "First priority",
+          "Pedal stability / brake quality"
+        ],
+        [
+          "Immersion",
+          "Shifter / handbrake only if your cars use them"
+        ],
+        [
+          "Mounting",
+          "Wheel stand/cockpit before much higher torque"
+        ],
+        [
+          "Display",
+          "Position can matter more than extra wheel accessories"
+        ]
+      ],
+      "recommendations": [
+        {
+          "label": "BRAKE FIRST",
+          "name": "MOZA SRP2 Pedals",
+          "why": "The performance-oriented first upgrade when the pedal mounting is stable.",
+          "url": "https://uk.mozaracing.com/products/srp2-pedals?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/MOZA_SRP2_Pedals_Throttle_Brake_-1_ea85807a-cb31-4048-b3cf-e59ceeb13e65.png?v=1774429530&width=2000",
+          "fallbackImage": "assets/images/load-cell.svg"
+        },
+        {
+          "label": "H-PATTERN IMMERSION",
+          "name": "MOZA HGP Shifter",
+          "why": "For historic, road-car and truck-sim driving where an H-pattern makes sense.",
+          "url": "https://uk.mozaracing.com/products/hgp-shifter?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/MOZA-HGP-Shifter-1-update_4494227f-8eb6-48fc-b28a-75084a963a67.webp?v=1752746553&width=1000",
+          "fallbackImage": "assets/images/beginner-sim-setup.svg"
+        },
+        {
+          "label": "RALLY / DRIFT",
+          "name": "MOZA HBP Handbrake",
+          "why": "Purpose-specific analogue control for rally and drifting.",
+          "url": "https://uk.mozaracing.com/products/hbp-handbrake?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/MOZA-HBP-Handbrake-1.webp?v=1767606077&width=1000",
+          "fallbackImage": "assets/images/beginner-sim-setup.svg"
+        }
       ]
     },
     {
@@ -1146,6 +1719,24 @@ window.CHECKPOINT_CONTENT = {
           "url": "https://www.amazon.co.uk/s?k=Logitech+G923+racing+wheel&tag=aidan0701-20",
           "image": "assets/images/logitech-vs-dd.svg"
         }
+      ],
+      "specs": [
+        [
+          "MOZA R5 Pro",
+          "6 Nm direct drive"
+        ],
+        [
+          "G923",
+          "Up to 2.3 Nm dual motor"
+        ],
+        [
+          "R5 Pro encoder",
+          "21-bit magnetic"
+        ],
+        [
+          "Desk use",
+          "Both viable with stable mounting"
+        ]
       ]
     },
     {
@@ -1196,6 +1787,42 @@ window.CHECKPOINT_CONTENT = {
         "You are treating 6 Nm vs 5 Nm as the whole comparison",
         "You need PlayStation support but are considering a PC-only bundle",
         "Your desk cannot handle a substantial clamp-mounted base"
+      ],
+      "specs": [
+        [
+          "R5 Pro",
+          "6 Nm peak direct drive"
+        ],
+        [
+          "T598",
+          "5 Nm constant Direct Axial Drive"
+        ],
+        [
+          "R5 Pro platform",
+          "PC-focused"
+        ],
+        [
+          "T598 platform",
+          "PlayStation/PC or Xbox/PC version depending model"
+        ]
+      ],
+      "recommendations": [
+        {
+          "label": "PC PICK",
+          "name": "MOZA R5 Pro Racing Simulator",
+          "why": "Compact 6 Nm PC bundle with included desk clamp.",
+          "url": "https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000",
+          "fallbackImage": "assets/images/best-dd-under-500.svg"
+        },
+        {
+          "label": "CONSOLE ALTERNATIVE",
+          "name": "Thrustmaster T598",
+          "why": "Check the exact licensed PlayStation/PC or Xbox/PC version before buying.",
+          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598&tag=aidan0701-20",
+          "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
+          "fallbackImage": "assets/images/best-dd-under-500.svg"
+        }
       ]
     },
     {
@@ -1255,6 +1882,50 @@ window.CHECKPOINT_CONTENT = {
         "Your desk is lightweight or hollow and wobbles",
         "You want double-digit torque at full strength on office furniture",
         "You are ignoring pedal stability and ergonomics"
+      ],
+      "specs": [
+        [
+          "MOZA R5 Pro",
+          "6 Nm; clamp included"
+        ],
+        [
+          "Thrustmaster T598",
+          "5 Nm constant; clamp-equipped bundle"
+        ],
+        [
+          "Logitech RS50 System",
+          "Up to 8 Nm"
+        ],
+        [
+          "Desk priority",
+          "Rigidity before maximum torque"
+        ]
+      ],
+      "recommendations": [
+        {
+          "label": "BEST PC FIT",
+          "name": "MOZA R5 Pro Racing Simulator",
+          "why": "Compact 6 Nm base with clamp included.",
+          "url": "https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000",
+          "fallbackImage": "assets/images/best-dd-under-500.svg"
+        },
+        {
+          "label": "PLAYSTATION PICK",
+          "name": "Thrustmaster T598",
+          "why": "Modern direct-drive-class route with licensed PlayStation support.",
+          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598&tag=aidan0701-20",
+          "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
+          "fallbackImage": "assets/images/best-dd-under-500.svg"
+        },
+        {
+          "label": "MORE HEADROOM",
+          "name": "Logitech RS50 System",
+          "why": "8 Nm class option for a genuinely rigid desk.",
+          "url": "https://www.amazon.co.uk/s?k=Logitech+RS50+System&tag=aidan0701-20",
+          "image": "https://resource.logitechg.com/w_544%2Ch_466%2Car_7%3A6%2Cc_pad%2Cq_auto%2Cf_auto%2Cdpr_1.0/d_transparent.gif/content/dam/gaming/en/products/rs50-system-pdp/2026-update/rs50-system-front-angle-play-station-gallery-1.png",
+          "fallbackImage": "assets/images/best-dd-under-500.svg"
+        }
       ]
     },
     {
@@ -1307,7 +1978,8 @@ window.CHECKPOINT_CONTENT = {
           "name": "Samsung 990 Pro 2TB",
           "why": "Our default premium Gen4 pick when pricing is competitive.",
           "url": "https://www.amazon.co.uk/s?k=Samsung+990+Pro+2TB+SSD&tag=aidan0701-20",
-          "image": "assets/images/amazon-storage.svg"
+          "image": "https://images.samsung.com/is/image/samsung/p6pim/de/mz-v9p1t0bw/gallery/de-990pro-nvme-m2-ssd-mz-v9p1t0bw-533582570?$650_519_PNG$",
+          "fallbackImage": "assets/images/amazon-storage.svg"
         },
         {
           "label": "BEST ALTERNATIVE",
@@ -1345,6 +2017,10 @@ window.CHECKPOINT_CONTENT = {
           "Tom's Hardware best SSDs 2026",
           "https://www.tomshardware.com/reviews/best-ssds%2C3891.html"
         ]
+      ],
+      "productImage": "https://images.samsung.com/is/image/samsung/p6pim/de/mz-v9p1t0bw/gallery/de-990pro-nvme-m2-ssd-mz-v9p1t0bw-533582570?$650_519_PNG$",
+      "heroImages": [
+        "https://images.samsung.com/is/image/samsung/p6pim/de/mz-v9p1t0bw/gallery/de-990pro-nvme-m2-ssd-mz-v9p1t0bw-533582570?$650_519_PNG$"
       ]
     },
     {
@@ -1386,14 +2062,15 @@ window.CHECKPOINT_CONTENT = {
           "Shape and weight before headline DPI"
         ]
       ],
-      "body": "<h2>There is no single best mouse shape</h2><p>Hands, grip styles and games differ. A 49g symmetrical esports mouse can feel fantastic in shooters and annoy someone who wants a thumb rest, free-spin wheel and a dozen shortcuts. The right approach is to choose a class first, then compare performance.</p><h2>Best competitive pick: Razer Viper V4 Pro</h2><p>Razer's 2026 flagship weighs about 49g in black, uses a Focus Pro 50K sensor and supports up to 8,000Hz polling. PC Gamer currently places it at the top of its gaming-mouse rankings. The appeal is not the absurd DPI ceiling; it is the combination of low mass, strong build and responsive wireless operation.</p><h2>Best control-heavy all-rounder: Logitech G502 X</h2><p>The wired G502 X is 89g and provides 13 programmable controls, a HERO 25K sensor and Logitech's dual-mode scroll wheel. It is far heavier than the Viper but far more useful if your games—or your work—benefit from extra inputs.</p><p>This is a great example of why 'lighter is always better' is lazy advice. A feature-rich ergonomic mouse can be the better tool even if it loses an esports weight contest.</p><h2>Best flexible wireless value: Razer Cobra HyperSpeed</h2><p>The Cobra HyperSpeed weighs 62g, supports 2.4GHz wireless, Bluetooth and wired use, and Razer rates battery life up to 110 hours on HyperSpeed at 1,000Hz or up to 170 hours on Bluetooth. It also has RGB and five onboard profiles, making it a broader everyday mouse than the stripped-back Viper.</p><h2>How much polling rate do you need?</h2><p>1,000Hz is already excellent for most systems. Higher rates can reduce input intervals further, but the benefit becomes subtle and depends on frame rate, display refresh, CPU headroom and player sensitivity. Do not buy a mouse you dislike holding just to get a bigger polling number.</p><h2>Our rule</h2><p>Pick the shape and weight class first. Then compare buttons, wireless options, battery and software. Treat maximum DPI as almost irrelevant once a modern sensor is already accurate at your real sensitivity.</p>",
+      "body": "<h2>There is no single best mouse shape</h2><p>Hands, grip styles and games differ. A 49g symmetrical esports mouse can feel fantastic in shooters and annoy someone who wants a thumb rest, free-spin wheel and a dozen shortcuts. The right approach is to choose a class first, then compare performance.</p><h2>Best competitive pick: Razer Viper V4 Pro</h2><p>Razer's 2026 flagship weighs about 49g in black, uses a Focus Pro 50K sensor and supports up to 8,000Hz polling. PC Gamer currently places it at the top of its gaming-mouse rankings. The appeal is not the absurd DPI ceiling; it is the combination of low mass, strong build and responsive wireless operation.</p><h2>Best control-heavy all-rounder: Logitech G502 X</h2><p>The wired G502 X is 89g and provides 13 programmable controls, a HERO 25K sensor and Logitech's dual-mode scroll wheel. It is far heavier than the Viper but far more useful if your games—or your work—benefit from extra inputs.</p><p>This is a great example of why 'lighter is always better' is lazy advice. A feature-rich ergonomic mouse can be the better tool even if it loses an esports weight contest.</p><h2>Best flexible wireless value: Razer Cobra HyperSpeed</h2><p>The Cobra HyperSpeed weighs 62g, supports 2.4GHz wireless, Bluetooth and wired use, and Razer rates battery life up to 110 hours on HyperSpeed at 1,000Hz or up to 170 hours on Bluetooth. It also has RGB and five onboard profiles, making it a broader everyday mouse than the stripped-back Viper.</p><h2>How much polling rate do you need?</h2><p>1,000Hz is already excellent for most systems. Higher rates can reduce input intervals further, but the benefit becomes subtle and depends on frame rate, display refresh, CPU headroom and player sensitivity. Do not buy a mouse you dislike holding just to get a bigger polling number.</p><h2>Our rule</h2><p>Pick the shape and weight class first. Then compare buttons, wireless options, battery and software. Treat maximum DPI as almost irrelevant once a modern sensor is already accurate at your real sensitivity.</p><h2>Do not pay extra for DPI you will never use</h2><p>Modern gaming sensors already exceed the sensitivity most players use. Shape, weight balance, click feel and wireless stability are more likely to affect daily ownership than moving from one enormous maximum-DPI number to another. Our <a href=\"article.html?slug=razer-viper-v4-pro-researched-review\">Viper V4 Pro researched review</a> explains where flagship specs actually matter.</p>",
       "recommendations": [
         {
           "label": "BEST COMPETITIVE",
           "name": "Razer Viper V4 Pro",
           "why": "Flagship low-weight choice for competitive shooters and fast aim.",
           "url": "https://www.amazon.co.uk/s?k=Razer+Viper+V4+Pro&tag=aidan0701-20",
-          "image": "assets/images/amazon-mouse.svg"
+          "image": "https://assets2.razerzone.com/images/pnx.assets/eb5fbd749917af6235780a1bdba7bdac/razer-viper-v4-pro-pointers-760.webp",
+          "fallbackImage": "assets/images/amazon-mouse.svg"
         },
         {
           "label": "BEST ALL-ROUNDER",
@@ -1430,6 +2107,10 @@ window.CHECKPOINT_CONTENT = {
           "PC Gamer best gaming mouse 2026",
           "https://www.pcgamer.com/the-best-gaming-mouse/"
         ]
+      ],
+      "productImage": "https://assets2.razerzone.com/images/pnx.assets/eb5fbd749917af6235780a1bdba7bdac/razer-viper-v4-pro-pointers-760.webp",
+      "heroImages": [
+        "https://assets2.razerzone.com/images/pnx.assets/eb5fbd749917af6235780a1bdba7bdac/razer-viper-v4-pro-pointers-760.webp"
       ]
     },
     {
@@ -1471,14 +2152,15 @@ window.CHECKPOINT_CONTENT = {
           "Exact platform version / dongle compatibility"
         ]
       ],
-      "body": "<h2>Wireless gaming headsets are good enough now</h2><p>Modern 2.4GHz gaming links can deliver low latency and stable audio without the obvious lag that made old Bluetooth-only headsets unsuitable for competitive play. The trade-offs have moved to comfort, microphone quality, battery life, platform support and software.</p><h2>Best overall for competitive PC gaming: Razer BlackShark V3</h2><p>Razer lists latency as low as 10ms on its HyperSpeed Wireless Gen-2 connection, plus Bluetooth and USB wired audio. PC Gamer currently ranks it as its best overall gaming headset, with the upgraded 50mm drivers and detachable wideband microphone central to the recommendation.</p><h2>Best battery-focused all-rounder: HyperX Cloud III S Wireless</h2><p>HyperX lists up to 120 hours over 2.4GHz and up to 200 hours in Bluetooth mode, with 53mm drivers and compatibility spanning PC, Mac, PS5, mobile and Switch. That makes it a strong choice for people who hate charging and switch between devices.</p><h2>Best mid-range feature balance: SteelSeries Arctis Nova 3 Wireless</h2><p>SteelSeries lists a 40-hour battery, quick-switch Bluetooth plus 2.4GHz and mobile-app access to more than 200 game audio presets. It is less of a battery monster than HyperX but can be an attractive middle ground for players who like per-game tuning.</p><h2>Xbox warning</h2><p>Wireless headset compatibility can be version-specific. SteelSeries, for example, sells 3X versions for Xbox and separate 3P/PC variants. Razer and HyperX lines also vary by model. Buy the exact platform version, not just the product-family name.</p><h2>Microphone versus standalone mic</h2><p>An integrated boom mic wins on convenience and consistent mouth position. A separate USB or XLR mic can sound better, but it adds desk space and complexity. For most gaming and Discord use, a good headset mic is the sensible compromise.</p><h2>How we would buy</h2><p>Start with platform support and comfort, then decide whether latency, battery or software matters most. Do not pay extra for virtual surround labels before checking whether you prefer the headset's normal stereo presentation in the games you actually play.</p>",
+      "body": "<h2>Wireless gaming headsets are good enough now</h2><p>Modern 2.4GHz gaming links can deliver low latency and stable audio without the obvious lag that made old Bluetooth-only headsets unsuitable for competitive play. The trade-offs have moved to comfort, microphone quality, battery life, platform support and software.</p><h2>Best overall for competitive PC gaming: Razer BlackShark V3</h2><p>Razer lists latency as low as 10ms on its HyperSpeed Wireless Gen-2 connection, plus Bluetooth and USB wired audio. PC Gamer currently ranks it as its best overall gaming headset, with the upgraded 50mm drivers and detachable wideband microphone central to the recommendation.</p><h2>Best battery-focused all-rounder: HyperX Cloud III S Wireless</h2><p>HyperX lists up to 120 hours over 2.4GHz and up to 200 hours in Bluetooth mode, with 53mm drivers and compatibility spanning PC, Mac, PS5, mobile and Switch. That makes it a strong choice for people who hate charging and switch between devices.</p><h2>Best mid-range feature balance: SteelSeries Arctis Nova 3 Wireless</h2><p>SteelSeries lists a 40-hour battery, quick-switch Bluetooth plus 2.4GHz and mobile-app access to more than 200 game audio presets. It is less of a battery monster than HyperX but can be an attractive middle ground for players who like per-game tuning.</p><h2>Xbox warning</h2><p>Wireless headset compatibility can be version-specific. SteelSeries, for example, sells 3X versions for Xbox and separate 3P/PC variants. Razer and HyperX lines also vary by model. Buy the exact platform version, not just the product-family name.</p><h2>Microphone versus standalone mic</h2><p>An integrated boom mic wins on convenience and consistent mouth position. A separate USB or XLR mic can sound better, but it adds desk space and complexity. For most gaming and Discord use, a good headset mic is the sensible compromise.</p><h2>How we would buy</h2><p>Start with platform support and comfort, then decide whether latency, battery or software matters most. Do not pay extra for virtual surround labels before checking whether you prefer the headset's normal stereo presentation in the games you actually play.</p><h2>Check the wireless mode on your platform</h2><p>“Wireless” can mean 2.4GHz dongle, Bluetooth or both, and console USB support varies. Competitive gaming should normally use the low-latency 2.4GHz route when supported; Bluetooth is more useful for phones, calls and secondary-device convenience. Check the exact platform list before assuming a PC headset works identically on PlayStation, Xbox and Switch.</p>",
       "recommendations": [
         {
           "label": "BEST COMPETITIVE",
           "name": "Razer BlackShark V3",
           "why": "Strong low-latency wireless and an excellent gaming-first feature set.",
           "url": "https://www.amazon.co.uk/s?k=Razer+BlackShark+V3&tag=aidan0701-20",
-          "image": "assets/images/amazon-headset.svg"
+          "image": "https://assets2.razerzone.com/images/pnx.assets/866d791d3c6ec6bc6b0ec3b66116b696/razer-blackshark-v3-hero-3d-static-desktop.webp",
+          "fallbackImage": "assets/images/amazon-headset.svg"
         },
         {
           "label": "BEST BATTERY",
@@ -1515,6 +2197,10 @@ window.CHECKPOINT_CONTENT = {
           "PC Gamer best gaming headsets 2026",
           "https://www.pcgamer.com/best-gaming-headset/"
         ]
+      ],
+      "productImage": "https://assets2.razerzone.com/images/pnx.assets/866d791d3c6ec6bc6b0ec3b66116b696/razer-blackshark-v3-hero-3d-static-desktop.webp",
+      "heroImages": [
+        "https://assets2.razerzone.com/images/pnx.assets/866d791d3c6ec6bc6b0ec3b66116b696/razer-blackshark-v3-hero-3d-static-desktop.webp"
       ]
     },
     {
@@ -1560,7 +2246,7 @@ window.CHECKPOINT_CONTENT = {
           "System update required"
         ]
       ],
-      "body": "<h2>The compatibility rule is simple—and easy to get wrong</h2><p>Nintendo says Switch 2 is only compatible with microSD Express cards for downloadable software, updates, DLC, screenshots and captured videos. A normal microSD card from an original Switch cannot be used to store Switch 2 games.</p><p>The label matters. 'microSDXC', 'UHS-I' or a familiar Nintendo character printed on an older card does not automatically mean Express.</p><h2>Samsung P9 Express</h2><p>Samsung's P9 Express is explicitly positioned for Nintendo Switch 2 and uses PCIe-based microSD Express technology. Samsung claims sequential reads up to 800 MB/s and sells 256GB and 512GB capacities, with thermal management and a three-year limited warranty.</p><h2>SanDisk microSD Express for Nintendo Switch 2</h2><p>SanDisk offers both general microSD Express cards and officially licensed Switch 2 versions. Its current licensed data sheet lists read speeds up to 880 MB/s and write speeds up to 650 MB/s, with capacities up to 512GB and a lifetime limited warranty.</p><h2>Do you need the officially licensed artwork?</h2><p>No. Nintendo says any card up to 2TB that meets the microSD Express standard can be used. Licensed branding can be reassuring and convenient, but the technical standard is what matters.</p><h2>How much capacity?</h2><p>256GB is a sensible cheaper expansion for a mostly physical-game library. 512GB is easier to recommend for digital-heavy players because it gives more room before storage management returns. Larger Express capacities can make sense later as pricing improves.</p><h2>Important first-use step</h2><p>Nintendo requires a system update via the internet the first time a microSD Express card is used. If a new card is not detected, update the console before assuming the card is faulty.</p><h2>Verdict</h2><p>Buy a known-brand microSD Express card, not merely a fast-looking microSD card. Compare Samsung P9 Express and SanDisk Express pricing in the capacity you need, and let price, warranty and availability decide it.</p>",
+      "body": "<h2>The compatibility rule is simple—and easy to get wrong</h2><p>Nintendo says Switch 2 is only compatible with microSD Express cards for downloadable software, updates, DLC, screenshots and captured videos. A normal microSD card from an original Switch cannot be used to store Switch 2 games.</p><p>The label matters. 'microSDXC', 'UHS-I' or a familiar Nintendo character printed on an older card does not automatically mean Express.</p><h2>Samsung P9 Express</h2><p>Samsung's P9 Express is explicitly positioned for Nintendo Switch 2 and uses PCIe-based microSD Express technology. Samsung claims sequential reads up to 800 MB/s and sells 256GB and 512GB capacities, with thermal management and a three-year limited warranty.</p><h2>SanDisk microSD Express for Nintendo Switch 2</h2><p>SanDisk offers both general microSD Express cards and officially licensed Switch 2 versions. Its current licensed data sheet lists read speeds up to 880 MB/s and write speeds up to 650 MB/s, with capacities up to 512GB and a lifetime limited warranty.</p><h2>Do you need the officially licensed artwork?</h2><p>No. Nintendo says any card up to 2TB that meets the microSD Express standard can be used. Licensed branding can be reassuring and convenient, but the technical standard is what matters.</p><h2>How much capacity?</h2><p>256GB is a sensible cheaper expansion for a mostly physical-game library. 512GB is easier to recommend for digital-heavy players because it gives more room before storage management returns. Larger Express capacities can make sense later as pricing improves.</p><h2>Important first-use step</h2><p>Nintendo requires a system update via the internet the first time a microSD Express card is used. If a new card is not detected, update the console before assuming the card is faulty.</p><h2>Verdict</h2><p>Buy a known-brand microSD Express card, not merely a fast-looking microSD card. Compare Samsung P9 Express and SanDisk Express pricing in the capacity you need, and let price, warranty and availability decide it.</p><h2>How to avoid buying the wrong card</h2><p>Search results can place older UHS-I cards beside microSD Express products. For Switch 2 game storage, verify the listing explicitly says <strong>microSD Express</strong>; do not rely on capacity, Nintendo artwork or the fact that the card worked in an original Switch. Buy capacity after compatibility, not before it.</p>",
       "recommendations": [
         {
           "label": "TOP PICK",
@@ -1603,6 +2289,457 @@ window.CHECKPOINT_CONTENT = {
         [
           "SanDisk licensed Switch 2 microSD Express data sheet",
           "https://documents.sandisk.com/content/dam/asset-library/en_us/assets/public/sandisk/product/memory-cards/microsd-express-card-for-nintendo-switch-2/data-sheet-microsd-express-card-for-nintendo-switch-2.pdf"
+        ]
+      ]
+    },
+    {
+      "slug": "best-gaming-keyboard-2026",
+      "image": "assets/images/amazon-keyboard.svg",
+      "productImage": "https://www.keychron.com/cdn/shop/files/K2-HE-Special-Edition-White-1.jpg?v=1758093478",
+      "heroImages": [
+        "https://www.keychron.com/cdn/shop/files/K2-HE-Special-Edition-White-1.jpg?v=1758093478",
+        "https://assets2.razerzone.com/images/pnx.assets/e66e945487cf21ca2b358a0d23e26404/huntsman-v3-pro-8khz-hyperpolling-animation-%5B1920-x-700%5D_screenshot.jpg",
+        "https://dlcdnwebimgs.asus.com/gain/9E1FA5D0-65AB-4188-84DE-A80058422939/w717/h525/fwebp"
+      ],
+      "category": "GAMING KEYBOARD BUYING GUIDE",
+      "title": "Best Gaming Keyboards in 2026: Magnetic, Mechanical and Wireless Picks",
+      "excerpt": "Keychron K2 HE, Razer Huntsman V3 Pro 8K and ASUS ROG Strix Scope II 96 Wireless cover three genuinely different ways to build a gaming keyboard.",
+      "score": "18 MIN",
+      "art": "pc",
+      "lastChecked": "20 August 2026",
+      "researchStatus": "Research-backed",
+      "quick": "Our practical wireless pick is the Keychron K2 HE: a 75% magnetic board with Rapid Trigger and UK ISO availability. Choose the Razer Huntsman V3 Pro 8K if competitive analog/rapid-trigger features are the priority, or the ASUS ROG Strix Scope II 96 Wireless if you want a more traditional mechanical board with nearly full-size functionality.",
+      "buyIf": [
+        "You know whether you value magnetic gaming features, mechanical feel or full-size convenience",
+        "You want to compare current UK-available layouts instead of buying on switch marketing alone",
+        "You are replacing a basic keyboard and will actually use the extra features"
+      ],
+      "skipIf": [
+        "Your current board already fits your layout and switch preferences",
+        "You are expecting an 8000Hz keyboard to transform non-competitive games",
+        "You have not decided whether you need a numpad, arrows or UK ISO layout"
+      ],
+      "specs": [
+        [
+          "Keychron K2 HE",
+          "75% / magnetic / 2.4GHz + Bluetooth + wired"
+        ],
+        [
+          "Razer Huntsman V3 Pro 8K",
+          "Full-size / analog optical / up to 8000Hz"
+        ],
+        [
+          "ROG Strix Scope II 96 Wireless",
+          "96% / mechanical / tri-mode wireless"
+        ],
+        [
+          "Key buying decision",
+          "Layout + switch behaviour before polling-rate marketing"
+        ]
+      ],
+      "body": "<h2>Start with layout, not the logo</h2><p>A keyboard can have excellent switches and still be wrong for your desk. A 75% board gives you arrows and a function row without a numpad; 96% keeps almost all full-size keys in a tighter footprint; a full-size board is easiest if you constantly use the numpad and dedicated controls.</p><h2>Best wireless magnetic pick: Keychron K2 HE</h2><p>The K2 HE combines magnetic switches, adjustable actuation and Rapid Trigger with 2.4GHz, Bluetooth and USB-C. The 75% layout is compact without becoming cryptic, and Keychron sells an ISO-UK version. That combination makes it a strong mixed-use recommendation rather than a keyboard that only makes sense in one esports title.</p><h2>Best competitive full-size pick: Razer Huntsman V3 Pro 8K</h2><p>Razer's current V3 Pro 8K uses second-generation analog optical switches, adjustable actuation and Rapid Trigger with true 8000Hz HyperPolling. This is the option for someone deliberately shopping for a fast, highly adjustable competitive board and willing to pay for it.</p><h2>Best conventional mechanical all-rounder: ASUS ROG Strix Scope II 96 Wireless</h2><p>The Scope II 96 Wireless keeps the numpad and function row while shrinking the footprint. ASUS supports Bluetooth, 2.4GHz SpeedNova and wired USB, with hot-swappable pre-lubed NX mechanical switches and 1000Hz USB reporting.</p><h2>Magnetic versus mechanical</h2><p>Magnetic switches let software choose actuation points and reset behaviour. Conventional mechanical switches have a fixed physical actuation design but offer a huge range of feel, sound and easy replacement. Competitive FPS players have the strongest reason to care about Rapid Trigger; mixed-use buyers should care just as much about layout, keycaps and wireless reliability.</p><h2>Do you need 8000Hz?</h2><p>Not automatically. High polling rates reduce report intervals but can increase CPU and power demands, and the practical benefit depends on game, display refresh rate and player sensitivity. Treat 8K as a specialist feature, not a reason to reject an otherwise better-fitting 1000Hz board.</p><h2>Our buying rule</h2><p>Pick the layout first, then switch technology, then connectivity. Only after those three fit should you compare polling rate, RGB and software extras.</p>",
+      "recommendations": [
+        {
+          "label": "WIRELESS MAGNETIC",
+          "name": "Keychron K2 HE",
+          "why": "Best fit here for a mixed gaming/work desk that still wants Rapid Trigger.",
+          "url": "https://www.amazon.co.uk/s?k=Keychron+K2+HE+UK+ISO&tag=aidan0701-20",
+          "image": "https://www.keychron.com/cdn/shop/files/K2-HE-Special-Edition-White-1.jpg?v=1758093478",
+          "fallbackImage": "assets/images/amazon-keyboard.svg"
+        },
+        {
+          "label": "COMPETITIVE FULL-SIZE",
+          "name": "Razer Huntsman V3 Pro 8K",
+          "why": "Analog optical switches and 8K polling for a deliberately esports-focused setup.",
+          "url": "https://www.amazon.co.uk/s?k=Razer+Huntsman+V3+Pro+8K&tag=aidan0701-20",
+          "image": "https://assets2.razerzone.com/images/pnx.assets/e66e945487cf21ca2b358a0d23e26404/huntsman-v3-pro-8khz-hyperpolling-animation-%5B1920-x-700%5D_screenshot.jpg",
+          "fallbackImage": "assets/images/amazon-keyboard.svg"
+        },
+        {
+          "label": "MECHANICAL ALL-ROUNDER",
+          "name": "ASUS ROG Strix Scope II 96 Wireless",
+          "why": "Nearly full-size functionality with hot-swap mechanical switches and tri-mode connectivity.",
+          "url": "https://www.amazon.co.uk/s?k=ASUS+ROG+Strix+Scope+II+96+Wireless&tag=aidan0701-20",
+          "image": "https://dlcdnwebimgs.asus.com/gain/9E1FA5D0-65AB-4188-84DE-A80058422939/w717/h525/fwebp",
+          "fallbackImage": "assets/images/amazon-keyboard.svg"
+        }
+      ],
+      "relatedSlugs": [
+        "keychron-k2-he-researched-review",
+        "best-gaming-mouse-2026",
+        "best-pc-controller-2026"
+      ],
+      "sources": [
+        [
+          "PC Gamer best gaming keyboards 2026",
+          "https://www.pcgamer.com/best-gaming-keyboard/"
+        ],
+        [
+          "Keychron K2 HE official page",
+          "https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard"
+        ],
+        [
+          "Razer Huntsman V3 Pro 8K official page",
+          "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro-8k-hz"
+        ],
+        [
+          "ASUS ROG Strix Scope II 96 Wireless official UK page",
+          "https://rog.asus.com/uk/keyboards/keyboards/aura-rgb/rog-strix-scope-ii-96-wireless/"
+        ]
+      ]
+    },
+    {
+      "slug": "best-pc-controller-2026",
+      "image": "assets/images/amazon-controller.svg",
+      "productImage": "https://cdn.shopify.com/s/files/1/2241/8433/files/gamesir-g7-pro-tri-mode-xbox-wired-pc-mobile-wireless-controller-5745938.png?v=1784477669&width=2048",
+      "heroImages": [
+        "https://cdn.shopify.com/s/files/1/2241/8433/files/gamesir-g7-pro-tri-mode-xbox-wired-pc-mobile-wireless-controller-5745938.png?v=1784477669&width=2048",
+        "https://assets.xboxservices.com/assets/d3/b8/d3b82872-cea1-4f26-81c8-c8da49a27362.jpg?n=Xbox-Wireless-Controller_Image-Hero-1084_White_1920x831_01.jpg"
+      ],
+      "category": "PC CONTROLLER BUYING GUIDE",
+      "title": "Best PC Controllers in 2026: Three Gamepads for Very Different Buyers",
+      "excerpt": "GameSir G7 Pro for feature value, Xbox Wireless Controller for painless compatibility, and Razer Wolverine V3 Pro 8K PC for the high-end competitive niche.",
+      "score": "17 MIN",
+      "art": "pc",
+      "lastChecked": "20 August 2026",
+      "researchStatus": "Research-backed",
+      "quick": "For a PC-first player, the GameSir G7 Pro is our default researched pick because it combines TMR sticks, trigger stops, extra inputs, 1000Hz PC polling and a charging dock. The Xbox Wireless Controller is the simpler compatibility choice; Razer's Wolverine V3 Pro 8K PC is the premium competitive option.",
+      "buyIf": [
+        "You play action games, racing games, platformers or sports titles that feel better on a pad",
+        "You want a controller selected around PC connection mode and features",
+        "You are replacing a worn or drifting basic controller"
+      ],
+      "skipIf": [
+        "Most of your games are mouse-heavy strategy, management or competitive FPS titles",
+        "You need a specific console's wireless protocol and have not checked compatibility",
+        "You are buying pro features you will never map or configure"
+      ],
+      "specs": [
+        [
+          "GameSir G7 Pro",
+          "TMR sticks / 1000Hz PC / dock / wired Xbox"
+        ],
+        [
+          "Xbox Wireless Controller",
+          "Xbox Wireless + Bluetooth / AA batteries"
+        ],
+        [
+          "Razer Wolverine V3 Pro 8K PC",
+          "TMR sticks / 8000Hz wireless / PC-focused"
+        ],
+        [
+          "Most important check",
+          "Platform + wireless mode before feature list"
+        ]
+      ],
+      "body": "<h2>PC controller buying is now better than “just buy the Xbox pad”</h2><p>The Xbox Wireless Controller remains a compatibility benchmark, but third-party pads now offer magnetic sticks, trigger stops, back buttons and high-rate wireless connections without automatically entering luxury pricing.</p><h2>Best feature/value balance: GameSir G7 Pro</h2><p>GameSir's standard G7 Pro uses TMR sticks, Hall-effect triggers with micro-switch trigger stops, four extra buttons and a 1000Hz PC report rate. PC Gamer currently places it at the top of its 2026 PC-controller guide. The included dock is a practical bonus.</p><p>The catch: GameSir specifies wired Xbox use, while PC gets 2.4GHz wireless or wired. That distinction should be visible before the buy button, not discovered after delivery.</p><h2>Best simple choice: Xbox Wireless Controller</h2><p>Microsoft's pad is still the least complicated recommendation for broad Xbox/Windows use. Xbox Wireless and Bluetooth cover a wide range of devices, the 3.5mm headset jack is convenient, and AA batteries can be swapped instantly.</p><h2>High-end competitive pick: Razer Wolverine V3 Pro 8K PC</h2><p>Razer positions this as a PC esports controller with native 8000Hz wireless HyperPolling and TMR thumbsticks. It is a specialist buy: useful if you deliberately want its extra controls and low-latency focus, excessive if you mostly play slower single-player games.</p><h2>TMR and Hall effect are not reasons to ignore ergonomics</h2><p>Magnetic sensing helps reduce wear associated with traditional potentiometer contacts, but a controller still has to fit your hands. Stick tension, button placement, weight and grip shape can matter more over a long session than a laboratory polling figure.</p><h2>Our rule</h2><p>Choose platform and connection first. Then choose stick technology and extra controls. Do not pay pro-controller money just to collect features that stay disabled.</p>",
+      "recommendations": [
+        {
+          "label": "BEST FEATURE VALUE",
+          "name": "GameSir G7 Pro",
+          "why": "PC-first pick with TMR sticks, trigger stops, extra controls and charging dock.",
+          "url": "https://www.amazon.co.uk/s?k=GameSir+G7+Pro+controller&tag=aidan0701-20",
+          "image": "https://cdn.shopify.com/s/files/1/2241/8433/files/gamesir-g7-pro-tri-mode-xbox-wired-pc-mobile-wireless-controller-5745938.png?v=1784477669&width=2048",
+          "fallbackImage": "assets/images/amazon-controller.svg"
+        },
+        {
+          "label": "EASIEST COMPATIBILITY",
+          "name": "Xbox Wireless Controller",
+          "why": "Simple first-party choice for Xbox and Windows with Bluetooth support.",
+          "url": "https://www.amazon.co.uk/s?k=Xbox+Wireless+Controller&tag=aidan0701-20",
+          "image": "https://assets.xboxservices.com/assets/d3/b8/d3b82872-cea1-4f26-81c8-c8da49a27362.jpg?n=Xbox-Wireless-Controller_Image-Hero-1084_White_1920x831_01.jpg",
+          "fallbackImage": "assets/images/amazon-controller.svg"
+        },
+        {
+          "label": "HIGH-END PC",
+          "name": "Razer Wolverine V3 Pro 8K PC",
+          "why": "Specialist premium choice for high-rate wireless and extra competitive controls.",
+          "url": "https://www.amazon.co.uk/s?k=Razer+Wolverine+V3+Pro+8K+PC&tag=aidan0701-20",
+          "fallbackImage": "assets/images/amazon-controller.svg"
+        }
+      ],
+      "relatedSlugs": [
+        "gamesir-g7-pro-researched-review",
+        "best-gaming-keyboard-2026",
+        "best-gaming-mouse-2026"
+      ],
+      "sources": [
+        [
+          "PC Gamer best PC controllers 2026",
+          "https://www.pcgamer.com/best-controller-for-pc-gaming/"
+        ],
+        [
+          "GameSir G7 Pro official page",
+          "https://gamesir.com/products/gamesir-g7-pro"
+        ],
+        [
+          "Xbox Wireless Controller official UK page",
+          "https://www.xbox.com/en-GB/accessories/controllers/xbox-wireless-controller"
+        ],
+        [
+          "Razer Wolverine V3 Pro 8K PC official page",
+          "https://www.razer.com/gb-en/gaming-controllers/razer-wolverine-v3-pro-8k-pc/RZ06-05540100-R3M1"
+        ]
+      ]
+    },
+    {
+      "slug": "best-1440p-gaming-monitor-2026",
+      "image": "assets/images/amazon-monitor.svg",
+      "productImage": "https://dlcdnwebimgs.asus.com/gain/5F9D40FE-DAF9-4296-B519-91424A733D27/w1000/h732",
+      "heroImages": [
+        "https://dlcdnwebimgs.asus.com/gain/5F9D40FE-DAF9-4296-B519-91424A733D27/w1000/h732"
+      ],
+      "category": "GAMING MONITOR BUYING GUIDE",
+      "title": "Best 1440p Gaming Monitors in 2026: OLED Speed or Mini-LED Value?",
+      "excerpt": "ASUS's 480Hz PG27AQDP is the premium OLED reference point, while AOC's Q27G3XMN shows why Mini-LED still makes sense for HDR brightness and value.",
+      "score": "18 MIN",
+      "art": "monitor",
+      "lastChecked": "20 August 2026",
+      "researchStatus": "Research-backed",
+      "quick": "If budget is secondary and you want elite motion clarity, the ASUS ROG Swift OLED PG27AQDP is a 26.5-inch 1440p WOLED running at 480Hz. For a more price-conscious HDR gaming setup, the AOC Q27G3XMN pairs 1440p, 180Hz and a 336-zone Mini-LED backlight. They solve different problems rather than being simple substitutes.",
+      "buyIf": [
+        "1440p is a better match for your GPU than 4K",
+        "You want a meaningful display upgrade rather than another small refresh-rate bump",
+        "You understand whether OLED contrast or Mini-LED brightness matters more to your room and games"
+      ],
+      "skipIf": [
+        "Your GPU is better suited to 1080p high refresh",
+        "You mainly need a productivity monitor where OLED static-content considerations outweigh gaming benefits",
+        "You are paying for 480Hz without playing games or owning hardware capable of approaching it"
+      ],
+      "specs": [
+        [
+          "ASUS PG27AQDP",
+          "26.5in / 2560×1440 / WOLED / 480Hz / 0.03ms GTG"
+        ],
+        [
+          "AOC Q27G3XMN",
+          "27in / 2560×1440 / Fast VA Mini-LED / 180Hz DP"
+        ],
+        [
+          "AOC local dimming",
+          "336 zones"
+        ],
+        [
+          "AOC HDR",
+          "DisplayHDR 1000"
+        ],
+        [
+          "Core decision",
+          "OLED motion/contrast vs Mini-LED brightness/value"
+        ]
+      ],
+      "body": "<h2>Why 1440p is still the gaming sweet spot</h2><p>At 27 inches, 2560×1440 is much sharper than 1080p while demanding substantially fewer GPU resources than 4K. It also leaves room for genuinely high refresh rates, which is why the category now stretches from affordable 165–180Hz LCDs to 480Hz OLED.</p><h2>Premium OLED pick: ASUS ROG Swift OLED PG27AQDP</h2><p>ASUS specifies a 26.5-inch QHD WOLED panel, native 480Hz refresh, 0.03ms GTG response, FreeSync Premium and G-SYNC compatibility. Tom's Hardware currently places it at the top of its 2026 gaming-monitor guide.</p><p>The reason to buy it is not just 480Hz. OLED's per-pixel light control gives deep blacks and extremely fast pixel transitions. The reason to skip it is equally clear: it is premium hardware, and most players will not drive modern games anywhere near 480fps.</p><h2>Mini-LED value pick: AOC Q27G3XMN</h2><p>AOC's 27-inch Q27G3XMN uses a Fast VA panel with a Mini-LED backlight, 336 local-dimming zones, up to 180Hz over DisplayPort and VESA DisplayHDR 1000. That gives it a very different strength: high HDR brightness without OLED pricing or OLED-specific static-image considerations.</p><h2>OLED or Mini-LED?</h2><p>OLED is the motion-clarity and black-level choice. Mini-LED is the brightness/value choice. A Mini-LED LCD still has zones rather than per-pixel control, so halos can appear around bright objects on dark backgrounds. OLED can dim each pixel independently but needs sensible care around long-lived static desktop elements.</p><h2>Do you actually need 480Hz?</h2><p>Only if the rest of the system and the games support that ambition. Competitive shooters at low settings can exploit extreme refresh; cinematic single-player games usually benefit more from image quality than the jump from 240Hz to 480Hz.</p><h2>Our buying rule</h2><p>For premium competitive gaming, the PG27AQDP is the aspirational pick. For a broader HDR gaming setup where cost matters, compare the AOC's current price before assuming OLED is automatically the better purchase.</p>",
+      "recommendations": [
+        {
+          "label": "PREMIUM OLED",
+          "name": "ASUS ROG Swift OLED PG27AQDP",
+          "why": "480Hz QHD WOLED for buyers deliberately chasing elite motion clarity.",
+          "url": "https://www.amazon.co.uk/s?k=ASUS+ROG+Swift+OLED+PG27AQDP&tag=aidan0701-20",
+          "image": "https://dlcdnwebimgs.asus.com/gain/5F9D40FE-DAF9-4296-B519-91424A733D27/w1000/h732",
+          "fallbackImage": "assets/images/amazon-monitor.svg"
+        },
+        {
+          "label": "MINI-LED VALUE",
+          "name": "AOC Q27G3XMN",
+          "why": "1440p 180Hz Mini-LED option with DisplayHDR 1000 and 336-zone local dimming.",
+          "url": "https://www.amazon.co.uk/s?k=AOC+Q27G3XMN&tag=aidan0701-20",
+          "fallbackImage": "assets/images/amazon-monitor.svg"
+        }
+      ],
+      "relatedSlugs": [
+        "oled-vs-mini-led-gaming-monitor-2026",
+        "best-budget-gaming-monitors-uk",
+        "best-monitor-for-sim-racing"
+      ],
+      "sources": [
+        [
+          "ASUS ROG Swift OLED PG27AQDP official UK specs",
+          "https://rog.asus.com/uk/monitors/27-to-31-5-inches/rog-swift-oled-pg27aqdp/spec/"
+        ],
+        [
+          "AOC Q27G3XMN official UK product leaflet",
+          "https://aoc.com/uk/products/635/leaflet?language=en"
+        ],
+        [
+          "Tom's Hardware best gaming monitors 2026",
+          "https://www.tomshardware.com/reviews/best-gaming-monitors%2C4533.html"
+        ]
+      ]
+    },
+    {
+      "slug": "oled-vs-mini-led-gaming-monitor-2026",
+      "image": "assets/images/amazon-monitor.svg",
+      "productImage": "https://dlcdnwebimgs.asus.com/gain/5F9D40FE-DAF9-4296-B519-91424A733D27/w1000/h732",
+      "heroImages": [
+        "https://dlcdnwebimgs.asus.com/gain/5F9D40FE-DAF9-4296-B519-91424A733D27/w1000/h732"
+      ],
+      "category": "GAMING MONITOR COMPARISON",
+      "title": "OLED vs Mini-LED for Gaming in 2026: Which Monitor Technology Should You Buy?",
+      "excerpt": "OLED wins black level and pixel response; Mini-LED can win brightness and value. The right answer depends on your room, desktop use and games.",
+      "score": "16 MIN",
+      "art": "monitor",
+      "lastChecked": "20 August 2026",
+      "researchStatus": "Research-backed",
+      "quick": "Choose OLED if motion clarity, perfect blacks and fast response are the priorities. Choose Mini-LED if you want strong HDR brightness, spend long hours on static desktop content or can get substantially more monitor for the money. Neither technology makes panel resolution, refresh rate and implementation irrelevant.",
+      "buyIf": [
+        "You are choosing between premium 1440p display technologies",
+        "HDR and motion clarity matter to you",
+        "You want to understand the trade-off instead of buying on panel buzzwords"
+      ],
+      "skipIf": [
+        "You are still deciding between 1080p and 1440p",
+        "Your budget is better spent on GPU performance first",
+        "You only need an inexpensive secondary display"
+      ],
+      "specs": [
+        [
+          "OLED dimming",
+          "Per-pixel"
+        ],
+        [
+          "Mini-LED dimming",
+          "Backlight zones"
+        ],
+        [
+          "OLED strength",
+          "Black level + pixel response"
+        ],
+        [
+          "Mini-LED strength",
+          "HDR brightness + static-content comfort"
+        ],
+        [
+          "Example OLED",
+          "ASUS PG27AQDP — QHD 480Hz WOLED"
+        ],
+        [
+          "Example Mini-LED",
+          "AOC Q27G3XMN — QHD 180Hz, 336 zones"
+        ]
+      ],
+      "body": "<h2>OLED controls every pixel</h2><p>Each OLED pixel emits its own light and can turn fully off. That gives OLED exceptionally deep blacks and avoids the blooming that comes from a backlight zone illuminating more than one pixel. Pixel transitions are also extremely fast, which helps motion clarity.</p><h2>Mini-LED improves LCD by adding many smaller backlight zones</h2><p>Mini-LED still uses an LCD layer, but a dense array of dimming zones can produce much stronger contrast and HDR than a basic edge-lit monitor. AOC's Q27G3XMN, for example, uses 336 local-dimming zones and carries DisplayHDR 1000 certification.</p><h2>Motion: OLED has the cleaner fundamental advantage</h2><p>Refresh rate and pixel response are separate. A high-refresh LCD can update often but still has to transition its liquid-crystal pixels. OLED transitions are much faster, which is why a good OLED can look cleaner in motion even before comparing extreme refresh-rate numbers.</p><h2>Brightness: Mini-LED can be easier in a bright room</h2><p>Mini-LED monitors can sustain strong full-screen brightness and create bright HDR highlights. OLED brightness management varies by model and image content. If your room is bright all day, do not buy from a contrast-ratio number alone.</p><h2>Static desktop use</h2><p>Modern OLED monitors include panel-care systems, but OLED remains a self-emissive technology with wear considerations around long-lived static elements. Someone spending eight hours a day in spreadsheets or fixed application chrome may rationally prefer Mini-LED even if OLED looks better in games.</p><h2>Two useful reference products</h2><p>The ASUS PG27AQDP shows the high-performance OLED end of 1440p: 480Hz, 0.03ms GTG and per-pixel contrast. The AOC Q27G3XMN shows the value-oriented Mini-LED route: 180Hz, 336 local-dimming zones and DisplayHDR 1000.</p><h2>Verdict</h2><p>OLED is our image-quality and motion pick. Mini-LED is the pragmatic alternative when brightness, static desktop work or price carries more weight. Buy the implementation, not just the panel acronym.</p>",
+      "recommendations": [
+        {
+          "label": "OLED REFERENCE",
+          "name": "ASUS ROG Swift OLED PG27AQDP",
+          "why": "High-refresh QHD OLED for buyers who prioritise motion and black level.",
+          "url": "https://www.amazon.co.uk/s?k=ASUS+ROG+Swift+OLED+PG27AQDP&tag=aidan0701-20",
+          "image": "https://dlcdnwebimgs.asus.com/gain/5F9D40FE-DAF9-4296-B519-91424A733D27/w1000/h732",
+          "fallbackImage": "assets/images/amazon-monitor.svg"
+        },
+        {
+          "label": "MINI-LED REFERENCE",
+          "name": "AOC Q27G3XMN",
+          "why": "Bright QHD Mini-LED option for a more value-conscious HDR setup.",
+          "url": "https://www.amazon.co.uk/s?k=AOC+Q27G3XMN&tag=aidan0701-20",
+          "fallbackImage": "assets/images/amazon-monitor.svg"
+        }
+      ],
+      "relatedSlugs": [
+        "best-1440p-gaming-monitor-2026",
+        "best-monitor-for-sim-racing",
+        "best-budget-gaming-monitors-uk"
+      ],
+      "sources": [
+        [
+          "ASUS PG27AQDP official UK page",
+          "https://rog.asus.com/uk/monitors/27-to-31-5-inches/rog-swift-oled-pg27aqdp/"
+        ],
+        [
+          "AOC Q27G3XMN official UK leaflet",
+          "https://aoc.com/uk/products/635/leaflet?language=en"
+        ],
+        [
+          "Tom's Hardware best gaming monitors 2026",
+          "https://www.tomshardware.com/reviews/best-gaming-monitors%2C4533.html"
+        ]
+      ]
+    },
+    {
+      "slug": "best-monitor-arm-for-gaming-desk-2026",
+      "image": "assets/images/monitor-arm.svg",
+      "category": "DESK GEAR BUYING GUIDE",
+      "title": "Best Monitor Arm for a Gaming Desk in 2026: What to Check Before You Clamp One On",
+      "excerpt": "A good monitor arm is less about RGB and more about VESA support, monitor weight, desk thickness and useful range of motion.",
+      "score": "14 MIN",
+      "art": "pc",
+      "lastChecked": "20 August 2026",
+      "researchStatus": "Research-backed",
+      "quick": "The Ergotron LX is our premium reference point because its published limits are clear: up to 34-inch displays, 3.2–11.4kg monitor weight, VESA 75×75/100×100 and roughly 64cm extension. For cheaper arms, match those four specifications to your monitor before caring about brand or colour.",
+      "buyIf": [
+        "You want the screen closer for sim racing or farther back for normal desk use",
+        "Your monitor has a compatible VESA mount and falls inside the arm's weight range",
+        "You want to reclaim stand footprint on a small desk"
+      ],
+      "skipIf": [
+        "Your monitor lacks VESA mounting without an adapter",
+        "Your desk edge is too thin, thick or fragile for the clamp",
+        "Your monitor weight sits near or beyond the arm's rated range"
+      ],
+      "specs": [
+        [
+          "Ergotron LX typical screen size",
+          "Up to 34in"
+        ],
+        [
+          "Monitor weight range",
+          "3.2–11.4kg"
+        ],
+        [
+          "VESA",
+          "75×75 / 100×100"
+        ],
+        [
+          "Lift",
+          "About 33cm"
+        ],
+        [
+          "Extension",
+          "Up to about 64cm"
+        ],
+        [
+          "Warranty",
+          "10 years"
+        ]
+      ],
+      "body": "<h2>The monitor arm is part of the gaming setup, not decoration</h2><p>A good arm can move the screen closer for racing, free mouse space and improve eye height. A bad match can sag, wobble or damage the desk. The compatibility check matters more than the brand badge.</p><h2>Premium reference: Ergotron LX</h2><p>Ergotron publishes a 3.2–11.4kg monitor weight range for the LX, support for typical displays up to 34 inches, VESA 75×75 and 100×100, around 33cm of lift and up to roughly 64cm of extension. It also carries a ten-year warranty.</p><p>That does not mean everyone needs an LX. It means the LX gives us a useful specification baseline when comparing cheaper arms.</p><h2>Check the monitor without its stand</h2><p>Arm limits refer to the display weight the mount is supporting, not the shipping carton and usually not the original stand. Look up the monitor's net weight without stand and keep some margin rather than buying an arm exactly at its limit.</p><h2>Check VESA before ordering</h2><p>75×75 and 100×100 are common monitor patterns, but some displays need an adapter or recessed-plate consideration. A beautiful arm is useless if the plate cannot attach cleanly.</p><h2>The desk clamp is the hidden compatibility issue</h2><p>Measure desktop thickness and inspect the underside for beams, cable trays and drawers. Particleboard and hollow furniture deserve caution: spreading the clamp load with a reinforcement plate can be sensible on weaker surfaces.</p><h2>Why sim racers benefit disproportionately</h2><p>Field of view improves when the monitor can sit close to the wheel without permanently occupying that position. An articulating arm can make a shared work/gaming desk much more flexible, provided the arm and desk are rigid enough.</p><h2>How to use the Amazon links below</h2><p>We use the LX as the known premium reference. For budget and dual-monitor options, treat Amazon as a shortlist and verify the stated weight range, VESA pattern and clamp limits against your exact display before ordering.</p>",
+      "recommendations": [
+        {
+          "label": "PREMIUM REFERENCE",
+          "name": "Ergotron LX Desk Monitor Arm",
+          "why": "Clear published load range, useful extension and a long warranty make it the benchmark pick.",
+          "url": "https://www.amazon.co.uk/s?k=Ergotron+LX+Desk+Monitor+Arm&tag=aidan0701-20",
+          "fallbackImage": "assets/images/monitor-arm.svg"
+        },
+        {
+          "label": "BUDGET SEARCH",
+          "name": "Single Monitor Arm 32-inch class",
+          "why": "Use the results as a shortlist, then verify weight, VESA and clamp limits against your monitor.",
+          "url": "https://www.amazon.co.uk/s?k=monitor+arm+32+inch+VESA+100x100+gas+spring&tag=aidan0701-20",
+          "fallbackImage": "assets/images/monitor-arm.svg"
+        },
+        {
+          "label": "DUAL-MONITOR SEARCH",
+          "name": "Dual Monitor Arm",
+          "why": "Only buy after checking combined weight, screen width and whether you want independent arm movement.",
+          "url": "https://www.amazon.co.uk/s?k=dual+monitor+arm+gaming+desk+VESA&tag=aidan0701-20",
+          "fallbackImage": "assets/images/monitor-arm.svg"
+        }
+      ],
+      "relatedSlugs": [
+        "best-1440p-gaming-monitor-2026",
+        "best-monitor-for-sim-racing",
+        "best-direct-drive-wheel-for-desk-setup"
+      ],
+      "sources": [
+        [
+          "Ergotron LX Desk Monitor Arm official product page",
+          "https://www.ergotron.com/en-gb/products/product-details/45-241"
+        ],
+        [
+          "Ergotron LX Desk Monitor Arm product sheet",
+          "https://media.ergotron.com/reserved/resources/05-056-ea-orig.pdf"
         ]
       ]
     }
