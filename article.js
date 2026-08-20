@@ -44,9 +44,35 @@ document.getElementById('crumbType').textContent = model.category;
 document.getElementById('articleTag').textContent = model.category;
 document.getElementById('articleTitle').textContent = model.title;
 document.getElementById('articleIntro').textContent = model.excerpt || '';
-document.getElementById('articleUpdated').textContent = 'Updated August 2026';
+document.getElementById('articleUpdated').textContent = 'Checked ' + (model.lastChecked || 'August 2026');
 document.getElementById('articleRead').textContent = model.score || (kind === 'review' ? '11 min read' : '10 min read');
+document.getElementById('researchStatus').textContent = model.researchStatus || 'Research-backed';
 document.getElementById('quickText').textContent = model.quick || '';
+
+const isGameGuidePage = (model.category || '').toUpperCase().includes('GAME GUIDE');
+const buyIfLabel = document.getElementById('buyIfLabel');
+const skipIfLabel = document.getElementById('skipIfLabel');
+if (isGameGuidePage) { buyIfLabel.textContent = 'DO THIS'; skipIfLabel.textContent = 'AVOID THIS'; }
+const buyIfList = document.getElementById('buyIfList');
+const skipIfList = document.getElementById('skipIfList');
+const decisionSection = document.getElementById('decision');
+const buyIf = model.buyIf || [];
+const skipIf = model.skipIf || [];
+if (buyIf.length || skipIf.length) {
+  buyIfList.innerHTML = buyIf.map(x => `<li>${x}</li>`).join('');
+  skipIfList.innerHTML = skipIf.map(x => `<li>${x}</li>`).join('');
+} else {
+  decisionSection.hidden = true;
+  document.querySelector('.toc a[href="#decision"]')?.remove();
+}
+const specsSection = document.getElementById('specsSection');
+const specBody = document.getElementById('specTableBody');
+if (model.specs?.length) {
+  specBody.innerHTML = model.specs.map(([k,v]) => `<tr><th>${k}</th><td>${v}</td></tr>`).join('');
+  specsSection.hidden = false;
+} else {
+  document.querySelector('.toc a[href="#specsSection"]')?.remove();
+}
 document.getElementById('main').innerHTML = model.body || '<h2>Main guide</h2>';
 
 const heroGallery = document.getElementById('articleHeroGallery');
@@ -62,42 +88,47 @@ if (heroImages.length) {
   heroGallery.hidden = false;
 }
 
-document.getElementById('productName').textContent = model.product || 'Related product';
-document.getElementById('productWhy').textContent = model.productWhy || '';
-const affiliateBtn = document.getElementById('affiliateBtn');
-affiliateBtn.href = model.affiliate_url || '#';
-const url = model.affiliate_url || '';
-const affiliateNote = document.getElementById('affiliateNote');
-const isAffiliate = url.includes('amazon.co.uk') || (url.includes('uk.mozaracing.com') && url.includes('ref=AIDANKING'));
-if (affiliateNote) {
-  affiliateNote.textContent = isAffiliate
-    ? 'Affiliate link — we may earn a commission'
-    : 'Official product page';
+const recommendationGrid = document.getElementById('recommendationGrid');
+const legacyProductBox = document.getElementById('legacyProductBox');
+const amazonPriceNote = document.getElementById('amazonPriceNote');
+const recs = model.recommendations || [];
+function buttonText(url){
+  if (url.includes('amazon.co.uk')) return 'Check on Amazon UK →';
+  if (url.includes('uk.mozaracing.com')) return 'View at MOZA UK →';
+  if (url.includes('fanatec.com')) return 'View at Fanatec →';
+  return 'View product →';
 }
-
-if (url.includes('amazon.co.uk')) {
-  affiliateBtn.textContent = 'Check price on Amazon UK →';
-} else if (url.includes('uk.mozaracing.com')) {
-  affiliateBtn.textContent = 'View at MOZA UK →';
-} else if (url.includes('fanatec.com')) {
-  affiliateBtn.textContent = 'View at Fanatec →';
+function affiliateLabel(url){
+  return (url.includes('amazon.co.uk') || (url.includes('uk.mozaracing.com') && url.includes('ref=AIDANKING')))
+    ? 'Affiliate link — we may earn a commission' : 'Official product page';
+}
+if (recs.length) {
+  legacyProductBox.hidden = true;
+  recommendationGrid.innerHTML = recs.map((r,i) => `
+    <article class="recommendation-card">
+      <div class="recommendation-thumb">${r.image ? `<img src="${r.image}" alt="${r.name}">` : '<span>PRODUCT</span>'}</div>
+      <div class="recommendation-copy"><span class="pill">${r.label || (i===0 ? 'TOP PICK' : 'ALTERNATIVE')}</span><h3>${r.name}</h3><p>${r.why || ''}</p>
+      <div class="buy-row"><a class="btn primary" href="${r.url}" rel="sponsored nofollow">${buttonText(r.url || '')}</a><small>${affiliateLabel(r.url || '')}</small></div></div>
+    </article>`).join('');
+  if (recs.some(r => (r.url || '').includes('amazon.co.uk'))) amazonPriceNote.hidden = false;
 } else {
-  affiliateBtn.textContent = 'View product →';
+  document.getElementById('productName').textContent = model.product || 'Related product';
+  document.getElementById('productWhy').textContent = model.productWhy || '';
+  const affiliateBtn = document.getElementById('affiliateBtn');
+  affiliateBtn.href = model.affiliate_url || '#';
+  const url = model.affiliate_url || '';
+  const affiliateNote = document.getElementById('affiliateNote');
+  affiliateNote.textContent = affiliateLabel(url);
+  affiliateBtn.textContent = buttonText(url);
+  const productImage = document.getElementById('productImage');
+  const placeholder = document.getElementById('productPlaceholder');
+  const displayProductImage = model.productImage || model.image;
+  if (displayProductImage) { productImage.src=displayProductImage; productImage.alt=model.product || model.title; productImage.hidden=false; placeholder.hidden=true; }
+  if (url.includes('amazon.co.uk')) amazonPriceNote.hidden = false;
 }
-
-const productImage = document.getElementById('productImage');
-const placeholder = document.getElementById('productPlaceholder');
-const displayProductImage = model.productImage || model.image;
-if (displayProductImage) {
-  productImage.src = displayProductImage;
-  productImage.alt = model.product || model.title;
-  productImage.hidden = false;
-  placeholder.hidden = true;
-}
-
 const pickSection = document.getElementById('pick');
 const pickToc = document.querySelector('.toc a[href="#pick"]');
-if (model.hideProduct || !model.affiliate_url || model.affiliate_url === '#') {
+if (!recs.length && (model.hideProduct || !model.affiliate_url || model.affiliate_url === '#')) {
   if (pickSection) pickSection.hidden = true;
   if (pickToc) pickToc.hidden = true;
 }
@@ -150,7 +181,7 @@ const schema = {
   "@type": "Article",
   "headline": model.title,
   "description": model.excerpt || model.quick || "",
-  "dateModified": "2026-08-19",
+  "dateModified": "2026-08-20",
   "mainEntityOfPage": canonical.href,
   "publisher": {
     "@type": "Organization",
