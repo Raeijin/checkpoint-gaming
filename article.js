@@ -104,6 +104,7 @@ function affiliateLabel(url){
 }
 if (recs.length) {
   legacyProductBox.hidden = true;
+  legacyProductBox.style.display = 'none';
   recommendationGrid.innerHTML = recs.map((r,i) => `
     <article class="recommendation-card">
       <div class="recommendation-thumb">${r.image ? `<img src="${r.image}" alt="${r.name}">` : '<span>PRODUCT</span>'}</div>
@@ -112,19 +113,37 @@ if (recs.length) {
     </article>`).join('');
   if (recs.some(r => (r.url || '').includes('amazon.co.uk'))) amazonPriceNote.hidden = false;
 } else {
-  document.getElementById('productName').textContent = model.product || 'Related product';
-  document.getElementById('productWhy').textContent = model.productWhy || '';
-  const affiliateBtn = document.getElementById('affiliateBtn');
-  affiliateBtn.href = model.affiliate_url || '#';
   const url = model.affiliate_url || '';
-  const affiliateNote = document.getElementById('affiliateNote');
-  affiliateNote.textContent = affiliateLabel(url);
-  affiliateBtn.textContent = buttonText(url);
-  const productImage = document.getElementById('productImage');
-  const placeholder = document.getElementById('productPlaceholder');
-  const displayProductImage = model.productImage || model.image;
-  if (displayProductImage) { productImage.src=displayProductImage; productImage.alt=model.product || model.title; productImage.hidden=false; placeholder.hidden=true; }
-  if (url.includes('amazon.co.uk')) amazonPriceNote.hidden = false;
+  const hasRealLegacyPick = Boolean(model.product && url && url !== '#' && !model.hideProduct);
+
+  if (hasRealLegacyPick) {
+    legacyProductBox.hidden = false;
+    legacyProductBox.style.display = '';
+    document.getElementById('productName').textContent = model.product;
+    document.getElementById('productWhy').textContent = model.productWhy || '';
+    const affiliateBtn = document.getElementById('affiliateBtn');
+    affiliateBtn.href = url;
+    const affiliateNote = document.getElementById('affiliateNote');
+    affiliateNote.textContent = affiliateLabel(url);
+    affiliateBtn.textContent = buttonText(url);
+
+    const productImage = document.getElementById('productImage');
+    const placeholder = document.getElementById('productPlaceholder');
+    const displayProductImage = model.productImage || model.image;
+    if (displayProductImage) {
+      productImage.src = displayProductImage;
+      productImage.alt = model.product || model.title;
+      productImage.hidden = false;
+      placeholder.hidden = true;
+    } else {
+      productImage.hidden = true;
+      placeholder.hidden = false;
+    }
+
+    if (url.includes('amazon.co.uk')) amazonPriceNote.hidden = false;
+  } else {
+    legacyProductBox.hidden = true;
+  }
 }
 const pickSection = document.getElementById('pick');
 const pickToc = document.querySelector('.toc a[href="#pick"]');
