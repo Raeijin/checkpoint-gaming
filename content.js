@@ -146,12 +146,12 @@ window.CHECKPOINT_CONTENT = {
       "slug": "logitech-g923-vs-direct-drive",
       "image": "assets/images/logitech-vs-dd.svg",
       "category": "SIM RACING BUYING GUIDE",
-      "title": "Logitech G923 vs Direct Drive: Is It Still Worth Buying a Gear-Driven Wheel?",
-      "excerpt": "The G923 is easy to buy and widely compatible, but entry-level direct drive has changed the value equation.",
+      "title": "Logitech G923 vs Direct Drive in 2026: Is the G923 Still Worth Buying?",
+      "excerpt": "A broader guide to whether the G923 still makes sense now that entry direct-drive wheels are cheaper. For an exact MOZA comparison, use our R5 vs G923 page.",
       "score": "10 MIN",
       "art": "sim",
-      "quick": "The Logitech G923 still makes sense when you want broad console compatibility, a complete three-pedal bundle and easy setup at a good sale price. At normal pricing, however, PC buyers should compare it closely with entry-level direct-drive bundles such as the MOZA R5 because direct drive offers a cleaner, stronger force-feedback path.",
-      "body": "\n        <h2>What the G923 offers</h2>\n        <p>Logitech lists the G923 as a 2.3 Nm dual-motor TRUEFORCE racing system with a leather wheel, 900° rotation and pedals included. It is an established plug-and-play option across supported PlayStation, Xbox and PC configurations.</p>\n        <h2>Why direct drive changed the conversation</h2>\n        <p>Entry-level direct-drive bundles now sit much closer to mainstream wheel prices. MOZA's R5, for example, is rated at 5.5 Nm and drives the wheel directly from the motor shaft.</p>\n        <p>Torque numbers do not tell the whole story, but they illustrate the gap: the R5 has more than double the peak torque rating of the G923, and direct drive removes the gear train between the motor and your hands.</p>\n        <h2>Who should still buy the G923?</h2>\n        <p>Console players who value straightforward compatibility, people buying during a strong discount, or anyone who wants a familiar ecosystem without planning a larger rig can still be well served by it. For a PC-first setup that may grow over time, direct drive is usually the more interesting starting point.</p><h2>The G923's real strength is convenience</h2><p>The G923 is not suddenly bad because direct drive became affordable. Its advantage is that it is familiar, widely supported and sold as a complete package. For a family console setup or a buyer who wants to clamp it down and drive, that simplicity has value.</p><p>Where the maths changes is at normal rather than sale pricing. If an entry direct-drive bundle is only modestly more expensive, the stronger and cleaner feedback, quick-release ecosystem and future wheel options can justify spending more at the start.</p><h2>Upgrade or buy from scratch?</h2><p>If you already own a G923 and use it regularly, jumping to direct drive is a meaningful hardware upgrade. If you are buying from scratch, compare the G923 against current direct-drive bundles before assuming the Logitech is still the default beginner choice.</p><h2>When a G923 sale can still change the answer</h2><p>At full mainstream-wheel pricing, entry direct drive is increasingly difficult to ignore on PC. A deep G923 discount can still make sense for a console-first buyer who values the included three-pedal set and simple support. Compare the exact R5 Pro alternative in our <a href=\"article.html?slug=moza-r5-pro-vs-logitech-g923\">R5 Pro vs G923 guide</a>.</p>",
+      "quick": "This is the broad G923-versus-direct-drive guide. The G923 still makes sense at a good sale price, for straightforward console compatibility or when you want a three-pedal starter set. If your decision is specifically MOZA R5 vs Logitech G923, use our exact comparison page.",
+      "body": "\n        <h2>What the G923 offers</h2>\n        <p>Logitech lists the G923 as a 2.3 Nm dual-motor TRUEFORCE racing system with a leather wheel, 900° rotation and pedals included. It is an established plug-and-play option across supported PlayStation, Xbox and PC configurations.</p>\n        <h2>Why direct drive changed the conversation</h2>\n        <p>Entry-level direct-drive bundles now sit much closer to mainstream wheel prices. MOZA's R5, for example, is rated at 5.5 Nm and drives the wheel directly from the motor shaft.</p>\n        <p>Torque numbers do not tell the whole story, but they illustrate the gap: the R5 has more than double the peak torque rating of the G923, and direct drive removes the gear train between the motor and your hands.</p>\n        <h2>Who should still buy the G923?</h2>\n        <p>Console players who value straightforward compatibility, people buying during a strong discount, or anyone who wants a familiar ecosystem without planning a larger rig can still be well served by it. For a PC-first setup that may grow over time, direct drive is usually the more interesting starting point.</p><h2>The G923's real strength is convenience</h2><p>The G923 is not suddenly bad because direct drive became affordable. Its advantage is that it is familiar, widely supported and sold as a complete package. For a family console setup or a buyer who wants to clamp it down and drive, that simplicity has value.</p><p>Where the maths changes is at normal rather than sale pricing. If an entry direct-drive bundle is only modestly more expensive, the stronger and cleaner feedback, quick-release ecosystem and future wheel options can justify spending more at the start.</p><h2>Upgrade or buy from scratch?</h2><p>If you already own a G923 and use it regularly, jumping to direct drive is a meaningful hardware upgrade. If you are buying from scratch, compare the G923 against current direct-drive bundles before assuming the Logitech is still the default beginner choice.</p><h2>When a G923 sale can still change the answer</h2><p>At full mainstream-wheel pricing, entry direct drive is increasingly difficult to ignore on PC. A deep G923 discount can still make sense for a console-first buyer who values the included three-pedal set and simple support. Compare the exact R5 Pro alternative in our <a href=\"article.html?slug=moza-r5-pro-vs-logitech-g923\">R5 Pro vs G923 guide</a>.</p>\n<h2>Comparing specifically against MOZA?</h2>\n<p>Use the exact hardware page rather than treating every direct-drive system as identical: <a href=\"article.html?slug=moza-r5-vs-logitech-g923\">MOZA R5 vs Logitech G923</a> covers the standard 5.5 Nm R5, while <a href=\"article.html?slug=moza-r5-pro-vs-logitech-g923\">MOZA R5 Pro vs Logitech G923</a> covers the newer 6 Nm Pro bundle.</p>\n",
       "product": "MOZA R5 Racing Bundle",
       "productWhy": "For PC buyers comparing the G923 with entry-level direct drive, the R5 is the alternative worth pricing alongside it.",
       "affiliate_url": "https://uk.mozaracing.com/products/r5-racing-bundle?ref=AIDANKING",
@@ -208,6 +208,12 @@ window.CHECKPOINT_CONTENT = {
           "Core decision",
           "Console simplicity vs direct-drive headroom"
         ]
+      ],
+      "relatedSlugs": [
+        "moza-r5-vs-logitech-g923",
+        "moza-r5-pro-vs-logitech-g923",
+        "moza-r5-vs-thrustmaster-t598",
+        "beginner-sim-racing-setup-2026"
       ]
     },
     {
@@ -1170,6 +1176,222 @@ window.CHECKPOINT_CONTENT = {
           "https://www.pcgamer.com/best-controller-for-pc-gaming/"
         ]
       ]
+    },
+    {
+      "slug": "moza-r5-vs-thrustmaster-t598",
+      "image": "assets/images/best-dd-under-500.svg",
+      "productImage": "https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000",
+      "heroImages": [
+        "https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000",
+        "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg"
+      ],
+      "category": "SIM RACING COMPARISON",
+      "title": "MOZA R5 vs Thrustmaster T598: Which Direct-Drive Bundle Should You Buy?",
+      "excerpt": "MOZA's 5.5 Nm R5 bundle and Thrustmaster's 5 Nm T598 target the same first-serious-wheel buyer, but platform support, pedals and ecosystem make the decision clearer than torque alone.",
+      "score": "17 MIN",
+      "art": "sim",
+      "lastChecked": "27 August 2026",
+      "researchStatus": "Research-backed",
+      "quick": "For a PC-first setup, the MOZA R5 is the simpler value pick: 5.5 Nm direct drive, a compact base, included table clamp and a mature MOZA upgrade path. The Thrustmaster T598 is the stronger choice when you need an Xbox or PlayStation licensed version, want its Race Dash display, or prefer the Thrustmaster wheel ecosystem. Do not choose between them on 5.5 Nm versus 5 Nm alone.",
+      "buyIf": [
+        "You are moving from a gear- or belt-driven wheel to entry direct drive",
+        "You have checked which platform version you actually need",
+        "You want a complete bundle rather than a wheelbase-only comparison"
+      ],
+      "skipIf": [
+        "You are treating the torque number as the whole buying decision",
+        "You need console support but are looking at the PC-focused MOZA R5",
+        "Your desk or wheel stand is not rigid enough for a clamp-mounted direct-drive base"
+      ],
+      "specs": [
+        [
+          "MOZA R5 torque",
+          "5.5 Nm peak"
+        ],
+        [
+          "Thrustmaster T598 torque",
+          "5 Nm constant + short overshoot effects"
+        ],
+        [
+          "MOZA R5 platform",
+          "PC"
+        ],
+        [
+          "T598 platform",
+          "Separate Xbox/PC and PlayStation/PC versions"
+        ],
+        [
+          "R5 pedals",
+          "SR-P Lite 2-pedal set in standard bundle"
+        ],
+        [
+          "T598 pedals",
+          "Raceline Pedals LTE 2-pedal metal set"
+        ],
+        [
+          "Desk mounting",
+          "Clamp included with both complete bundles"
+        ],
+        [
+          "T598 display",
+          "Integrated Race Dash"
+        ]
+      ],
+      "body": "\n<h2>MOZA R5 vs Thrustmaster T598: the short answer</h2>\n<p>If you race mainly on PC, the R5 is the easier recommendation when the complete bundle price is competitive. It is compact, established, includes a desk clamp and gives you a clear MOZA ecosystem path. The T598 becomes more compelling when console licensing matters, because Thrustmaster sells dedicated Xbox/PC and PlayStation/PC versions.</p>\n\n<h2>Force feedback: 5.5 Nm versus 5 Nm is not a knockout</h2>\n<p>MOZA rates the R5 at 5.5 Nm peak torque. Thrustmaster rates the T598 at 5 Nm of constant torque and advertises short overshoot capability for stronger transient effects. Those numbers are measured and marketed differently, so this is not a clean “5.5 beats 5” comparison.</p>\n<p>Both sit in the useful entry direct-drive range where the bigger upgrade over a Logitech G923-class wheel is the direct connection between motor and wheel rather than a tiny torque difference between these two.</p>\n\n<h2>Platform support is the first real decision</h2>\n<p>The standard MOZA R5 bundle is a PC product. The T598 is sold in separate licensed versions: one for Xbox One / Xbox Series X|S / PC and another for PS4 / PS5 / PC. If you race on console, this can decide the comparison before you get to pedals, wheel rims or software.</p>\n\n<h2>Pedals: both start with two pedals</h2>\n<p>The R5 bundle uses MOZA's SR-P Lite throttle and brake. The T598 bundle includes Thrustmaster Raceline Pedals LTE, also as a two-pedal starter set. Neither should be bought under the assumption that a clutch is automatically included.</p>\n<p>For serious braking consistency later, a load-cell upgrade is more meaningful than arguing over the starter pedal faceplates.</p>\n\n<h2>Wheel and ecosystem</h2>\n<p>MOZA uses its quick-release ecosystem with a broad range of wheels, pedals, shifters and handbrakes. Thrustmaster's T598 uses a detachable 30 cm Sportcar wheel and opens the door to Thrustmaster wheel add-ons, although some older rims can require an adapter or firmware update.</p>\n\n<h2>Desk use</h2>\n<p>MOZA explicitly sells the R5 as suitable for limited-space desk setups and includes the table clamp. The T598 bundle also includes a clamping system. In both cases, desk stiffness matters: a flexible desktop can waste detail and make the whole setup feel worse.</p>\n\n<h2>T598 Race Dash is a genuine differentiator</h2>\n<p>The T598 has a built-in screen for settings and compatible telemetry information. That is something the R5 does not have on the wheelbase itself. Whether it matters depends on how much you value on-device adjustment versus doing configuration through MOZA Pit House on PC.</p>\n\n<h2>Which one would we buy?</h2>\n<p><strong>PC only:</strong> start with the MOZA R5 and compare the live complete-bundle price. <strong>Xbox:</strong> the T598 Xbox/PC version has the obvious platform advantage. <strong>PlayStation:</strong> the T598 PlayStation/PC version is the relevant product. If both are PC options at similar money, ecosystem preference and pedal upgrade plans matter more than the half-newton-metre headline.</p>\n\n<h2>Amazon buying warning: check the platform name</h2>\n<p>Amazon search results can mix the Xbox/PC and PlayStation/PC T598 versions. Read the exact product title before ordering. We keep separate Amazon checks below so you can search for the correct licensed version.</p>\n",
+      "recommendations": [
+        {
+          "label": "PC VALUE PICK",
+          "name": "MOZA R5 Racing Bundle",
+          "why": "5.5 Nm direct-drive bundle with table clamp; strongest fit here for a PC-first setup.",
+          "url": "https://uk.mozaracing.com/products/r5-racing-bundle?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000",
+          "fallbackImage": "assets/images/best-dd-under-500.svg"
+        },
+        {
+          "label": "XBOX / PC",
+          "name": "Thrustmaster T598 Xbox / PC",
+          "why": "Use this search specifically for the Xbox-licensed version; verify the listing says Xbox before checkout.",
+          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+Xbox+PC&tag=aidan0701-20",
+          "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
+          "fallbackImage": "assets/images/best-dd-under-500.svg"
+        },
+        {
+          "label": "PLAYSTATION / PC",
+          "name": "Thrustmaster T598 PlayStation / PC",
+          "why": "Use this search for the PS5/PS4/PC version; do not assume it is the same SKU as the Xbox model.",
+          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+PlayStation+PC&tag=aidan0701-20",
+          "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
+          "fallbackImage": "assets/images/best-dd-under-500.svg"
+        }
+      ],
+      "relatedSlugs": [
+        "thrustmaster-t598-xbox-guide",
+        "moza-r5-pro-vs-thrustmaster-t598",
+        "moza-r5-vs-logitech-g923",
+        "best-direct-drive-wheel-under-500-uk"
+      ],
+      "sources": [
+        [
+          "MOZA R5 official UK product page",
+          "https://uk.mozaracing.com/products/r5-racing-bundle"
+        ],
+        [
+          "MOZA R5 official UK specification page",
+          "https://uk.mozaracing.com/pages/r5-racing-bundle"
+        ],
+        [
+          "Thrustmaster T598 Xbox / PC official page",
+          "https://www.thrustmaster.com/en-gb/products/t598-x/"
+        ],
+        [
+          "Thrustmaster T598 PlayStation / PC official page",
+          "https://www.thrustmaster.com/en-gb/products/t598/"
+        ],
+        [
+          "Thrustmaster T598 Xbox support page",
+          "https://support.thrustmaster.com/en/product/t598x-en/"
+        ]
+      ]
+    },
+    {
+      "slug": "moza-r5-vs-logitech-g923",
+      "image": "assets/images/logitech-vs-dd.svg",
+      "productImage": "https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000",
+      "heroImages": [
+        "https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000",
+        "https://resource.logitechg.com/w_544%2Ch_466%2Car_7%3A6%2Cc_pad%2Cq_auto%2Cf_auto%2Cdpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g923-and-trueforce/g923-gallery/g923-ps4-gallery-1-new-image.png"
+      ],
+      "category": "SIM RACING COMPARISON",
+      "title": "MOZA R5 vs Logitech G923: Is Direct Drive Worth the Upgrade?",
+      "excerpt": "The G923 is easier on consoles and includes three pedals; the R5 gives PC racers 5.5 Nm direct drive and a much stronger upgrade path.",
+      "score": "16 MIN",
+      "art": "sim",
+      "lastChecked": "27 August 2026",
+      "researchStatus": "Research-backed",
+      "quick": "For a PC-first buyer, the MOZA R5 is the better long-term system if the budget fits: 5.5 Nm direct drive, detachable wheel ecosystem and cleaner force feedback put it above the G923's 2.3 Nm dual-motor system. The Logitech still makes sense when console compatibility, a three-pedal starter set and sale pricing matter more.",
+      "buyIf": [
+        "You are comparing a first serious PC sim-racing setup",
+        "You want to know whether direct drive is worth paying more for",
+        "You care about future wheel and pedal upgrades"
+      ],
+      "skipIf": [
+        "You need straightforward PlayStation or Xbox support from the same product family",
+        "The G923 is heavily discounted and your budget is strict",
+        "Your desk cannot securely hold the R5 clamp"
+      ],
+      "specs": [
+        [
+          "MOZA R5",
+          "5.5 Nm direct drive"
+        ],
+        [
+          "Logitech G923",
+          "2.3 Nm dual-motor TRUEFORCE"
+        ],
+        [
+          "R5 platform",
+          "PC"
+        ],
+        [
+          "G923 versions",
+          "Xbox/PC or PlayStation/PC"
+        ],
+        [
+          "R5 starter pedals",
+          "2 pedals"
+        ],
+        [
+          "G923 starter pedals",
+          "3 pedals"
+        ],
+        [
+          "R5 mounting",
+          "Table clamp included"
+        ],
+        [
+          "G923 wheel rotation",
+          "900°"
+        ]
+      ],
+      "body": "\n<h2>MOZA R5 vs Logitech G923: the short answer</h2>\n<p>On PC, the R5 is the stronger hardware platform. Direct drive removes the gears between motor and wheel, the 5.5 Nm output gives more useful force-feedback headroom, and MOZA's detachable-wheel ecosystem is built for expansion. The G923 wins when ease of console compatibility and a clutch pedal in the box matter more.</p>\n\n<h2>The biggest difference is direct drive, not TRUEFORCE branding</h2>\n<p>Logitech rates the G923 at 2.3 Nm with a dual-motor force-feedback system. TRUEFORCE can add higher-frequency game information in supported titles, but the wheel still transmits force through a conventional mechanism. The R5 drives the wheel directly from the motor shaft.</p>\n\n<h2>How different does the torque look on paper?</h2>\n<p>The R5 is rated at 5.5 Nm while Logitech lists 2.3 Nm for the G923. Torque is not the only measure of feedback quality, but that gap is large enough to represent a genuinely different hardware class rather than a minor spec bump.</p>\n\n<h2>Console support can reverse the recommendation</h2>\n<p>The standard R5 bundle is aimed at PC. Logitech sells G923 versions for Xbox/PC and PlayStation/PC. If your main platform is a console and you want minimum setup friction, the G923 can be the more sensible purchase even though the R5 is stronger hardware on PC.</p>\n\n<h2>Pedals: Logitech gives you a clutch immediately</h2>\n<p>The G923 bundle includes accelerator, brake and clutch pedals. The standard R5 bundle starts with throttle and brake. If you drive manual road cars and want a clutch immediately, include the extra MOZA pedal cost when comparing complete prices.</p>\n\n<h2>Upgrade path</h2>\n<p>The R5's strongest advantage after force feedback is ecosystem expansion. You can change wheels and move into better MOZA pedals, shifters and handbrakes. The G923 is much more of a complete fixed starter system.</p>\n\n<h2>Who should buy the G923?</h2>\n<p>Someone who finds it at a strong sale price, wants a complete three-pedal package, or values console support more than direct-drive performance. It is not obsolete; it is simply competing against much stronger entry-level hardware than it did at launch.</p>\n\n<h2>Who should buy the R5?</h2>\n<p>A PC racer who expects to keep upgrading. If you know you are likely to buy a wheel stand, better pedals or different wheel rims later, the R5 gives that spending somewhere to go.</p>\n",
+      "recommendations": [
+        {
+          "label": "PC DIRECT-DRIVE PICK",
+          "name": "MOZA R5 Racing Bundle",
+          "why": "The stronger PC hardware platform with 5.5 Nm direct drive and a modular ecosystem.",
+          "url": "https://uk.mozaracing.com/products/r5-racing-bundle?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000",
+          "fallbackImage": "assets/images/logitech-vs-dd.svg"
+        },
+        {
+          "label": "CONSOLE-FRIENDLY PICK",
+          "name": "Logitech G923",
+          "why": "Three-pedal starter bundle with Xbox/PC and PlayStation/PC variants; check the exact version.",
+          "url": "https://www.amazon.co.uk/s?k=Logitech+G923+racing+wheel&tag=aidan0701-20",
+          "image": "https://resource.logitechg.com/w_544%2Ch_466%2Car_7%3A6%2Cc_pad%2Cq_auto%2Cf_auto%2Cdpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g923-and-trueforce/g923-gallery/g923-ps4-gallery-1-new-image.png",
+          "fallbackImage": "assets/images/logitech-vs-dd.svg"
+        }
+      ],
+      "relatedSlugs": [
+        "logitech-g923-vs-direct-drive",
+        "moza-r5-pro-vs-logitech-g923",
+        "moza-r5-vs-thrustmaster-t598",
+        "beginner-sim-racing-setup-2026"
+      ],
+      "sources": [
+        [
+          "MOZA R5 official UK product page",
+          "https://uk.mozaracing.com/products/r5-racing-bundle"
+        ],
+        [
+          "MOZA R5 official UK specifications",
+          "https://uk.mozaracing.com/pages/r5-racing-bundle"
+        ],
+        [
+          "Logitech G923 official product page",
+          "https://futureisnow.logitechg.com/en-us/shop/p/g923-trueforce-sim-racing-wheel"
+        ]
+      ]
     }
   ],
   "guides": [
@@ -1481,7 +1703,7 @@ window.CHECKPOINT_CONTENT = {
       "score": "14 MIN",
       "art": "sim",
       "quick": "For the cheapest proper direct drive, start with MOZA R3. For PC value, the R5 and newer R5 Pro are stronger all-in-one options. Fanatec CSL DD remains attractive when its ecosystem and 8 Nm upgrade path matter to you.",
-      "body": "\n        <h2>MOZA R3</h2>\n        <p>Rated at 3.9 Nm, the R3 is the low-cost direct-drive entry point. MOZA sells both PC and Xbox-and-PC versions, making it especially interesting for console buyers.</p>\n        <h2>MOZA R5</h2>\n        <p>The standard R5 raises peak torque to 5.5 Nm and remains a compact complete bundle for PC.</p>\n        <h2>MOZA R5 Pro</h2>\n        <p>The newer R5 Pro moves to 6 Nm, a 21-bit magnetic encoder and NexGen 5.0 force feedback. It is the one to watch when its price is close to the standard R5.</p>\n        <h2>Fanatec CSL DD</h2>\n        <p>The CSL DD starts at 5 Nm and can be taken to 8 Nm with the Boost Kit 180. Fanatec's ecosystem and platform licensing options are a major part of the buying decision.</p>\n        <h2>Two newer alternatives worth checking</h2><p>Thrustmaster's T598 brings 5 Nm constant torque, Direct Axial Drive and PlayStation support, while Logitech's newer RS50 range reaches 8 Nm and adds a modular direct-drive path. Their exact bundle prices move, so compare the complete setup rather than the wheelbase price alone.</p><h2>What we would prioritise</h2>\n        <p>Do not choose on torque alone. Check platform support, table-clamp requirements, pedal quality, wheel compatibility and the cost of the upgrades you are likely to want next.</p><h2>Compare complete bundles, not wheelbase headlines</h2><p>A base-only price can look excellent until you add a wheel, clamp and pedals. For a first rig, compare the cost of a system you can actually drive on day one. If you already own compatible pedals and a wheel, base-only deals become much more relevant.</p><h2>Platform support is a hard requirement</h2><p>PC buyers can mix brands more easily. PlayStation and Xbox buyers need to check licensing at the exact wheelbase or wheel level. Never assume that a USB connection means universal console support.</p><h2>Where the value sweet spot sits</h2><p>Entry direct drive around the 4–8 Nm class is enough to show why the technology matters without demanding an extreme cockpit. Put remaining budget into pedal stability and seating before chasing double-digit torque.</p><h2>Compare complete bundles, not wheelbase headlines</h2><p>A cheaper wheelbase can become the more expensive setup once you add a wheel, pedals, clamp and platform-specific hardware. Price the complete working system on the day you buy. If the wheel is going on a shared desk, our <a href=\"article.html?slug=best-direct-drive-wheel-for-desk-setup\">desk direct-drive guide</a> is the better starting point.</p>",
+      "body": "\n        <h2>MOZA R3</h2>\n        <p>Rated at 3.9 Nm, the R3 is the low-cost direct-drive entry point. MOZA sells both PC and Xbox-and-PC versions, making it especially interesting for console buyers.</p>\n        <h2>MOZA R5</h2>\n        <p>The standard R5 raises peak torque to 5.5 Nm and remains a compact complete bundle for PC.</p>\n        <h2>MOZA R5 Pro</h2>\n        <p>The newer R5 Pro moves to 6 Nm, a 21-bit magnetic encoder and NexGen 5.0 force feedback. It is the one to watch when its price is close to the standard R5.</p>\n        <h2>Fanatec CSL DD</h2>\n        <p>The CSL DD starts at 5 Nm and can be taken to 8 Nm with the Boost Kit 180. Fanatec's ecosystem and platform licensing options are a major part of the buying decision.</p>\n        <h2>Two newer alternatives worth checking</h2><p>Thrustmaster's T598 brings 5 Nm constant torque, Direct Axial Drive and PlayStation support, while Logitech's newer RS50 range reaches 8 Nm and adds a modular direct-drive path. Their exact bundle prices move, so compare the complete setup rather than the wheelbase price alone.</p><h2>What we would prioritise</h2>\n        <p>Do not choose on torque alone. Check platform support, table-clamp requirements, pedal quality, wheel compatibility and the cost of the upgrades you are likely to want next.</p><h2>Compare complete bundles, not wheelbase headlines</h2><p>A base-only price can look excellent until you add a wheel, clamp and pedals. For a first rig, compare the cost of a system you can actually drive on day one. If you already own compatible pedals and a wheel, base-only deals become much more relevant.</p><h2>Platform support is a hard requirement</h2><p>PC buyers can mix brands more easily. PlayStation and Xbox buyers need to check licensing at the exact wheelbase or wheel level. Never assume that a USB connection means universal console support.</p><h2>Where the value sweet spot sits</h2><p>Entry direct drive around the 4–8 Nm class is enough to show why the technology matters without demanding an extreme cockpit. Put remaining budget into pedal stability and seating before chasing double-digit torque.</p><h2>Compare complete bundles, not wheelbase headlines</h2><p>A cheaper wheelbase can become the more expensive setup once you add a wheel, pedals, clamp and platform-specific hardware. Price the complete working system on the day you buy. If the wheel is going on a shared desk, our <a href=\"article.html?slug=best-direct-drive-wheel-for-desk-setup\">desk direct-drive guide</a> is the better starting point.</p>\n<h2>Three comparisons worth opening before checkout</h2>\n<p>If your shortlist has narrowed to the common entry options, use the exact comparison rather than a generic best-of list: <a href=\"article.html?slug=moza-r5-vs-thrustmaster-t598\">MOZA R5 vs Thrustmaster T598</a>, <a href=\"article.html?slug=moza-r5-vs-logitech-g923\">MOZA R5 vs Logitech G923</a>, and our <a href=\"article.html?slug=thrustmaster-t598-xbox-guide\">T598 Xbox compatibility guide</a>.</p>\n",
       "product": "MOZA R5 Pro Racing Simulator",
       "productWhy": "A strong current all-in-one PC option with 6 Nm and a newer encoder/feedback system.",
       "affiliate_url": "https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
@@ -1566,6 +1788,12 @@ window.CHECKPOINT_CONTENT = {
           "image": "https://resource.logitechg.com/w_544%2Ch_466%2Car_7%3A6%2Cc_pad%2Cq_auto%2Cf_auto%2Cdpr_1.0/d_transparent.gif/content/dam/gaming/en/products/rs50-system-pdp/2026-update/rs50-system-front-angle-play-station-gallery-1.png",
           "fallbackImage": "assets/images/best-dd-under-500.svg"
         }
+      ],
+      "relatedSlugs": [
+        "moza-r5-vs-thrustmaster-t598",
+        "thrustmaster-t598-xbox-guide",
+        "moza-r5-vs-logitech-g923",
+        "best-direct-drive-wheel-for-desk-setup"
       ]
     },
     {
@@ -1667,16 +1895,17 @@ window.CHECKPOINT_CONTENT = {
       ],
       "productImage": "https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000",
       "category": "SIM RACING COMPARISON",
-      "title": "MOZA R5 Pro vs Logitech G923: Which Is the Better First Serious Racing Wheel?",
-      "excerpt": "The familiar G923 still wins on simple console compatibility, but the R5 Pro changes the value equation for PC racers with 6 Nm direct drive and a compact desk-ready bundle.",
+      "title": "MOZA R5 Pro vs Logitech G923: 6 Nm Direct Drive vs Console Simplicity",
+      "excerpt": "This page covers the newer 6 Nm R5 Pro. If you are comparing the standard 5.5 Nm MOZA R5 with the G923, use our dedicated R5 vs G923 article.",
       "score": "12 MIN",
       "art": "sim",
       "quick": "For PC, the MOZA R5 Pro is the stronger long-term buy if the budget stretches to it: 6 Nm direct drive, a 21-bit encoder, quick-release wheel and included desk clamp put it in a different performance class. The G923 remains easier to recommend when straightforward PlayStation or Xbox support and a three-pedal starter set matter more than force-feedback strength.",
-      "body": "\n        <h2>The biggest difference is the drive system</h2>\n        <p>The R5 Pro is a direct-drive system: the steering wheel is driven directly by the motor. MOZA rates the base at 6 Nm peak torque and pairs it with a 21-bit magnetic encoder and its NexGen 5.0 force-feedback system.</p>\n        <p>The Logitech G923 uses a dual-motor force-feedback system and Logitech currently lists it at up to 2.3 Nm. TRUEFORCE adds higher-frequency feedback in supported games, but it does not turn the G923 into a direct-drive wheel.</p>\n        <h2>What the torque gap means in practice</h2>\n        <p>Torque is not a complete measure of force-feedback quality, but the difference here is large enough to matter. The R5 Pro has substantially more headroom for steering weight, sharp peaks and detail before the signal reaches the base's limit.</p>\n        <p>The G923 can still communicate grip changes and road effects, especially in TRUEFORCE titles, but it belongs to the older entry-level wheel class rather than the newer direct-drive class.</p>\n        <h2>Desk setup: both are realistic options</h2>\n        <p>This comparison is relevant to people without a permanent cockpit because both systems are designed to work on a desk. MOZA lists desktop mounting and includes a desk clamp with the R5 Pro bundle. The G923 is built around quick clamp-on desk or table setup.</p>\n        <p>The more important issue is the pedals. A desk can hold a wheelbase surprisingly well; a hard brake pedal can push a light pedal set or rolling chair across the floor. Plan the pedal position as carefully as the wheel clamp.</p>\n        <h2>Pedals and bundle contents</h2>\n        <p>The R5 Pro bundle includes the ES Lite wheel and SR-P Lite2 two-pedal set. The pedals use contactless Hall sensors and are adjustable, but the standard bundle is still a starter pedal setup rather than a load-cell package.</p>\n        <p>The G923 includes throttle, brake and clutch pedals. That makes it convenient for someone who wants a complete three-pedal setup immediately, although serious sim racers may eventually want a stronger brake solution on either platform.</p>\n        <h2>Platform support can decide the answer immediately</h2>\n        <p>The G923 is sold in PlayStation-and-PC and Xbox-and-PC versions. That broad console support is still one of its strongest reasons to exist.</p>\n        <p>The R5 Pro is the more natural fit for a PC-first setup. Console buyers should treat platform licensing as a first filter, not something to solve after the hardware arrives.</p>\n        <h2>Ecosystem and upgrade path</h2>\n        <p>MOZA's quick-release system makes wheel changes simple, and the R5 Pro base has ports for pedals, dash, shifter, handbrake and an emergency stop. That gives it a natural path toward a more serious rig.</p>\n        <p>The G923 ecosystem is simpler. A Driving Force shifter can be added, but the wheel itself is not designed around swapping rims and building a modular direct-drive system.</p>\n        <h2>Which should you buy?</h2>\n        <p><strong>Buy the R5 Pro</strong> if you race on PC, want a system you can grow around and care more about force-feedback quality than getting a clutch pedal in the box.</p>\n        <p><strong>Buy the G923</strong> if console support, familiar setup and a complete three-pedal bundle matter more, especially when it is heavily discounted.</p>\n        <p>If you already own a G923, the R5 Pro is a meaningful upgrade rather than a side-grade. If you are buying from scratch on PC, compare the total bundle prices before defaulting to the older Logitech simply because the name is familiar.</p>\n        <h2>Related reading</h2>\n        <p>Also see our <a href=\"article.html?slug=logitech-g923-vs-direct-drive\">G923 vs direct-drive guide</a>, <a href=\"article.html?slug=moza-r5-vs-r5-pro\">R5 vs R5 Pro comparison</a> and <a href=\"article.html?slug=best-upgrades-for-moza-r5-r5-pro\">R5 upgrade order</a>.</p>",
+      "body": "\n        <h2>The biggest difference is the drive system</h2>\n        <p>The R5 Pro is a direct-drive system: the steering wheel is driven directly by the motor. MOZA rates the base at 6 Nm peak torque and pairs it with a 21-bit magnetic encoder and its NexGen 5.0 force-feedback system.</p>\n        <p>The Logitech G923 uses a dual-motor force-feedback system and Logitech currently lists it at up to 2.3 Nm. TRUEFORCE adds higher-frequency feedback in supported games, but it does not turn the G923 into a direct-drive wheel.</p>\n        <h2>What the torque gap means in practice</h2>\n        <p>Torque is not a complete measure of force-feedback quality, but the difference here is large enough to matter. The R5 Pro has substantially more headroom for steering weight, sharp peaks and detail before the signal reaches the base's limit.</p>\n        <p>The G923 can still communicate grip changes and road effects, especially in TRUEFORCE titles, but it belongs to the older entry-level wheel class rather than the newer direct-drive class.</p>\n        <h2>Desk setup: both are realistic options</h2>\n        <p>This comparison is relevant to people without a permanent cockpit because both systems are designed to work on a desk. MOZA lists desktop mounting and includes a desk clamp with the R5 Pro bundle. The G923 is built around quick clamp-on desk or table setup.</p>\n        <p>The more important issue is the pedals. A desk can hold a wheelbase surprisingly well; a hard brake pedal can push a light pedal set or rolling chair across the floor. Plan the pedal position as carefully as the wheel clamp.</p>\n        <h2>Pedals and bundle contents</h2>\n        <p>The R5 Pro bundle includes the ES Lite wheel and SR-P Lite2 two-pedal set. The pedals use contactless Hall sensors and are adjustable, but the standard bundle is still a starter pedal setup rather than a load-cell package.</p>\n        <p>The G923 includes throttle, brake and clutch pedals. That makes it convenient for someone who wants a complete three-pedal setup immediately, although serious sim racers may eventually want a stronger brake solution on either platform.</p>\n        <h2>Platform support can decide the answer immediately</h2>\n        <p>The G923 is sold in PlayStation-and-PC and Xbox-and-PC versions. That broad console support is still one of its strongest reasons to exist.</p>\n        <p>The R5 Pro is the more natural fit for a PC-first setup. Console buyers should treat platform licensing as a first filter, not something to solve after the hardware arrives.</p>\n        <h2>Ecosystem and upgrade path</h2>\n        <p>MOZA's quick-release system makes wheel changes simple, and the R5 Pro base has ports for pedals, dash, shifter, handbrake and an emergency stop. That gives it a natural path toward a more serious rig.</p>\n        <p>The G923 ecosystem is simpler. A Driving Force shifter can be added, but the wheel itself is not designed around swapping rims and building a modular direct-drive system.</p>\n        <h2>Which should you buy?</h2>\n        <p><strong>Buy the R5 Pro</strong> if you race on PC, want a system you can grow around and care more about force-feedback quality than getting a clutch pedal in the box.</p>\n        <p><strong>Buy the G923</strong> if console support, familiar setup and a complete three-pedal bundle matter more, especially when it is heavily discounted.</p>\n        <p>If you already own a G923, the R5 Pro is a meaningful upgrade rather than a side-grade. If you are buying from scratch on PC, compare the total bundle prices before defaulting to the older Logitech simply because the name is familiar.</p>\n        <h2>Related reading</h2>\n        <p>Also see our <a href=\"article.html?slug=logitech-g923-vs-direct-drive\">G923 vs direct-drive guide</a>, <a href=\"article.html?slug=moza-r5-vs-r5-pro\">R5 vs R5 Pro comparison</a> and <a href=\"article.html?slug=best-upgrades-for-moza-r5-r5-pro\">R5 upgrade order</a>.</p>\n<h2>Standard R5 or R5 Pro?</h2>\n<p>This page is specifically for the 6 Nm <strong>R5 Pro</strong>. If the product in your basket is the standard 5.5 Nm MOZA R5, see <a href=\"article.html?slug=moza-r5-vs-logitech-g923\">MOZA R5 vs Logitech G923</a>. That avoids mixing two different MOZA bundles into one price comparison.</p>\n",
       "product": "MOZA R5 Pro Racing Simulator",
       "productWhy": "For PC racers, the R5 Pro is the stronger performance-first choice in this comparison, with 6 Nm direct drive, an included desk clamp and a modular upgrade path.",
       "affiliate_url": "https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
       "relatedSlugs": [
+        "moza-r5-vs-logitech-g923",
         "logitech-g923-vs-direct-drive",
         "moza-r5-vs-r5-pro",
         "best-upgrades-for-moza-r5-r5-pro"
@@ -1748,18 +1977,19 @@ window.CHECKPOINT_CONTENT = {
       ],
       "productImage": "https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000",
       "category": "SIM RACING COMPARISON",
-      "title": "MOZA R5 Pro vs Thrustmaster T598: Two Very Different Entry Direct-Drive Bundles",
-      "excerpt": "MOZA's compact 6 Nm PC bundle faces Thrustmaster's 5 Nm Direct Axial Drive package with PlayStation support, Race Dash and an upgradeable pedal set.",
+      "title": "MOZA R5 Pro vs Thrustmaster T598: 6 Nm PC Bundle or Console-Friendly T598?",
+      "excerpt": "This comparison is specifically about the newer 6 Nm R5 Pro, not the standard 5.5 Nm R5. PC racers get MOZA's newer bundle; T598 buyers get console-licensed versions and Race Dash.",
       "score": "13 MIN",
       "art": "sim",
-      "quick": "For a PC-only desk setup, the R5 Pro is the cleaner value proposition: 6 Nm, compact dimensions, included clamp and a strong modular ecosystem. The T598 is the more interesting choice for PlayStation users and anyone who values its integrated Race Dash, Direct Axial Drive design and Thrustmaster wheel ecosystem.",
-      "body": "\n        <h2>This is not just a 6 Nm versus 5 Nm comparison</h2>\n        <p>MOZA rates the R5 Pro at 6 Nm peak torque. Thrustmaster rates the T598 at 5 Nm of constant torque and advertises an overshoot capability of up to +100% for short boosted effects. Those figures are defined differently, so treating the comparison as a simple one-number race would be misleading.</p>\n        <p>The useful distinction is that both are modern direct-drive-class systems aimed at people moving beyond gear- and belt-driven starter wheels.</p>\n        <h2>R5 Pro: compact and straightforward</h2>\n        <p>The R5 Pro uses a 21-bit magnetic encoder, a 1000 Hz USB refresh rate and NexGen 5.0 force feedback. MOZA lists the wheelbase at 2.9 kg and includes a desk clamp in the bundle.</p>\n        <p>The ES Lite wheel is 280 mm and uses an all-aluminium quick release. The SR-P Lite2 pedals are a two-pedal Hall-sensor set.</p>\n        <h2>T598: a different motor approach</h2>\n        <p>Thrustmaster's T598 uses what the company calls Direct Axial Drive, based on an axial-flux motor. Thrustmaster says the design is intended to eliminate cogging and produce clear high-frequency force-feedback effects.</p>\n        <p>The bundle includes a 300 mm detachable wheel, Race Dash display, Raceline Pedals LTE two-pedal set and a clamping system. Thrustmaster also lists 5 ms response for force-feedback effects.</p>\n        <h2>Desk space matters</h2>\n        <p>The T598 is physically substantial. Thrustmaster lists the complete package at about 400 mm wide, 340 mm deep and 320 mm high, with a weight of 6.8 kg. That is not a problem on a solid desk, but it is worth measuring before buying.</p>\n        <p>The R5 Pro's compact base is easier to accommodate in a shared gaming-and-work desk setup, and its clamp is included.</p>\n        <h2>Platform support</h2>\n        <p>The PlayStation/PC T598 supports PS5, PS4 and PC. Thrustmaster also offers a T598 Xbox/PC version. That gives the T598 a clear advantage for console buyers.</p>\n        <p>The R5 Pro is the more natural fit for a PC-first setup. Console buyers should treat platform licensing as a first filter, not something to solve after the hardware arrives.</p>\n        <h2>Pedal upgrade path</h2>\n        <p>Both standard bundles start with two pedals rather than a load-cell brake. Thrustmaster describes the Raceline Pedals LTE set as upgradeable to a three-pedal version with a load-cell kit. MOZA's broader ecosystem gives R5 Pro owners several later pedal routes, including dedicated load-cell sets.</p>\n        <p>Whichever bundle you choose, a better brake is likely to make more difference to consistency than chasing a small increase in wheel torque.</p>\n        <h2>Which one should you buy?</h2>\n        <p><strong>Choose the R5 Pro</strong> for a compact PC desk setup, MOZA ecosystem access and a simple all-in-one package with a strong performance-to-size ratio.</p>\n        <p><strong>Choose the T598</strong> for PlayStation support, the Race Dash display, Thrustmaster's wheel ecosystem or if the Direct Axial Drive approach specifically appeals to you.</p>\n        <p>Neither is automatically better for everyone. Platform and available desk space are more decisive here than the headline torque figures.</p>\n        <h2>Related reading</h2>\n        <p>Compare the broader market in our <a href=\"article.html?slug=best-direct-drive-wheel-for-desk-setup\">best direct-drive wheels for desk setups</a> and <a href=\"article.html?slug=best-direct-drive-wheel-under-500-uk\">direct-drive options under £500</a>.</p>",
+      "quick": "This page compares the newer 6 Nm MOZA R5 Pro with the T598. If you meant the standard 5.5 Nm MOZA R5, use our dedicated R5 vs T598 comparison. For a PC-only buyer, the R5 Pro offers the stronger torque headline and newer MOZA bundle. T598 remains the platform-flexibility choice because dedicated Xbox/PC and PlayStation/PC versions exist.",
+      "body": "\n        <h2>This is not just a 6 Nm versus 5 Nm comparison</h2>\n        <p>MOZA rates the R5 Pro at 6 Nm peak torque. Thrustmaster rates the T598 at 5 Nm of constant torque and advertises an overshoot capability of up to +100% for short boosted effects. Those figures are defined differently, so treating the comparison as a simple one-number race would be misleading.</p>\n        <p>The useful distinction is that both are modern direct-drive-class systems aimed at people moving beyond gear- and belt-driven starter wheels.</p>\n        <h2>R5 Pro: compact and straightforward</h2>\n        <p>The R5 Pro uses a 21-bit magnetic encoder, a 1000 Hz USB refresh rate and NexGen 5.0 force feedback. MOZA lists the wheelbase at 2.9 kg and includes a desk clamp in the bundle.</p>\n        <p>The ES Lite wheel is 280 mm and uses an all-aluminium quick release. The SR-P Lite2 pedals are a two-pedal Hall-sensor set.</p>\n        <h2>T598: a different motor approach</h2>\n        <p>Thrustmaster's T598 uses what the company calls Direct Axial Drive, based on an axial-flux motor. Thrustmaster says the design is intended to eliminate cogging and produce clear high-frequency force-feedback effects.</p>\n        <p>The bundle includes a 300 mm detachable wheel, Race Dash display, Raceline Pedals LTE two-pedal set and a clamping system. Thrustmaster also lists 5 ms response for force-feedback effects.</p>\n        <h2>Desk space matters</h2>\n        <p>The T598 is physically substantial. Thrustmaster lists the complete package at about 400 mm wide, 340 mm deep and 320 mm high, with a weight of 6.8 kg. That is not a problem on a solid desk, but it is worth measuring before buying.</p>\n        <p>The R5 Pro's compact base is easier to accommodate in a shared gaming-and-work desk setup, and its clamp is included.</p>\n        <h2>Platform support</h2>\n        <p>The PlayStation/PC T598 supports PS5, PS4 and PC. Thrustmaster also offers a T598 Xbox/PC version. That gives the T598 a clear advantage for console buyers.</p>\n        <p>The R5 Pro is the more natural fit for a PC-first setup. Console buyers should treat platform licensing as a first filter, not something to solve after the hardware arrives.</p>\n        <h2>Pedal upgrade path</h2>\n        <p>Both standard bundles start with two pedals rather than a load-cell brake. Thrustmaster describes the Raceline Pedals LTE set as upgradeable to a three-pedal version with a load-cell kit. MOZA's broader ecosystem gives R5 Pro owners several later pedal routes, including dedicated load-cell sets.</p>\n        <p>Whichever bundle you choose, a better brake is likely to make more difference to consistency than chasing a small increase in wheel torque.</p>\n        <h2>Which one should you buy?</h2>\n        <p><strong>Choose the R5 Pro</strong> for a compact PC desk setup, MOZA ecosystem access and a simple all-in-one package with a strong performance-to-size ratio.</p>\n        <p><strong>Choose the T598</strong> for PlayStation support, the Race Dash display, Thrustmaster's wheel ecosystem or if the Direct Axial Drive approach specifically appeals to you.</p>\n        <p>Neither is automatically better for everyone. Platform and available desk space are more decisive here than the headline torque figures.</p>\n        <h2>Related reading</h2>\n        <p>Compare the broader market in our <a href=\"article.html?slug=best-direct-drive-wheel-for-desk-setup\">best direct-drive wheels for desk setups</a> and <a href=\"article.html?slug=best-direct-drive-wheel-under-500-uk\">direct-drive options under £500</a>.</p>\n<h2>Looking for the standard MOZA R5 instead?</h2>\n<p>This page is intentionally about the <strong>R5 Pro</strong>. Google searches often shorten the model name, so if you are comparing the standard 5.5 Nm R5 with the T598, use our <a href=\"article.html?slug=moza-r5-vs-thrustmaster-t598\">MOZA R5 vs Thrustmaster T598 comparison</a>. Keeping those two questions separate makes the torque, bundle and value comparison much clearer.</p>\n",
       "product": "MOZA R5 Pro Racing Simulator",
       "productWhy": "Our PC-first pick in this comparison because it combines a compact desk-ready base, 6 Nm direct drive and a modular upgrade path.",
       "affiliate_url": "https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
       "relatedSlugs": [
+        "moza-r5-vs-thrustmaster-t598",
+        "thrustmaster-t598-xbox-guide",
         "best-direct-drive-wheel-for-desk-setup",
-        "best-direct-drive-wheel-under-500-uk",
         "moza-r5-vs-r5-pro"
       ],
       "sources": [
@@ -1808,18 +2038,26 @@ window.CHECKPOINT_CONTENT = {
       ],
       "recommendations": [
         {
-          "label": "PC PICK",
+          "label": "R5 PRO / PC",
           "name": "MOZA R5 Pro Racing Simulator",
-          "why": "Compact 6 Nm PC bundle with included desk clamp.",
+          "why": "This is the 6 Nm Pro bundle covered by this page.",
           "url": "https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
           "image": "https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000",
           "fallbackImage": "assets/images/best-dd-under-500.svg"
         },
         {
-          "label": "CONSOLE ALTERNATIVE",
-          "name": "Thrustmaster T598",
-          "why": "Check the exact licensed PlayStation/PC or Xbox/PC version before buying.",
-          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598&tag=aidan0701-20",
+          "label": "T598 XBOX / PC",
+          "name": "Thrustmaster T598 Xbox / PC",
+          "why": "Use the Xbox-specific Amazon search and verify the platform in the listing.",
+          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+Xbox+PC&tag=aidan0701-20",
+          "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
+          "fallbackImage": "assets/images/best-dd-under-500.svg"
+        },
+        {
+          "label": "T598 PLAYSTATION / PC",
+          "name": "Thrustmaster T598 PlayStation / PC",
+          "why": "Use the PlayStation-specific Amazon check for PS5/PS4/PC.",
+          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+PlayStation+PC&tag=aidan0701-20",
           "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
           "fallbackImage": "assets/images/best-dd-under-500.svg"
         }
@@ -2747,6 +2985,105 @@ window.CHECKPOINT_CONTENT = {
       "productImage": "assets/images/monitor-arm-product.png",
       "heroImages": [
         "assets/images/monitor-arm-product.png"
+      ]
+    },
+    {
+      "slug": "thrustmaster-t598-xbox-guide",
+      "image": "assets/images/best-dd-under-500.svg",
+      "productImage": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
+      "heroImages": [
+        "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg"
+      ],
+      "category": "SIM RACING BUYING GUIDE",
+      "title": "Thrustmaster T598 Xbox Guide: Compatibility, Versions and What to Buy",
+      "excerpt": "There is now an Xbox/PC T598, but it is not the same licensed version as the PlayStation model. Here is what Xbox buyers need to check before ordering.",
+      "score": "15 MIN",
+      "art": "sim",
+      "lastChecked": "27 August 2026",
+      "researchStatus": "Research-backed",
+      "quick": "Yes, the Thrustmaster T598 is available in an Xbox/PC version for Xbox Series X|S, Xbox One and Windows PC. It uses the same 5 Nm Direct Axial Drive concept, Race Dash and two-pedal Raceline LTE bundle format. The important catch is version selection: the Xbox/PC and PlayStation/PC T598 are separate licensed products.",
+      "buyIf": [
+        "You want entry direct drive on Xbox Series X|S or Xbox One",
+        "You also want to use the same wheel on PC",
+        "You like the Thrustmaster detachable-wheel ecosystem and Race Dash"
+      ],
+      "skipIf": [
+        "You need PlayStation support — buy the PlayStation/PC T598 instead",
+        "You already own a PC-only direct-drive setup that suits you",
+        "You are not willing to update firmware or check game-specific compatibility modes"
+      ],
+      "specs": [
+        [
+          "Platforms",
+          "Xbox Series X|S / Xbox One / PC"
+        ],
+        [
+          "Motor",
+          "Direct Axial Drive / axial-flux design"
+        ],
+        [
+          "Torque",
+          "5 Nm constant + advertised overshoot"
+        ],
+        [
+          "Wheel",
+          "30 cm detachable Sportcar rim"
+        ],
+        [
+          "Pedals",
+          "Raceline Pedals LTE, 2 pedals"
+        ],
+        [
+          "Mounting",
+          "Clamping system included"
+        ],
+        [
+          "Display",
+          "Race Dash"
+        ],
+        [
+          "Xbox modes",
+          "Native and Legacy compatibility modes"
+        ]
+      ],
+      "body": "\n<h2>Is the T598 available for Xbox?</h2>\n<p>Yes. Thrustmaster now lists a dedicated <strong>T598 Xbox / PC</strong> model compatible with Xbox Series X|S, Xbox One and Windows PC. This is separate from the T598 PlayStation / PC version.</p>\n\n<h2>Do not accidentally buy the PlayStation version</h2>\n<p>The two products look closely related and share the same T598 name, but platform licensing differs. For an Xbox setup, the listing should explicitly say Xbox / PC. For PS5 or PS4, you want the PlayStation / PC version.</p>\n\n<h2>What is in the Xbox bundle?</h2>\n<p>Thrustmaster lists the T598 servo base, detachable Sportcar wheel, Raceline Pedals LTE two-pedal set, clamping system, power supply, USB cable and pedal cable in the complete Xbox/PC package.</p>\n\n<h2>Force feedback</h2>\n<p>The Xbox model uses Thrustmaster's Direct Axial Drive system with 5 Nm of constant torque. Thrustmaster also advertises overshoot capability for short boosted effects and high-frequency HARMONY feedback.</p>\n\n<h2>Native and Legacy modes on Xbox</h2>\n<p>This is the detail most quick product pages miss. Thrustmaster's support documentation lists two Xbox compatibility modes: <strong>Native</strong> is the default; <strong>Legacy</strong> makes the T598 identify as a TS-XW Racer for backwards compatibility.</p>\n<p>Thrustmaster specifically notes that some titles, including recent F1 games, can require Legacy mode. If a game sees the wheel but behaves incorrectly, checking the support page and compatibility mode should be one of the first troubleshooting steps.</p>\n\n<h2>Firmware matters</h2>\n<p>Thrustmaster's current support page lists wheelbase firmware 1.60 as the latest version at our last check. Firmware is updated through My Thrustmaster Panel on PC. If you buy the wheel for Xbox only, it is still worth connecting it to a PC for firmware maintenance when required.</p>\n\n<h2>One small Xbox limitation</h2>\n<p>Thrustmaster notes that the LSB and RSB action buttons on the base are functional on PC but not on Xbox. That is not a reason to reject the wheel, but it is exactly the sort of compatibility detail worth knowing before purchase.</p>\n\n<h2>T598 Xbox vs MOZA R5</h2>\n<p>For Xbox, the T598 has the decisive advantage because the standard MOZA R5 is PC-focused. If you are choosing on PC, the comparison becomes much closer — see our dedicated <a href=\"article.html?slug=moza-r5-vs-thrustmaster-t598\">MOZA R5 vs Thrustmaster T598 comparison</a>.</p>\n\n<h2>Can you buy the T598 through Amazon?</h2>\n<p>Yes, when Amazon UK has the relevant version listed. Because the Xbox and PlayStation models can appear in the same search results, use the Xbox-specific check below and confirm the product title before checkout.</p>\n",
+      "recommendations": [
+        {
+          "label": "AMAZON XBOX CHECK",
+          "name": "Thrustmaster T598 Xbox / PC",
+          "why": "Search Amazon UK specifically for the Xbox/PC version and verify the platform wording before ordering.",
+          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+Xbox+PC&tag=aidan0701-20",
+          "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
+          "fallbackImage": "assets/images/best-dd-under-500.svg"
+        },
+        {
+          "label": "PLAYSTATION VERSION",
+          "name": "Thrustmaster T598 PlayStation / PC",
+          "why": "Only choose this version for PS5/PS4/PC; it is not the Xbox-licensed SKU.",
+          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+PlayStation+PC&tag=aidan0701-20",
+          "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
+          "fallbackImage": "assets/images/best-dd-under-500.svg"
+        }
+      ],
+      "relatedSlugs": [
+        "moza-r5-vs-thrustmaster-t598",
+        "moza-r5-pro-vs-thrustmaster-t598",
+        "best-direct-drive-wheel-under-500-uk",
+        "best-direct-drive-wheel-for-desk-setup"
+      ],
+      "sources": [
+        [
+          "Thrustmaster T598 Xbox / PC official UK page",
+          "https://www.thrustmaster.com/en-gb/products/t598-x/"
+        ],
+        [
+          "Thrustmaster T598 Xbox support / compatibility page",
+          "https://support.thrustmaster.com/en/product/t598x-en/"
+        ],
+        [
+          "Thrustmaster T598 PlayStation / PC official UK page",
+          "https://www.thrustmaster.com/en-gb/products/t598/"
+        ]
       ]
     }
   ],

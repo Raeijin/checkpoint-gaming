@@ -2,6 +2,7 @@ const data = window.CHECKPOINT_CONTENT;
 const reviewGrid = document.getElementById('reviewGrid');
 const guideGrid = document.getElementById('guideGrid');
 const techGrid = document.getElementById('techGrid');
+const simGrid = document.getElementById('simGrid');
 function card(item, kind){
   const monitorHardFix = item.slug === 'best-1440p-gaming-monitor-2026' || item.slug === 'oled-vs-mini-led-gaming-monitor-2026';
   const cardArtClass = `card-art ${item.art}${monitorHardFix ? ' monitor-card-hardfix' : ''}`;
@@ -28,6 +29,21 @@ function card(item, kind){
 }
 reviewGrid.innerHTML = data.reviews.slice().reverse().slice(0,12).map(x=>card(x,'review')).join('');
 guideGrid.innerHTML = (data.gameGuides || []).map(x=>card(x,'game')).join('');
+
+const simSlugs = [
+  "moza-r5-vs-thrustmaster-t598",
+  "thrustmaster-t598-xbox-guide",
+  "moza-r5-vs-logitech-g923",
+  "moza-r5-pro-vs-thrustmaster-t598",
+  "moza-r5-pro-vs-logitech-g923",
+  "best-direct-drive-wheel-under-500-uk"
+];
+if (simGrid) simGrid.innerHTML = simSlugs
+  .map(slug => [...data.reviews,...data.guides].find(x=>x.slug===slug))
+  .filter(Boolean)
+  .map(x=>card(x, x.category.includes('GUIDE') ? 'guide' : 'review'))
+  .join('');
+
 const techSlugs = ["best-gaming-keyboard-2026", "keychron-k2-he-researched-review", "best-pc-controller-2026", "gamesir-g7-pro-researched-review", "best-1440p-gaming-monitor-2026", "oled-vs-mini-led-gaming-monitor-2026", "best-monitor-arm-for-gaming-desk-2026", "best-2tb-gaming-ssd-2026", "best-gaming-mouse-2026", "best-wireless-gaming-headset-2026"];
 if (techGrid) techGrid.innerHTML = techSlugs.map(slug => [...data.reviews,...data.guides].find(x=>x.slug===slug)).filter(Boolean).map(x=>card(x, x.category.includes('REVIEW') || x.category.includes('COMPARISON') ? 'review' : 'guide')).join('');
 const searchBtn=document.getElementById('searchBtn'), panel=document.getElementById('searchPanel'), input=document.getElementById('searchInput');
