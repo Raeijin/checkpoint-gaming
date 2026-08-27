@@ -1,15 +1,8 @@
 {
-  "name": "Checkpoint Loadout",
-  "short_name": "Loadout",
-  "start_url": "/",
+  "name": "Checkpoint Gaming & Tech",
+  "short_name": "Checkpoint",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#07090d",
-  "theme_color": "#07090d",
-  "icons": [
-    {
-      "src": "assets/images/favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml"
-    }
-  ]
+  "theme_color": "#07090d"
 }

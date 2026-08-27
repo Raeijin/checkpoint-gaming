@@ -1,5 +1,5 @@
 
-const ids=['type','category','title','excerpt','score','slug','quick','body','image','product','affiliate'];
+const ids=['type','category','title','excerpt','score','slug','quick','body','product','affiliate'];
 const el=Object.fromEntries(ids.map(id=>[id,document.getElementById(id)]));
 
 function slugify(s){return s.toLowerCase().trim().replace(/['"]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');}
@@ -7,7 +7,7 @@ function getData(){
   return {
     type:el.type.value, category:el.category.value.trim(), title:el.title.value.trim(),
     excerpt:el.excerpt.value.trim(), score:el.score.value.trim(), slug:(el.slug.value.trim()||slugify(el.title.value)),
-    quick:el.quick.value.trim(), body:el.body.value.trim(), image:el.image.value.trim(), product:el.product.value.trim(),
+    quick:el.quick.value.trim(), body:el.body.value.trim(), product:el.product.value.trim(),
     affiliate_url:el.affiliate.value.trim(), updated:new Date().toISOString().slice(0,10)
   };
 }
