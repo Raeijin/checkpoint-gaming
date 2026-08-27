@@ -34,7 +34,7 @@ ensureMeta('meta[property="og:description"]', {property:'og:description', conten
 ensureMeta('meta[property="og:type"]', {property:'og:type', content:'article'});
 ensureMeta('meta[property="og:url"]', {property:'og:url', content:canonical.href});
 ensureMeta('meta[name="twitter:card"]', {name:'twitter:card', content:'summary_large_image'});
-const socialImage = model.heroImages?.[0] || model.productImage || model.image;
+const socialImage = model.cardImage || model.heroImages?.[0] || model.productImage || model.image;
 if (socialImage) {
   const absoluteImage = new URL(socialImage, 'https://checkpointloadout.com/').href;
   ensureMeta('meta[property="og:image"]', {property:'og:image', content:absoluteImage});
@@ -50,10 +50,35 @@ document.getElementById('articleRead').textContent = model.score || (kind === 'r
 document.getElementById('researchStatus').textContent = model.researchStatus || 'Research-backed';
 document.getElementById('quickText').textContent = model.quick || '';
 
-const isGameGuidePage = (model.category || '').toUpperCase().includes('GAME GUIDE');
+const categoryUpper = (model.category || '').toUpperCase();
+const isGameGuidePage = (window.CHECKPOINT_CONTENT.gameGuides || []).some(g => g.slug === model.slug);
+const isSetupGuidePage = categoryUpper.includes('SETUP GUIDE');
+const isFaqPage = categoryUpper.includes('FAQ');
+const articleMode = isSetupGuidePage ? 'setup' : isFaqPage ? 'faq' : isGameGuidePage ? 'game' : 'buyer';
+document.body.dataset.articleMode = articleMode;
+
 const buyIfLabel = document.getElementById('buyIfLabel');
 const skipIfLabel = document.getElementById('skipIfLabel');
-if (isGameGuidePage) { buyIfLabel.textContent = 'DO THIS'; skipIfLabel.textContent = 'AVOID THIS'; }
+const decisionToc = document.querySelector('.toc a[href="#decision"]');
+
+if (articleMode === 'setup') {
+  buyIfLabel.textContent = 'START WITH';
+  skipIfLabel.textContent = 'AVOID';
+  if (decisionToc) decisionToc.textContent = 'Setup checklist';
+} else if (articleMode === 'faq') {
+  buyIfLabel.textContent = 'CHECK FIRST';
+  skipIfLabel.textContent = 'AVOID';
+  if (decisionToc) decisionToc.textContent = 'Troubleshooting checklist';
+} else if (articleMode === 'game') {
+  buyIfLabel.textContent = 'DO THIS';
+  skipIfLabel.textContent = 'AVOID THIS';
+  if (decisionToc) decisionToc.textContent = 'Key habits';
+} else {
+  buyIfLabel.textContent = 'BUY IF';
+  skipIfLabel.textContent = 'SKIP IF';
+  if (decisionToc) decisionToc.textContent = 'Who it suits';
+}
+
 const buyIfList = document.getElementById('buyIfList');
 const skipIfList = document.getElementById('skipIfList');
 const decisionSection = document.getElementById('decision');
@@ -64,10 +89,23 @@ if (buyIf.length || skipIf.length) {
   skipIfList.innerHTML = skipIf.map(x => `<li>${x}</li>`).join('');
 } else {
   decisionSection.hidden = true;
-  document.querySelector('.toc a[href="#decision"]')?.remove();
+  decisionToc?.remove();
 }
+
 const specsSection = document.getElementById('specsSection');
 const specBody = document.getElementById('specTableBody');
+const specsKicker = specsSection?.querySelector('.kicker');
+const specsTitle = specsSection?.querySelector('h2');
+if (articleMode === 'setup') {
+  if (specsKicker) specsKicker.textContent = 'STARTING POINT';
+  if (specsTitle) specsTitle.textContent = 'Settings & checks at a glance';
+} else if (articleMode === 'faq') {
+  if (specsKicker) specsKicker.textContent = 'DIAGNOSIS';
+  if (specsTitle) specsTitle.textContent = 'Quick troubleshooting checks';
+} else if (articleMode === 'game') {
+  if (specsKicker) specsKicker.textContent = 'AT A GLANCE';
+  if (specsTitle) specsTitle.textContent = 'Key facts';
+}
 if (model.specs?.length) {
   specBody.innerHTML = model.specs.map(([k,v]) => `<tr><th>${k}</th><td>${v}</td></tr>`).join('');
   specsSection.hidden = false;
@@ -98,7 +136,7 @@ const heroImages = (model.heroImages && model.heroImages.length)
 
 if (heroImages.length) {
   heroGallery.innerHTML = heroImages.map((src, i) =>
-    `<figure class="article-product-shot"><img src="${src}" alt="${model.title} product image ${i + 1}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src=\'${model.image}\'"></figure>`
+    `<figure class="article-product-shot"><img src="${src}" alt="${model.title} visual ${i + 1}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src=\'${model.image}\'"></figure>`
   ).join('');
   heroGallery.dataset.count = String(heroImages.length);
   heroGallery.hidden = false;
@@ -107,7 +145,23 @@ if (heroImages.length) {
 const recommendationGrid = document.getElementById('recommendationGrid');
 const legacyProductBox = document.getElementById('legacyProductBox');
 const amazonPriceNote = document.getElementById('amazonPriceNote');
+const pickKicker = pickSection?.querySelector('.kicker');
+const pickTitle = pickSection?.querySelector('h2');
 const recs = model.recommendations || [];
+
+if (articleMode === 'setup' && recs.length) {
+  if (pickKicker) pickKicker.textContent = 'HARDWARE COVERED';
+  if (pickTitle) pickTitle.textContent = 'Wheelbases used in this guide';
+  if (pickToc) pickToc.textContent = 'Hardware covered';
+} else if (articleMode === 'game' && recs.length) {
+  if (pickKicker) pickKicker.textContent = 'USEFUL EXTRAS';
+  if (pickTitle) pickTitle.textContent = 'Optional gear & extras';
+  if (pickToc) pickToc.textContent = 'Useful extras';
+} else if (articleMode === 'faq' && recs.length) {
+  if (pickKicker) pickKicker.textContent = 'USEFUL HARDWARE';
+  if (pickTitle) pickTitle.textContent = 'Relevant hardware';
+  if (pickToc) pickToc.textContent = 'Relevant hardware';
+}
 function buttonText(url){
   if (url.includes('amazon.co.uk')) return 'Check on Amazon UK →';
   if (url.includes('uk.mozaracing.com')) return 'View at MOZA UK →';
@@ -197,7 +251,7 @@ const related = explicitRelated.length
 if (relatedGrid) {
   relatedGrid.innerHTML = related.map(x => `
     <a class="related-card" href="article.html?slug=${x.slug}">
-      <div class="related-thumb">${(x.heroImages?.[0] || x.productImage || x.image) ? `<img src="${x.heroImages?.[0] || x.productImage || x.image}" alt="">` : ''}</div>
+      <div class="related-thumb">${(x.cardImage || x.heroImages?.[0] || x.productImage || x.image) ? `<img src="${x.cardImage || x.heroImages?.[0] || x.productImage || x.image}" alt="">` : ''}</div>
       <div><span class="pill">${x.category}</span><h3>${x.title}</h3><span class="more">Read next →</span></div>
     </a>`).join('');
 }
