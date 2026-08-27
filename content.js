@@ -1251,7 +1251,7 @@ window.CHECKPOINT_CONTENT = {
           "label": "XBOX / PC",
           "name": "Thrustmaster T598 Xbox / PC",
           "why": "Use this search specifically for the Xbox-licensed version; verify the listing says Xbox before checkout.",
-          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+Xbox+PC&tag=aidan0701-20",
+          "url": "https://amzn.to/45TrGOx",
           "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
           "fallbackImage": "assets/images/best-dd-under-500.svg"
         },
@@ -1259,7 +1259,7 @@ window.CHECKPOINT_CONTENT = {
           "label": "PLAYSTATION / PC",
           "name": "Thrustmaster T598 PlayStation / PC",
           "why": "Use this search for the PS5/PS4/PC version; do not assume it is the same SKU as the Xbox model.",
-          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+PlayStation+PC&tag=aidan0701-20",
+          "url": "https://amzn.to/4zHHdyC",
           "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
           "fallbackImage": "assets/images/best-dd-under-500.svg"
         }
@@ -2049,7 +2049,7 @@ window.CHECKPOINT_CONTENT = {
           "label": "T598 XBOX / PC",
           "name": "Thrustmaster T598 Xbox / PC",
           "why": "Use the Xbox-specific Amazon search and verify the platform in the listing.",
-          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+Xbox+PC&tag=aidan0701-20",
+          "url": "https://amzn.to/45TrGOx",
           "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
           "fallbackImage": "assets/images/best-dd-under-500.svg"
         },
@@ -2057,7 +2057,7 @@ window.CHECKPOINT_CONTENT = {
           "label": "T598 PLAYSTATION / PC",
           "name": "Thrustmaster T598 PlayStation / PC",
           "why": "Use the PlayStation-specific Amazon check for PS5/PS4/PC.",
-          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+PlayStation+PC&tag=aidan0701-20",
+          "url": "https://amzn.to/4zHHdyC",
           "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
           "fallbackImage": "assets/images/best-dd-under-500.svg"
         }
@@ -3052,7 +3052,7 @@ window.CHECKPOINT_CONTENT = {
           "label": "AMAZON XBOX CHECK",
           "name": "Thrustmaster T598 Xbox / PC",
           "why": "Search Amazon UK specifically for the Xbox/PC version and verify the platform wording before ordering.",
-          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+Xbox+PC&tag=aidan0701-20",
+          "url": "https://amzn.to/45TrGOx",
           "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
           "fallbackImage": "assets/images/best-dd-under-500.svg"
         },
@@ -3060,7 +3060,7 @@ window.CHECKPOINT_CONTENT = {
           "label": "PLAYSTATION VERSION",
           "name": "Thrustmaster T598 PlayStation / PC",
           "why": "Only choose this version for PS5/PS4/PC; it is not the Xbox-licensed SKU.",
-          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+PlayStation+PC&tag=aidan0701-20",
+          "url": "https://amzn.to/4zHHdyC",
           "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
           "fallbackImage": "assets/images/best-dd-under-500.svg"
         }
@@ -3366,7 +3366,7 @@ window.CHECKPOINT_CONTENT = {
           "label": "XBOX / PC",
           "name": "Thrustmaster T598 Xbox / PC",
           "why": "Use the Xbox-specific Amazon UK search and verify the product title before checkout.",
-          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+Xbox+PC&tag=aidan0701-20",
+          "url": "https://amzn.to/45TrGOx",
           "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
           "fallbackImage": "assets/images/ace-setup-fallback.jpg"
         },
@@ -3374,7 +3374,7 @@ window.CHECKPOINT_CONTENT = {
           "label": "PLAYSTATION / PC",
           "name": "Thrustmaster T598 PlayStation / PC",
           "why": "Use the PlayStation-specific Amazon UK search for the PS5/PS4/PC version.",
-          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+PlayStation+PC&tag=aidan0701-20",
+          "url": "https://amzn.to/4zHHdyC",
           "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
           "fallbackImage": "assets/images/ace-setup-fallback.jpg"
         }
