@@ -313,3 +313,50 @@ linear-gradient(180deg,#0b0f16,#07090d)}
   object-fit:cover;
   object-position:center center;
 }
+/* Mobile article overflow fix */
+@media (max-width: 900px) {
+  .article-layout {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+
+  .article-layout > *,
+  .article-content {
+    min-width: 0 !important;
+    max-width: 100% !important;
+  }
+
+  .article-content,
+  .article-content p,
+  .article-content li,
+  .article-content h2,
+  .article-content h3,
+  .article-content a {
+    overflow-wrap: anywhere;
+  }
+
+  .product-box,
+  .recommendation-card,
+  .decision-card,
+  .reader-note,
+  .callout,
+  .spec-table-wrap {
+    min-width: 0 !important;
+    max-width: 100% !important;
+  }
+
+  .spec-table-wrap {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+@media (max-width: 620px) {
+  .article-layout.wrap,
+  .article-hero .wrap {
+    width: calc(100% - 28px) !important;
+  }
+
+  .buy-row {
+    flex-wrap: wrap;
+  }
+}
