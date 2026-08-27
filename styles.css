@@ -60,84 +60,256 @@ linear-gradient(180deg,#0b0f16,#07090d)}
  .hero{padding:58px 0}.hero-visual{display:none}.feature-grid,.card-grid{grid-template-columns:1fr}.hero-cta{flex-direction:column}.section{padding:58px 0}.split-panel{padding:28px}.rig-diagram{display:none}.product-box{grid-template-columns:1fr}
 }
 
+/* Image-ready content system */
+.card-art{position:relative;overflow:hidden}
+.card-image{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.card-art:after{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(6,8,12,.72),rgba(6,8,12,.03) 60%)}
+.card-pill{position:relative;z-index:2}
+.article-hero-image{display:block;width:100%;max-height:480px;object-fit:cover;border:1px solid var(--line);border-radius:18px;margin-top:28px;background:var(--panel)}
+.product-thumb{overflow:hidden}
+.product-thumb img{width:100%;height:100%;object-fit:cover;display:block}
 
-/* v3.1 mobile article overflow fix */
-body { overflow-x: hidden; }
+.product-thumb img{background:#fff;object-fit:contain;padding:10px}
+.reader-note{margin:32px 0;padding:18px 20px;border:1px solid var(--line);border-radius:14px;background:rgba(255,255,255,.025)}
+.reader-note strong{display:block;margin-bottom:6px}
+.reader-note p{margin:0;color:var(--muted)}
 
-.article-content {
-  min-width: 0;
-  max-width: 100%;
-  overflow-wrap: anywhere;
+/* Product/image presentation */
+.card-art{background:#0b1016}
+.card-image{width:100%;height:100%;object-fit:cover}
+.article-hero-image{width:100%;object-fit:contain;background:#fff;padding:18px}
+
+/* Distinct product photography */
+.card-image-pair{position:absolute;inset:0;display:grid;grid-template-columns:1fr 1fr;background:#fff}
+.card-image-pair img{width:100%;height:100%;object-fit:contain;padding:8px;min-width:0}
+.article-hero-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:28px}
+.article-hero-gallery[data-count="1"]{grid-template-columns:1fr}
+.article-hero-gallery[data-count="3"]{grid-template-columns:repeat(3,minmax(0,1fr))}
+.article-product-shot{margin:0;min-height:260px;background:#fff;border:1px solid var(--line);border-radius:18px;overflow:hidden;display:flex;align-items:center;justify-content:center}
+.article-product-shot img{width:100%;height:100%;max-height:430px;object-fit:contain;padding:16px}
+@media(max-width:760px){
+  .article-hero-gallery,.article-hero-gallery[data-count="3"]{grid-template-columns:1fr}
+  .article-product-shot{min-height:210px}
 }
 
-.product-box {
-  grid-template-columns: 180px minmax(0, 1fr);
-  max-width: 100%;
-  overflow: hidden;
+.related-section{margin-top:42px}
+.related-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.related-card{display:block;border:1px solid var(--line);border-radius:16px;overflow:hidden;background:var(--panel);text-decoration:none;color:inherit}
+.related-thumb{height:150px;background:#fff}
+.related-thumb img{width:100%;height:100%;object-fit:contain;padding:10px}
+.related-card>div:last-child{padding:14px}
+.related-card h3{font-size:1rem;line-height:1.25;margin:10px 0 12px}
+@media(max-width:820px){.related-grid{grid-template-columns:1fr}}
+
+.sources-section,.methodology-section{margin-top:42px;padding-top:8px}
+.source-intro{color:var(--muted);max-width:760px}
+.sources-list{margin:14px 0 0;padding-left:20px}
+.sources-list li{margin:9px 0}
+.sources-list a{text-decoration:underline;text-underline-offset:3px}
+.methodology-section{padding:22px;border:1px solid var(--line);border-radius:16px;background:rgba(255,255,255,.025)}
+.methodology-section h2{margin-top:6px}
+.methodology-section p{margin-bottom:0;color:var(--muted)}
+
+
+/* Custom hero art */
+.hero.hero--image{
+  background:
+    linear-gradient(90deg, rgba(5,8,14,.88) 0%, rgba(5,8,14,.78) 34%, rgba(5,8,14,.48) 58%, rgba(5,8,14,.60) 100%),
+    radial-gradient(circle at 62% 50%, rgba(0,240,255,.10), transparent 24%),
+    var(--hero-bg) center/cover no-repeat;
+  min-height:560px;
+}
+.hero.hero--image .hero-visual{display:none}
+.hero.hero--image .hero-copy{max-width:660px}
+.hero.hero--image .hero-copy p{max-width:58ch}
+.hero.hero--image .hero-grid{grid-template-columns:1fr}
+
+/* Image-backed section headers */
+.section--image{
+  position:relative;
+  overflow:hidden;
+  border:1px solid var(--line);
+  border-radius:24px;
+  margin-top:28px;
+  padding:28px 24px 18px;
+  background:
+    linear-gradient(90deg, rgba(5,8,14,.92) 0%, rgba(5,8,14,.80) 38%, rgba(5,8,14,.58) 62%, rgba(5,8,14,.72) 100%),
+    var(--section-bg) center/cover no-repeat;
+}
+.section--image .section-title,
+.section--image .card-grid{position:relative;z-index:2}
+.section--image .section-title{margin-bottom:18px}
+.section--image .section-title p{max-width:56ch}
+.section--image .content-card{background:rgba(9,14,21,.78);backdrop-filter:blur(4px)}
+
+/* Sim niche block with custom image */
+.section--sim-image{
+  position:relative;
+  overflow:hidden;
+  background:
+    linear-gradient(90deg, rgba(5,8,14,.92) 0%, rgba(5,8,14,.80) 36%, rgba(5,8,14,.55) 58%, rgba(5,8,14,.66) 100%),
+    var(--sim-bg) center/cover no-repeat;
+}
+.section--sim-image .wrap.section{position:relative;z-index:2}
+.section--sim-image .split-panel{
+  border:none;
+  background:transparent;
+  padding:12px 0;
+}
+.section--sim-image .split-panel > div:first-child{
+  max-width:54ch;
+}
+.section--sim-image .rig-diagram{display:none}
+.section--sim-image .btn.primary{
+  box-shadow:0 10px 30px rgba(0,0,0,.24);
 }
 
-@media (max-width: 900px) {
-  .article-layout,
-  .article-layout.wrap {
-    display: block;
-    width: min(calc(100% - 32px), 760px);
-    max-width: 760px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 38px 0 70px;
+@media (max-width:860px){
+  .hero.hero--image{
+    min-height:500px;
+    background:
+      linear-gradient(180deg, rgba(5,8,14,.86) 0%, rgba(5,8,14,.74) 46%, rgba(5,8,14,.66) 100%),
+      var(--hero-bg) center/cover no-repeat;
   }
-
-  .article-content {
-    width: 100%;
-    min-width: 0;
-    max-width: 100%;
-    overflow: hidden;
+  .section--image{
+    padding:22px 16px 16px;
+    border-radius:20px;
   }
-
-  .article-content p,
-  .article-content li,
-  .article-content h1,
-  .article-content h2,
-  .article-content h3,
-  .article-content a {
-    overflow-wrap: anywhere;
-    word-break: normal;
-  }
-
-  .product-box {
-    grid-template-columns: 130px minmax(0, 1fr);
-    width: 100%;
-  }
-
-  .guide-table {
-    display: block;
-    width: 100%;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-  }
-
-  .toc {
-    position: static;
-    margin-bottom: 28px;
+  .section--sim-image{
+    background:
+      linear-gradient(180deg, rgba(5,8,14,.88) 0%, rgba(5,8,14,.76) 46%, rgba(5,8,14,.68) 100%),
+      var(--sim-bg) center/cover no-repeat;
   }
 }
 
-@media (max-width: 620px) {
-  .article-layout,
-  .article-layout.wrap {
-    width: calc(100% - 28px);
-  }
+/* Checkpoint Loadout brand + finish pass */
+.logo-word{white-space:nowrap}.logo-word b{color:var(--green)}.logo-mark{font-size:11px;letter-spacing:-.03em}
+.footer-tagline{margin:8px 0 0;max-width:360px}.text-link{color:var(--green);font-weight:800}.text-link:hover{text-decoration:underline;text-underline-offset:3px}
+.brand-intro{padding-bottom:18px}.brand-intro-grid{display:grid;grid-template-columns:.8fr 1.2fr;gap:36px;align-items:start;padding:34px;border:1px solid var(--line);border-radius:20px;background:linear-gradient(120deg,rgba(111,255,195,.05),rgba(110,215,255,.025))}
+.brand-intro-grid h2{font-size:34px;line-height:1.08;margin:8px 0 0}.brand-intro-grid p{color:var(--muted);margin:0}
+.legal-page{max-width:920px;padding:78px 0 96px}.legal-page h1{font-size:clamp(44px,6vw,70px);line-height:1;letter-spacing:-.045em;margin:12px 0 24px}.legal-page h2{font-size:28px;line-height:1.15;margin-top:44px}.legal-page .deck{max-width:780px}
+.legal-card{border:1px solid var(--line);border-radius:16px;background:var(--panel);padding:22px;margin:18px 0}.legal-card h2{margin:0 0 10px;font-size:22px}
+.info-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:34px 0}.info-grid .legal-card{margin:0}
+.method-list{display:grid;gap:14px;margin-top:36px}.method-list section{display:grid;grid-template-columns:58px 1fr;gap:18px;padding:22px;border:1px solid var(--line);border-radius:16px;background:var(--panel)}.method-list section>span{font-size:13px;font-weight:900;color:var(--green);letter-spacing:.1em}.method-list h2{margin:0 0 8px;font-size:23px}.method-list p{margin:0;color:#c0c8d2}
+.error-page{min-height:62vh;display:flex;flex-direction:column;justify-content:center;padding:70px 0}.error-page h1{font-size:clamp(54px,9vw,96px);letter-spacing:-.06em;line-height:.9;margin:14px 0 22px}.error-page p{color:var(--muted);max-width:580px;font-size:18px}
+@media(max-width:900px){.brand-intro-grid{grid-template-columns:1fr}.info-grid{grid-template-columns:1fr}}
+@media(max-width:620px){.logo-word{font-size:12px}.legal-page{padding:54px 0 72px}.method-list section{grid-template-columns:1fr;gap:8px}}
 
-  .article-hero .wrap {
-    width: calc(100% - 28px);
-  }
+/* Contact page */
+.contact-card{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:28px;
+  margin:34px 0;
+  padding:28px;
+  border:1px solid var(--line);
+  border-radius:20px;
+  background:linear-gradient(120deg,rgba(111,255,195,.08),rgba(110,215,255,.035));
+}
+.contact-card h2{margin:5px 0 10px;font-size:clamp(25px,4vw,38px)}
+.contact-card p{margin:0;color:var(--muted);max-width:620px}
+.contact-label{font-size:11px;font-weight:900;letter-spacing:.18em;color:var(--green)}
+.contact-note{margin-top:28px;padding:18px 20px;border-left:3px solid var(--green);background:rgba(255,255,255,.025);border-radius:0 12px 12px 0}
+.contact-note p{margin:6px 0 0;color:var(--muted)}
+.contact-info-grid .legal-card h2{font-size:21px}
+@media(max-width:760px){.contact-card{align-items:flex-start;flex-direction:column}}
 
-  .product-box {
-    grid-template-columns: 1fr;
-  }
 
-  .buy-row {
-    align-items: flex-start;
-    flex-direction: column;
+/* Batch 10: richer editorial / buying-guide system */
+.decision-section{margin:24px 0 34px}.decision-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}.decision-card{border:1px solid var(--line);border-radius:16px;padding:20px;background:var(--panel)}.decision-card.good{box-shadow:inset 3px 0 0 rgba(111,255,195,.8)}.decision-card.caution{box-shadow:inset 3px 0 0 rgba(255,184,105,.75)}.decision-label{font-size:11px;font-weight:900;letter-spacing:.16em}.decision-card.good .decision-label{color:var(--green)}.decision-card.caution .decision-label{color:#ffbd7a}.decision-card ul{margin:12px 0 0;padding-left:20px}.decision-card li{margin:8px 0;color:#c9d2dc}
+.specs-section{margin:36px 0}.spec-table-wrap{overflow:auto;border:1px solid var(--line);border-radius:16px;background:var(--panel)}.spec-table{border-collapse:collapse;width:100%;min-width:520px}.spec-table th,.spec-table td{padding:14px 16px;text-align:left;border-bottom:1px solid var(--line)}.spec-table tr:last-child th,.spec-table tr:last-child td{border-bottom:0}.spec-table th{width:34%;color:#96a5b4;font-size:13px;letter-spacing:.02em}.spec-table td{font-weight:700;color:#edf5fb}
+.recommendation-grid{display:grid;gap:14px}.recommendation-card{display:grid;grid-template-columns:190px 1fr;gap:20px;align-items:center;padding:18px;border:1px solid var(--line);border-radius:18px;background:var(--panel)}.recommendation-thumb{height:140px;border-radius:12px;overflow:hidden;background:#080d12;display:flex;align-items:center;justify-content:center}.recommendation-thumb img{width:100%;height:100%;object-fit:cover}.recommendation-copy h3{font-size:24px;margin:7px 0 8px}.recommendation-copy p{margin:0 0 14px;color:var(--muted)}.amazon-price-note{margin:14px 0 0;color:#8999a9;font-size:13px;border-left:2px solid #53687b;padding-left:12px}.tech-section{position:relative}.tech-section:before{content:"";position:absolute;inset:0 auto auto 0;width:100%;height:1px;background:linear-gradient(90deg,transparent,rgba(111,255,195,.25),transparent)}
+.article-meta #researchStatus{color:var(--green);font-weight:800}.article-content h2{scroll-margin-top:90px}.article-content p a{color:var(--green);font-weight:700;text-decoration:underline;text-decoration-color:rgba(111,255,195,.35);text-underline-offset:3px}
+@media(max-width:760px){.decision-grid{grid-template-columns:1fr}.recommendation-card{grid-template-columns:1fr}.recommendation-thumb{height:180px}.spec-table{min-width:460px}}
+
+/* Respect semantic hidden state even when component classes set display */
+[hidden]{display:none!important}
+
+/* Batch 11: product photography should read as product photography, not cropped wallpaper */
+.recommendation-thumb{background:#fff}
+.recommendation-thumb img{object-fit:contain;padding:10px}
+.tech-section .card-image{object-fit:contain;background:#fff;padding:10px}
+
+
+
+
+
+/* Batch 11.3 — monitor card hard fix based on live screenshot */
+#tech .monitor-card-hardfix-card .monitor-card-hardfix{
+  position:relative!important;
+  display:block!important;
+  width:100%!important;
+  max-width:none!important;
+  min-width:100%!important;
+  height:190px!important;
+  padding:0!important;
+  margin:0!important;
+  overflow:hidden!important;
+  background:#0b0f15!important;
+  box-sizing:border-box!important;
+}
+
+#tech .monitor-card-hardfix-card .monitor-card-hardfix-image{
+  position:absolute!important;
+  top:0!important;
+  right:0!important;
+  bottom:0!important;
+  left:0!important;
+  display:block!important;
+  width:100%!important;
+  max-width:none!important;
+  min-width:100%!important;
+  height:100%!important;
+  padding:0!important;
+  margin:0!important;
+  object-fit:cover!important;
+  object-position:center center!important;
+  transform:scale(1.18)!important;
+  transform-origin:center center!important;
+  background:#0b0f15!important;
+}
+
+#tech .monitor-card-hardfix-card .monitor-card-hardfix:after{
+  content:""!important;
+  position:absolute!important;
+  inset:0!important;
+  background:linear-gradient(to top,rgba(6,8,12,.78),rgba(6,8,12,.02) 68%)!important;
+  pointer-events:none!important;
+}
+
+#tech .monitor-card-hardfix-card .monitor-card-hardfix .card-pill{
+  position:absolute!important;
+  left:14px!important;
+  bottom:12px!important;
+  z-index:3!important;
+  max-width:72%!important;
+}
+
+@media(max-width:620px){
+  #tech .monitor-card-hardfix-card .monitor-card-hardfix{
+    height:180px!important;
   }
+  #tech .monitor-card-hardfix-card .monitor-card-hardfix-image{
+    transform:scale(1.12)!important;
+  }
+}
+
+
+/* Batch 13 — useful FAQ component */
+.faq-section{margin-top:42px}
+.faq-list{display:grid;gap:12px;margin-top:18px}
+.faq-item{border:1px solid rgba(255,255,255,.1);border-radius:14px;background:rgba(10,14,20,.68);overflow:hidden}
+.faq-item summary{cursor:pointer;list-style:none;padding:18px 54px 18px 20px;font-weight:800;color:#f5f7fb;position:relative;line-height:1.35}
+.faq-item summary::-webkit-details-marker{display:none}
+.faq-item summary:after{content:'+';position:absolute;right:20px;top:50%;transform:translateY(-50%);font-size:24px;color:#6fffc3;font-weight:500}
+.faq-item[open] summary:after{content:'–'}
+.faq-answer{padding:0 20px 18px;color:#aeb8c5}
+.faq-answer p{margin:0;line-height:1.7}
+
+
+/* Batch 13.1 — real game key art cards */
+#guides .content-card .card-art.game .card-image{
+  object-fit:cover;
+  object-position:center center;
 }

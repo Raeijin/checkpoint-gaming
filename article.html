@@ -3,13 +3,18 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Checkpoint Article</title>
-<link rel="stylesheet" href="styles.css">
+<title>Checkpoint Loadout Article</title>
+<meta name="description" content="Gaming gear reviews, comparisons, buying guides and practical game guides from Checkpoint Loadout.">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="theme-color" content="#07090d">
+<link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="site.webmanifest">
+<link rel="stylesheet" href="styles.css?v=20260827-6">
 </head>
 <body>
 <header class="topbar">
   <div class="wrap nav">
-    <a class="logo" href="index.html"><span class="logo-mark">C</span><span>CHECKPOINT</span></a>
+    <a class="logo" href="index.html"><span class="logo-mark">CL</span><span class="logo-word">CHECKPOINT <b>LOADOUT</b></span></a>
     <nav><a href="index.html#reviews">Reviews</a><a href="index.html#buying">Buying Guides</a><a href="index.html#games">Game Guides</a></nav>
   </div>
 </header>
@@ -21,46 +26,88 @@
       <span id="articleTag" class="pill">GUIDE</span>
       <h1 id="articleTitle">Article title</h1>
       <p id="articleIntro" class="deck">Article introduction.</p>
-      <div class="article-meta"><span id="articleUpdated">Updated 2026</span><span>•</span><span id="articleRead">10 min read</span></div>
+      <div class="article-meta"><span id="articleUpdated">Updated 2026</span><span>•</span><span id="articleRead">10 min read</span><span>•</span><span id="researchStatus">Research-backed</span></div><div id="articleHeroGallery" class="article-hero-gallery" hidden></div>
     </div>
   </section>
   <div class="wrap article-layout">
     <aside class="toc">
       <strong>ON THIS PAGE</strong>
       <a href="#quick">Quick answer</a>
+      <a href="#decision">Who it suits</a>
+      <a href="#specsSection">Key specs</a>
       <a href="#main">Main guide</a>
+      <a href="#faqSection">FAQ</a>
       <a href="#pick">What to buy / use</a>
-      <a href="#faq">FAQ</a>
+      <a href="#related">Related articles</a><a href="#sourcesSection">Sources</a>
     </aside>
     <article class="article-content">
       <div id="quick" class="callout"><strong>Quick answer</strong><p id="quickText"></p></div>
+      <section id="decision" class="decision-section">
+        <div class="decision-grid">
+          <div class="decision-card good"><span class="decision-label" id="buyIfLabel">BUY IF</span><ul id="buyIfList"></ul></div>
+          <div class="decision-card caution"><span class="decision-label" id="skipIfLabel">SKIP IF</span><ul id="skipIfList"></ul></div>
+        </div>
+      </section>
+      <section id="specsSection" class="specs-section" hidden><span class="kicker">AT A GLANCE</span><h2>Key specs & facts</h2><div class="spec-table-wrap"><table class="spec-table"><tbody id="specTableBody"></tbody></table></div></section>
       <div id="main"></div>
-      <div class="ad-slot">AD / AFFILIATE PLACEMENT</div>
+
+      <section id="faqSection" class="faq-section" hidden>
+        <div class="related-heading"><span class="kicker">COMMON QUESTIONS</span><h2>Frequently asked questions</h2></div>
+        <div id="faqList" class="faq-list"></div>
+      </section>
       <section id="pick">
-        <h2>Recommended picks</h2>
-        <div class="product-box">
-          <div class="product-thumb">PRODUCT</div>
+        <div class="related-heading"><span class="kicker">BUYING OPTIONS</span><h2>Recommended picks</h2></div>
+        <div id="recommendationGrid" class="recommendation-grid"></div>
+        <div id="legacyProductBox" class="product-box" hidden>
+          <div class="product-thumb"><img id="productImage" src="" alt="" hidden><span id="productPlaceholder" hidden>PRODUCT</span></div>
           <div>
             <span class="pill">TOP PICK</span>
-            <h3 id="productName">Example product</h3>
-            <p id="productWhy">Why this is recommended.</p>
+            <h3 id="productName"></h3>
+            <p id="productWhy"></p>
             <div class="buy-row">
-              <a id="affiliateBtn" class="btn primary" href="#" rel="sponsored nofollow">Check price →</a>
-              <small>Affiliate link</small>
+              <a id="affiliateBtn" class="btn primary" href="" rel="sponsored nofollow">Check price →</a>
+              <small id="affiliateNote">Affiliate link — we may earn a commission</small>
             </div>
           </div>
         </div>
+        <p id="amazonPriceNote" class="amazon-price-note" hidden>Amazon prices and availability change frequently, so we show a current Amazon UK link rather than copying a price that may be stale.</p>
       </section>
-      <section id="faq">
-        <h2>FAQ</h2>
-        <details><summary>How should this page be updated?</summary><p>Keep specifications, pricing context, availability and recommendations current. Update the date only when you actually review the article.</p></details>
-        <details><summary>Can AI write the whole thing?</summary><p>AI can draft and structure it, but important claims should be checked against reliable sources and hands-on experience should never be invented.</p></details>
+
+      <section id="related" class="related-section">
+        <div class="related-heading"><span class="kicker">KEEP READING</span><h2>Related articles</h2></div>
+        <div id="relatedGrid" class="related-grid"></div>
+      </section>
+      <section id="sourcesSection" class="sources-section" hidden>
+        <span class="kicker">RESEARCH</span>
+        <h2>Sources</h2>
+        <p class="source-intro">Key specifications and factual claims are checked against manufacturer or primary-source material where available.</p>
+        <ul id="sourcesList" class="sources-list"></ul>
+      </section>
+      <section class="methodology-section">
+        <span class="kicker">HOW WE WRITE</span>
+        <h2>About this article</h2>
+        <p>This page is a researched guide or comparison, not a claim of hands-on testing unless we explicitly say otherwise. Product specifications and availability can change, so important buying details are checked against current source material when the article is updated. Affiliate availability does not determine the underlying recommendation.</p>
       </section>
     </article>
   </div>
 </main>
-<footer><div class="wrap footer"><div class="logo"><span class="logo-mark">C</span><span>CHECKPOINT</span></div><p>Independent gaming and tech content.</p></div></footer>
-<script src="content.js"></script>
-<script src="article.js"></script>
+<footer>
+  <div class="wrap footer">
+    <div>
+      <a class="logo" href="index.html"><span class="logo-mark">CL</span><span class="logo-word">CHECKPOINT <b>LOADOUT</b></span></a>
+      <p class="footer-tagline">Gear guides, sim racing and game guides without the filler.</p>
+    </div>
+    <div class="footer-links">
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a href="methodology.html">How we review</a>
+      <a href="affiliate-disclosure.html">Affiliate Disclosure</a>
+      <a href="privacy.html">Privacy</a>
+    </div>
+    <p>© 2026 Checkpoint Loadout</p>
+  </div>
+</footer>
+<script src="content.js?v=20260827-6"></script>
+<script src="article.js?v=20260827-6"></script>
 </body>
 </html>

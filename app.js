@@ -1,33 +1,69 @@
-
 const data = window.CHECKPOINT_CONTENT;
 const reviewGrid = document.getElementById('reviewGrid');
 const guideGrid = document.getElementById('guideGrid');
-
+const techGrid = document.getElementById('techGrid');
+const simGrid = document.getElementById('simGrid');
+const setupGrid = document.getElementById('setupGrid');
 function card(item, kind){
-  return `
-  <a class="content-card searchable" data-text="${(item.title+' '+item.category+' '+item.excerpt).toLowerCase()}" href="article.html?slug=${item.slug}&kind=${kind}">
-    <div class="card-art ${item.art}">
-      <span class="pill">${item.category}</span>
+  const monitorHardFix = item.slug === 'best-1440p-gaming-monitor-2026' || item.slug === 'oled-vs-mini-led-gaming-monitor-2026';
+  const cardArtClass = `card-art ${item.art}${monitorHardFix ? ' monitor-card-hardfix' : ''}`;
+
+  let imageMarkup = '';
+  if (item.cardImage) {
+    imageMarkup = `<img class="card-image" src="${item.cardImage}" alt="${item.title}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${item.image}'">`;
+  } else if (monitorHardFix) {
+    const src = item.productImage || item.heroImages?.[0] || item.image;
+    imageMarkup = src
+      ? `<img class="card-image monitor-card-hardfix-image" src="${src}" alt="${item.title}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${item.image}'">`
+      : '';
+  } else if (item.heroImages?.length > 1) {
+    imageMarkup = `<div class="card-image-pair">${item.heroImages.slice(0,2).map((src,i)=>`<img src="${src}" alt="${item.title} product ${i+1}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${item.image}'">`).join('')}</div>`;
+  } else if (item.productImage || item.image) {
+    imageMarkup = `<img class="card-image" src="${item.productImage || item.image}" alt="${item.title}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${item.image}'">`;
+  }
+
+  return `<a class="content-card searchable${monitorHardFix ? ' monitor-card-hardfix-card' : ''}" data-slug="${item.slug}" data-image-mode="${item.cardImageMode || ''}" data-text="${(item.title+' '+item.category+' '+item.excerpt).toLowerCase()}" href="article.html?slug=${item.slug}&kind=${kind}">
+    <div class="${cardArtClass}">
+      ${imageMarkup}
+      <span class="pill card-pill">${item.category}</span>
     </div>
-    <div class="card-body">
-      <div class="card-meta"><span>${kind === 'review' ? 'REVIEW' : 'GUIDE'}</span><span class="rating">${item.score}</span></div>
-      <h3>${item.title}</h3>
-      <p>${item.excerpt}</p>
-      <span class="more">Read ${kind} →</span>
-    </div>
+    <div class="card-body"><div class="card-meta"><span>${kind === 'review' ? 'REVIEW / COMPARISON' : kind === 'game' ? 'GAME GUIDE' : 'BUYING GUIDE'}</span><span class="rating">${item.score}</span></div><h3>${item.title}</h3><p>${item.excerpt}</p><span class="more">Read article →</span></div>
   </a>`;
 }
-reviewGrid.innerHTML = data.reviews.map(x=>card(x,'review')).join('');
-guideGrid.innerHTML = data.guides.map(x=>card(x,'guide')).join('');
+reviewGrid.innerHTML = data.reviews.slice().reverse().slice(0,12).map(x=>card(x,'review')).join('');
+guideGrid.innerHTML = (data.gameGuides || []).map(x=>card(x,'game')).join('');
 
-const searchBtn=document.getElementById('searchBtn');
-const panel=document.getElementById('searchPanel');
-const input=document.getElementById('searchInput');
+const simSlugs = [
+  "moza-r5-vs-thrustmaster-t598",
+  "thrustmaster-t598-xbox-guide",
+  "moza-r5-vs-logitech-g923",
+  "moza-r5-pro-vs-thrustmaster-t598",
+  "moza-r5-pro-vs-logitech-g923",
+  "best-direct-drive-wheel-under-500-uk"
+];
+if (simGrid) simGrid.innerHTML = simSlugs
+  .map(slug => [...data.reviews,...data.guides].find(x=>x.slug===slug))
+  .filter(Boolean)
+  .map(x=>card(x, x.category.includes('GUIDE') ? 'guide' : 'review'))
+  .join('');
+
+
+const setupSlugs = [
+  "assetto-corsa-evo-beginner-wheel-setup-2026",
+  "assetto-corsa-evo-moza-r5-settings-2026",
+  "assetto-corsa-evo-t598-settings-2026",
+  "iracing-wheel-ffb-setup-beginner-guide-2026",
+  "le-mans-ultimate-wheel-ffb-setup-2026",
+  "sim-racing-wheel-troubleshooting-faq-2026"
+];
+if (setupGrid) setupGrid.innerHTML = setupSlugs
+  .map(slug => [...data.reviews,...data.guides].find(x=>x.slug===slug))
+  .filter(Boolean)
+  .map(x=>card(x,'guide'))
+  .join('');
+
+const techSlugs = ["best-gaming-keyboard-2026", "keychron-k2-he-researched-review", "best-pc-controller-2026", "gamesir-g7-pro-researched-review", "best-1440p-gaming-monitor-2026", "oled-vs-mini-led-gaming-monitor-2026", "best-monitor-arm-for-gaming-desk-2026", "best-2tb-gaming-ssd-2026", "best-gaming-mouse-2026", "best-wireless-gaming-headset-2026"];
+if (techGrid) techGrid.innerHTML = techSlugs.map(slug => [...data.reviews,...data.guides].find(x=>x.slug===slug)).filter(Boolean).map(x=>card(x, x.category.includes('REVIEW') || x.category.includes('COMPARISON') ? 'review' : 'guide')).join('');
+const searchBtn=document.getElementById('searchBtn'), panel=document.getElementById('searchPanel'), input=document.getElementById('searchInput');
 searchBtn?.addEventListener('click',()=>{panel.classList.toggle('open'); if(panel.classList.contains('open')) input.focus();});
-input?.addEventListener('input',()=>{
- const q=input.value.trim().toLowerCase();
- document.querySelectorAll('.searchable,.article-card').forEach(el=>{
-   const text=(el.dataset.text || el.innerText).toLowerCase();
-   el.classList.toggle('hidden',q && !text.includes(q));
- });
-});
+input?.addEventListener('input',()=>{const q=input.value.trim().toLowerCase(); document.querySelectorAll('.searchable,.article-card').forEach(el=>{const text=(el.dataset.text||el.innerText).toLowerCase();el.classList.toggle('hidden',q&&!text.includes(q));});});
