@@ -3085,6 +3085,670 @@ window.CHECKPOINT_CONTENT = {
           "https://www.thrustmaster.com/en-gb/products/t598/"
         ]
       ]
+    },
+    {
+      "slug": "assetto-corsa-evo-beginner-wheel-setup-2026",
+      "image": "assets/images/ace-setup-fallback.jpg",
+      "productImage": "https://assettocorsa.gg/wp-content/uploads/ACE_EA09-2-1920x1080.jpg",
+      "heroImages": [
+        "https://assettocorsa.gg/wp-content/uploads/ACE_EA09-2-1920x1080.jpg"
+      ],
+      "category": "SIM RACING SETUP GUIDE",
+      "title": "Assetto Corsa EVO Wheel Setup Guide 2026: Calibration, FFB and the Best Starting Point",
+      "excerpt": "A clean starting setup for Assetto Corsa EVO 0.9: match steering lock, set sensible FFB gain, use damping as a reference and diagnose clipping before chasing detail sliders.",
+      "score": "17 MIN",
+      "art": "sim",
+      "lastChecked": "27 August 2026",
+      "researchStatus": "Updated for EVO 0.9",
+      "hideProduct": true,
+      "quick": "Start by matching Steering Lock to your wheel software, keep wheel-side FFB reasonably high, then tune strength in-game. KUNOS uses 40% Dynamic Damping and 20% Damper Gain as reference values. Get steering range and clipping right before adding road effects or changing every slider at once.",
+      "buyIf": [
+        "Calibrate steering and pedals before tuning force feedback",
+        "Match Steering Lock between the game and wheel software",
+        "Change one FFB setting at a time and test the same car/track combination"
+      ],
+      "skipIf": [
+        "Do not copy an 8 Nm wheel profile literally onto a 5.5 or 6 Nm wheelbase",
+        "Do not use Road Effects to hide a clipping or steering-range problem",
+        "Do not tune around one violent kerb while making normal cornering worse"
+      ],
+      "specs": [
+        [
+          "Current build",
+          "Early Access 0.9 — released 26 Aug 2026"
+        ],
+        [
+          "Steering Lock",
+          "Match the value in your wheel app"
+        ],
+        [
+          "Wheel-side FFB",
+          "KUNOS reference: high, around 80–100%"
+        ],
+        [
+          "Dynamic Damping",
+          "40% reference"
+        ],
+        [
+          "Damper Gain",
+          "20% reference"
+        ],
+        [
+          "0.9 changes",
+          "Broad force-feedback and input reliability pass"
+        ]
+      ],
+      "body": "<h2>Start with calibration, not “best settings” screenshots</h2><p>Assetto Corsa EVO can only give good feedback if steering and pedals are mapped correctly. Confirm full left/right steering, throttle and brake travel first, then set the in-game Steering Lock to the same value used by your wheel software.</p>\n<h2>Use the KUNOS FFB guidance as a baseline</h2><p>The official wheel guide recommends keeping wheel-side force feedback high — roughly 80–100% — and adjusting final strength in the game. It uses 40% Dynamic Damping and 20% Damper Gain as reference values. These are starting points, not laws.</p>\n<h2>FFB Gain: strong enough to read, low enough not to clip</h2><p>If Gain is too high, strong corners flatten into the same maximum force and you lose detail. If it is too low, the wheel feels lifeless. Pick a representative car and circuit, drive several clean laps and lower gain if sustained high-load corners feel uniformly saturated.</p>\n<h2>Dynamic Damping</h2><p>Dynamic Damping affects how quickly and heavily the wheel reacts as the car loads and unloads. KUNOS suggests 40% as a useful reference. Increase only if the wheel needs more control; reduce it if the steering feels sluggish or artificially heavy.</p>\n<h2>Damper Gain</h2><p>Damper Gain adds static damping. The official reference is 20%. On direct drive, excessive damping can make a detailed wheel feel dull, so resist the urge to use it as a cure for every oscillation.</p>\n<h2>Road Effects should be seasoning</h2><p>Road Effects can add texture, but it should not be the main source of steering information. Start low. If you can feel every pebble but cannot judge front-tire loading, the balance is backwards.</p>\n<h2>Update 0.9 matters for wheel users</h2><p>EVO 0.9 includes a broad force-feedback and input reliability pass alongside new competitive Special Events, mandatory pitstops and new cars. If an old preset suddenly feels different, retest it rather than assuming a hardware fault.</p>\n<h2>A repeatable tuning loop</h2><p>Use the same car, tyres and track. First steering range, then Gain, then damping, then optional texture. Save a profile once the basics feel predictable. This makes future changes easy to diagnose instead of turning the settings screen into roulette.</p>",
+      "faq": [
+        [
+          "What Steering Lock should I use in Assetto Corsa EVO?",
+          "Use the same steering-lock value in the game and in your wheel software. The exact number depends on the hardware and car, so matching the two is more important than copying a random universal value."
+        ],
+        [
+          "What Dynamic Damping should I start with?",
+          "KUNOS uses 40% as a reference value in its official wheel guide. Adjust from there based on wheel strength and how quickly you want the steering to react."
+        ],
+        [
+          "What Damper Gain should I start with?",
+          "The official guide uses 20% as a reference. Direct-drive users may prefer less if the steering feels muted or overly heavy."
+        ],
+        [
+          "How do I know if FFB is clipping?",
+          "If several different high-load corners all feel like the same flat maximum force and fine detail disappears while the wheel is loaded, reduce in-game Gain and retest."
+        ],
+        [
+          "Should I use lots of Road Effects?",
+          "Usually no. Start low and add only enough texture to be useful. Road Effects should not replace tyre-load information from the underlying force feedback."
+        ],
+        [
+          "Did EVO 0.9 change force feedback?",
+          "KUNOS says the 0.9 update includes a broad FFB and input reliability pass, so older profiles are worth retesting after the update."
+        ]
+      ],
+      "relatedSlugs": [
+        "assetto-corsa-evo-moza-r5-settings-2026",
+        "assetto-corsa-evo-t598-settings-2026",
+        "sim-racing-wheel-troubleshooting-faq-2026"
+      ],
+      "sources": [
+        [
+          "KUNOS — Assetto Corsa EVO Early Access 0.9",
+          "https://assettocorsa.gg/assetto-corsa-evo-early-access-09-out-now/"
+        ],
+        [
+          "KUNOS — Assetto Corsa EVO Wheel Setup Guide",
+          "https://assettocorsa.gg/wp-content/uploads/acevo_wheel-setup-guide.pdf"
+        ],
+        [
+          "Assetto Corsa EVO official page",
+          "https://assettocorsa.gg/assetto-corsa-evo/"
+        ]
+      ]
+    },
+    {
+      "slug": "assetto-corsa-evo-moza-r5-settings-2026",
+      "image": "assets/images/ace-setup-fallback.jpg",
+      "productImage": "https://assettocorsa.gg/wp-content/uploads/ACE_EA09-8-1920x1080.jpg",
+      "heroImages": [
+        "https://assettocorsa.gg/wp-content/uploads/ACE_EA09-8-1920x1080.jpg"
+      ],
+      "category": "SIM RACING SETUP GUIDE",
+      "title": "Best Assetto Corsa EVO Settings for MOZA R5 & R5 Pro: 2026 Starting Setup",
+      "excerpt": "A sensible R5/R5 Pro baseline for EVO 0.9 that adapts KUNOS’s generic MOZA guidance to the actual 5.5 Nm and 6 Nm wheelbases instead of blindly copying an 8 Nm profile.",
+      "score": "18 MIN",
+      "art": "sim",
+      "lastChecked": "27 August 2026",
+      "researchStatus": "Updated for EVO 0.9",
+      "quick": "For R5/R5 Pro, keep wheel-side output high, match Steering Lock, then start around 70–80% in-game FFB Gain with Dynamic Damping around 40% and Damper Gain around 20%. KUNOS’s generic MOZA example uses an 8 Nm value; do not enter 8 Nm as if an R5 can produce it — the R5 is 5.5 Nm and R5 Pro is 6 Nm.",
+      "buyIf": [
+        "Use the actual wheelbase capability: 5.5 Nm R5 or 6 Nm R5 Pro",
+        "Start with a high wheel-side output and tune final strength in EVO",
+        "Retest after EVO 0.9 because KUNOS changed FFB/input behaviour"
+      ],
+      "skipIf": [
+        "Do not copy the generic 8 Nm MOZA example literally",
+        "Do not add heavy damping just to stop a setup that is clipping",
+        "Do not change Pit House and in-game settings simultaneously while diagnosing feel"
+      ],
+      "specs": [
+        [
+          "MOZA R5 torque",
+          "5.5 Nm"
+        ],
+        [
+          "MOZA R5 Pro torque",
+          "6 Nm"
+        ],
+        [
+          "Wheel-side output",
+          "Start high / 100% is a practical baseline"
+        ],
+        [
+          "EVO FFB Gain",
+          "Start around 70–80%, tune by clipping/comfort"
+        ],
+        [
+          "Dynamic Damping",
+          "40% reference"
+        ],
+        [
+          "Damper Gain",
+          "20% reference"
+        ],
+        [
+          "Road Effects",
+          "Start 0–10%"
+        ]
+      ],
+      "body": "<h2>Why the generic MOZA profile needs adapting</h2><p>KUNOS’s wheel guide includes a generic MOZA example that references 8 Nm. That is useful for understanding the tuning philosophy, but it is not the physical output of an R5 or R5 Pro. The R5 is rated at 5.5 Nm and the R5 Pro at 6 Nm.</p>\n<h2>Checkpoint Loadout starting point</h2><p>Use high wheel-side output in MOZA Pit House so EVO has the wheelbase’s full usable range, then start around 70–80% FFB Gain in the game. Keep Dynamic Damping near the official 40% reference, Damper Gain near 20%, and Road Effects low. This is a starting profile, not a claim that every car needs the same final Gain.</p>\n<h2>Steering lock must agree</h2><p>Set the wheel rotation/lock in Pit House and use the same value in EVO. A mismatch can make the car feel nervous, lazy or simply wrong even when the force feedback itself is fine.</p>\n<h2>R5: prioritise detail over “heavy”</h2><p>With 5.5 Nm available, running the game too aggressively can spend most of that headroom on sustained cornering force. Lower Gain until you can distinguish load building through a corner rather than feeling one flat maximum.</p>\n<h2>R5 Pro: use the extra headroom, do not chase violence</h2><p>The 6 Nm R5 Pro gives a little more room for peaks, but the same principle applies. The goal is readable tyre loading and transient detail, not making every kerb a strength test.</p>\n<h2>Oscillation on straights</h2><p>First make sure steering range is correct and that you are not massively overdriving Gain. If the wheel still wants to oscillate with your hands lightly on it, add damping in small steps rather than jumping to a heavy global value.</p>\n<h2>0.9 retest</h2><p>Because EVO 0.9 includes a force-feedback and input reliability pass, retest any old R5 preset. A profile built around earlier behaviour may not be the best reference after the update.</p>",
+      "recommendations": [
+        {
+          "label": "5.5 NM BUNDLE",
+          "name": "MOZA R5 Racing Bundle",
+          "why": "The standard R5 covered by these settings.",
+          "url": "https://uk.mozaracing.com/products/r5-racing-bundle?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000",
+          "fallbackImage": "assets/images/ace-setup-fallback.jpg"
+        },
+        {
+          "label": "6 NM BUNDLE",
+          "name": "MOZA R5 Pro Racing Simulator",
+          "why": "The newer 6 Nm R5 Pro covered by the same tuning approach.",
+          "url": "https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000",
+          "fallbackImage": "assets/images/ace-setup-fallback.jpg"
+        }
+      ],
+      "faq": [
+        [
+          "What FFB Gain should I use for a MOZA R5 in Assetto Corsa EVO?",
+          "Start around 70–80% in-game with high wheel-side output, then reduce it if sustained corners clip or feel uniformly heavy. Treat the number as a baseline, not a universal final setting."
+        ],
+        [
+          "Should I set the R5 to 8 Nm because the KUNOS guide says 8 Nm?",
+          "No. The generic MOZA example uses an 8 Nm reference. The standard R5 is a 5.5 Nm wheelbase and the R5 Pro is 6 Nm."
+        ],
+        [
+          "What should I use for Dynamic Damping?",
+          "40% is KUNOS’s reference value. Adjust in small steps after Gain and steering lock are correct."
+        ],
+        [
+          "Why does my R5 oscillate on straights?",
+          "Check steering lock and excessive Gain first. If those are correct, add damping gradually rather than masking the issue with a large jump."
+        ],
+        [
+          "How much Road Effects should I use?",
+          "Start at 0–10%. Add texture only if you want it; avoid using Road Effects as a substitute for real steering-load detail."
+        ],
+        [
+          "Do these settings also work on the R5 Pro?",
+          "Yes as a tuning method, but the R5 Pro has 6 Nm rather than 5.5 Nm. You can use the same baseline and then tune Gain to your preferred force level."
+        ]
+      ],
+      "relatedSlugs": [
+        "assetto-corsa-evo-beginner-wheel-setup-2026",
+        "moza-r5-vs-thrustmaster-t598",
+        "best-upgrades-for-moza-r5-r5-pro"
+      ],
+      "sources": [
+        [
+          "KUNOS — Assetto Corsa EVO Wheel Setup Guide",
+          "https://assettocorsa.gg/wp-content/uploads/acevo_wheel-setup-guide.pdf"
+        ],
+        [
+          "KUNOS — EVO 0.9 update notes",
+          "https://assettocorsa.gg/assetto-corsa-evo-early-access-09-out-now/"
+        ],
+        [
+          "MOZA — R5 official UK page",
+          "https://uk.mozaracing.com/products/r5-racing-bundle"
+        ],
+        [
+          "MOZA — R5 Pro official UK page",
+          "https://uk.mozaracing.com/products/r5-pro-bundle"
+        ]
+      ]
+    },
+    {
+      "slug": "assetto-corsa-evo-t598-settings-2026",
+      "image": "assets/images/ace-setup-fallback.jpg",
+      "productImage": "https://assettocorsa.gg/wp-content/uploads/Audi-R8-LMS-GT2-1-1920x1080.jpg",
+      "heroImages": [
+        "https://assettocorsa.gg/wp-content/uploads/Audi-R8-LMS-GT2-1-1920x1080.jpg"
+      ],
+      "category": "SIM RACING SETUP GUIDE",
+      "title": "Thrustmaster T598 Assetto Corsa EVO Settings: FFB Setup for PC in 2026",
+      "excerpt": "Start with Thrustmaster’s official EVO profile, match steering range, then tune KUNOS’s in-game gain and damping references instead of stacking random community presets.",
+      "score": "16 MIN",
+      "art": "sim",
+      "lastChecked": "27 August 2026",
+      "researchStatus": "Updated for EVO 0.9",
+      "quick": "On PC, start from Thrustmaster’s current T598 Assetto Corsa EVO preset/profile, then verify Steering Lock matches the wheel configuration. Use KUNOS’s 40% Dynamic Damping and 20% Damper Gain as reference values and tune FFB Gain to avoid clipping. Xbox/PlayStation T598 hardware versions are separate products; EVO wheel setup is a PC use case.",
+      "buyIf": [
+        "Install/update Thrustmaster software and use the official T598 EVO profile as your baseline",
+        "Match steering range before judging force feedback",
+        "Tune in-game strength after the official profile is loaded"
+      ],
+      "skipIf": [
+        "Do not mix several community profiles before testing the manufacturer baseline",
+        "Do not confuse the Xbox/PC and PlayStation/PC T598 product versions when buying",
+        "Do not diagnose a detection problem by changing every FFB slider"
+      ],
+      "specs": [
+        [
+          "T598 force feedback",
+          "5 Nm constant Direct Axial Drive"
+        ],
+        [
+          "Assetto Corsa EVO platform for wheel setup",
+          "PC"
+        ],
+        [
+          "Official T598 EVO profile",
+          "Available from Thrustmaster support"
+        ],
+        [
+          "Dynamic Damping",
+          "40% KUNOS reference"
+        ],
+        [
+          "Damper Gain",
+          "20% KUNOS reference"
+        ],
+        [
+          "First troubleshooting step",
+          "Firmware/profile + correct device detection"
+        ]
+      ],
+      "body": "<h2>Use the official T598 profile first</h2><p>Thrustmaster publishes an Assetto Corsa EVO force-feedback preset for the T598. Start there. It gives you a known manufacturer baseline and makes troubleshooting much easier than combining three unrelated community profiles.</p>\n<h2>Then apply the KUNOS in-game tuning logic</h2><p>Match Steering Lock to the wheel configuration, keep wheel-side strength sensible, and use in-game FFB Gain to set final force. KUNOS uses 40% Dynamic Damping and 20% Damper Gain as references in its general wheel guide.</p>\n<h2>Do not judge the T598 only by 5 Nm</h2><p>Thrustmaster describes the base as 5 Nm constant torque with short overshoot capability. In practice, the useful question is whether the wheel communicates load changes without saturating. If everything becomes one heavy force in long corners, reduce in-game Gain.</p>\n<h2>Firmware before fine tuning</h2><p>If EVO does not detect the base correctly or the force feedback behaves strangely after an update, check current Thrustmaster firmware and the support profile before rebuilding your entire setup.</p>\n<h2>Xbox/PC and PlayStation/PC versions</h2><p>The T598 is sold in separate licensed hardware versions. If you are buying one to use on PC with EVO, either version includes PC support, but choose the console licence you actually need for your other games.</p>\n<h2>Road Effects and damping</h2><p>Keep added texture modest until the main steering force feels correct. If the wheel is oscillating, first check Gain and steering range. Add damping in small increments rather than immediately making the wheel slow and heavy.</p>",
+      "recommendations": [
+        {
+          "label": "XBOX / PC",
+          "name": "Thrustmaster T598 Xbox / PC",
+          "why": "Use the Xbox-specific Amazon UK search and verify the product title before checkout.",
+          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+Xbox+PC&tag=aidan0701-20",
+          "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
+          "fallbackImage": "assets/images/ace-setup-fallback.jpg"
+        },
+        {
+          "label": "PLAYSTATION / PC",
+          "name": "Thrustmaster T598 PlayStation / PC",
+          "why": "Use the PlayStation-specific Amazon UK search for the PS5/PS4/PC version.",
+          "url": "https://www.amazon.co.uk/s?k=Thrustmaster+T598+PlayStation+PC&tag=aidan0701-20",
+          "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
+          "fallbackImage": "assets/images/ace-setup-fallback.jpg"
+        }
+      ],
+      "faq": [
+        [
+          "Is there an official T598 preset for Assetto Corsa EVO?",
+          "Yes. Thrustmaster support publishes a T598 force-feedback preset/profile for Assetto Corsa EVO on PC. Use that as the first baseline."
+        ],
+        [
+          "What Dynamic Damping should I try?",
+          "KUNOS uses 40% as a general reference value in the official EVO wheel setup guide."
+        ],
+        [
+          "What Damper Gain should I try?",
+          "20% is KUNOS’s reference. Reduce it if a direct-drive wheel feels muted or add carefully if the steering needs more control."
+        ],
+        [
+          "Why is my T598 not detected correctly?",
+          "Check USB connection, firmware, Thrustmaster software/profile and EVO control mapping before changing force-feedback tuning."
+        ],
+        [
+          "Does the Xbox T598 work on PC?",
+          "Yes, the Xbox/PC version supports Windows PC. The PlayStation/PC version also supports PC; console licensing is the important difference between the two products."
+        ],
+        [
+          "Should I use maximum FFB Gain?",
+          "Not automatically. Increase only until the wheel gives useful weight without clipping sustained forces. The strongest setting is not necessarily the most informative one."
+        ]
+      ],
+      "relatedSlugs": [
+        "assetto-corsa-evo-beginner-wheel-setup-2026",
+        "moza-r5-vs-thrustmaster-t598",
+        "thrustmaster-t598-xbox-guide"
+      ],
+      "sources": [
+        [
+          "Thrustmaster — T598 support and FFB profiles",
+          "https://support.thrustmaster.com/product/T598p/"
+        ],
+        [
+          "Thrustmaster — T598 official UK page",
+          "https://www.thrustmaster.com/en-gb/products/t598/"
+        ],
+        [
+          "KUNOS — Assetto Corsa EVO Wheel Setup Guide",
+          "https://assettocorsa.gg/wp-content/uploads/acevo_wheel-setup-guide.pdf"
+        ],
+        [
+          "KUNOS — EVO 0.9 update notes",
+          "https://assettocorsa.gg/assetto-corsa-evo-early-access-09-out-now/"
+        ]
+      ]
+    },
+    {
+      "slug": "iracing-wheel-ffb-setup-beginner-guide-2026",
+      "image": "assets/images/iracing-setup-fallback.jpg",
+      "productImage": "https://mediapool.bmwgroup.com/download/edown/pressclub/publicq?actEvent=scaleBig&attachment=1&dokNo=P90651323&quality=90&square=0",
+      "heroImages": [
+        "https://mediapool.bmwgroup.com/download/edown/pressclub/publicq?actEvent=scaleBig&attachment=1&dokNo=P90651323&quality=90&square=0"
+      ],
+      "category": "SIM RACING SETUP GUIDE",
+      "title": "iRacing Wheel & FFB Setup Guide 2026: Direct Drive, Clipping and Pedal Calibration",
+      "excerpt": "Set Wheel Force to the real wheelbase torque, enable Linear Mode for direct drive, use Auto after clean laps and set Brake Force Factor correctly for load-cell or potentiometer pedals.",
+      "score": "18 MIN",
+      "art": "sim",
+      "lastChecked": "27 August 2026",
+      "researchStatus": "Updated for 2026 Season 3",
+      "hideProduct": true,
+      "quick": "Calibrate the wheel and pedals first. For direct drive, set Wheel Force to the manufacturer’s real torque rating and enable Use Linear Mode. After several clean laps, use Auto as a starting point for FFB strength and watch the F meter for clipping. Load-cell pedals should use Brake Force Factor 0; common potentiometer pedals are generally 1.60–2.00.",
+      "buyIf": [
+        "Run iRacing’s calibration wizard whenever you add or change hardware",
+        "For direct drive, enter the wheelbase’s actual torque in Wheel Force and use Linear Mode",
+        "Use the F meter and Auto function to tune strength from real driving rather than guessing"
+      ],
+      "skipIf": [
+        "Do not enter an invented Wheel Force number just because a profile feels heavy",
+        "Do not use potentiometer Brake Force Factor values on a load-cell pedal",
+        "Do not turn up FFB until the meter clips constantly just to make the wheel feel stronger"
+      ],
+      "specs": [
+        [
+          "Current context",
+          "2026 Season 3"
+        ],
+        [
+          "Direct-drive Wheel Force",
+          "Use manufacturer torque rating"
+        ],
+        [
+          "Direct-drive Linear Mode",
+          "On"
+        ],
+        [
+          "Load-cell Brake Force Factor",
+          "0.00"
+        ],
+        [
+          "Potentiometer Brake Force Factor",
+          "Typically 1.60–2.00"
+        ],
+        [
+          "Strength tuning",
+          "Use Auto after clean representative laps"
+        ],
+        [
+          "Clipping indicator",
+          "F meter reaches/holds maximum"
+        ]
+      ],
+      "body": "<h2>Run the calibration wizard first</h2><p>iRacing’s control wizard establishes steering range and pedal endpoints. Do this before copying force-feedback values. A brake that never reaches 100% or a wheel with the wrong center will make every later setting harder to diagnose.</p>\n<h2>Direct drive: Wheel Force is a hardware fact</h2><p>iRacing’s official guidance is to set <strong>Wheel Force</strong> to the manufacturer’s listed capability and enable <strong>Use Linear Mode</strong> for direct-drive hardware. That means 5.5 Nm for an R5, 6 Nm for an R5 Pro, 8 Nm for an 8 Nm base, and so on.</p>\n<h2>Strength and Max Force are the tuning control</h2><p>Strength is preference-dependent. Drive several representative clean laps and use iRacing’s Auto function as a useful starting point. Then make small changes rather than treating somebody else’s number as a universal optimum.</p>\n<h2>Watch the F meter for clipping</h2><p>If the F meter repeatedly fills at maximum during normal cornering, the sim is asking the wheel for more force than the configured range can reproduce. Reduce strength/increase Max Force until strong events retain variation.</p>\n<h2>Brake Force Factor: load cell versus potentiometer</h2><p>iRacing recommends <strong>0.00</strong> for load-cell pedals. Common potentiometer pedal sets typically use around <strong>1.60–2.00</strong>. This is one of the most important “what kind of pedal do I own?” checks in the entire setup.</p>\n<h2>Season 3 reorganised FFB settings</h2><p>The 2026 Season 3 build added a dedicated Force Feedback and Haptics settings page while leaving basic controls accessible from the driving page. If an old tutorial points you to a menu that looks different, the setting may simply have moved.</p>\n<h2>Min Force is mainly for weaker wheels</h2><p>Min Force can help gear- or belt-driven wheels overcome a physical dead zone around center. Direct-drive wheels generally do not need the same compensation.</p>",
+      "faq": [
+        [
+          "What should Wheel Force be in iRacing?",
+          "For direct drive, set Wheel Force to the manufacturer’s real wheelbase torque rating. It describes the hardware capability rather than how strong you personally want the steering to feel."
+        ],
+        [
+          "Should I enable Linear Mode with direct drive?",
+          "Yes. iRacing’s official beginner guidance recommends Use Linear Mode for direct-drive wheels."
+        ],
+        [
+          "What Brake Force Factor should I use for load-cell pedals?",
+          "Use 0.00. iRacing recommends the non-linear 1.60–2.00 range for common potentiometer pedals instead."
+        ],
+        [
+          "How do I stop iRacing FFB clipping?",
+          "Drive clean representative laps, use Auto as a starting point, and watch the F meter. If it sits at maximum frequently, reduce strength/increase Max Force until strong events keep variation."
+        ],
+        [
+          "Where did the advanced FFB settings go in Season 3?",
+          "The 2026 Season 3 build added a dedicated Force Feedback and Haptics settings page, so older screenshots may show a different layout."
+        ],
+        [
+          "Do I need Min Force on a direct-drive wheel?",
+          "Usually little or none. Min Force is more useful for weaker wheels with a mechanical dead zone around center."
+        ]
+      ],
+      "relatedSlugs": [
+        "sim-racing-wheel-troubleshooting-faq-2026",
+        "beginner-sim-racing-setup-2026",
+        "load-cell-pedals-first-upgrade"
+      ],
+      "sources": [
+        [
+          "iRacing — Controller Setup and Calibration",
+          "https://support.iracing.com/support/solutions/articles/31000133335"
+        ],
+        [
+          "iRacing — Beginner Setup Guide",
+          "https://support.iracing.com/support/solutions/articles/31000168572"
+        ],
+        [
+          "iRacing — 2026 Season 3 release notes",
+          "https://support.iracing.com/support/solutions/articles/31000179016-2026-season-3-initial-release-notes-2026-06-09-01-"
+        ],
+        [
+          "iRacing — 2026 Season 3 overview",
+          "https://www.iracing.com/seasons/2026-s3/"
+        ]
+      ]
+    },
+    {
+      "slug": "le-mans-ultimate-wheel-ffb-setup-2026",
+      "image": "assets/images/lmu-setup-fallback.jpg",
+      "productImage": "https://mcusercontent.com/d64b6e298cfffd4e86ce086a4/images/87fed08a-59a5-ca3b-6ed2-0926f09ef2d1.jpg",
+      "heroImages": [
+        "https://mcusercontent.com/d64b6e298cfffd4e86ce086a4/images/87fed08a-59a5-ca3b-6ed2-0926f09ef2d1.jpg"
+      ],
+      "category": "SIM RACING SETUP GUIDE",
+      "title": "Le Mans Ultimate Wheel & FFB Setup Guide 2026: Calibration, Steering Range and Common Fixes",
+      "excerpt": "Calibrate axes, let the car control steering range, map endurance-racing essentials and disable Steam Input if it is interfering with force feedback.",
+      "score": "17 MIN",
+      "art": "sim",
+      "lastChecked": "27 August 2026",
+      "researchStatus": "Updated for V1.4",
+      "hideProduct": true,
+      "quick": "Use the wheel/pedal calibration first, confirm each pedal moves cleanly from 0 to 100%, enable “Use Steering Wheel Range From Vehicle,” and start from the manufacturer/default profile if one exists. If force feedback is poor or missing, Le Mans Ultimate specifically recommends trying Steam Input disabled for some wheels.",
+      "buyIf": [
+        "Calibrate steering and every pedal endpoint before tuning FFB",
+        "Enable Use Steering Wheel Range From Vehicle for the intended steering range",
+        "Map pit limiter, MFD and endurance-specific controls before your first proper race"
+      ],
+      "skipIf": [
+        "Do not tune FFB around an uncalibrated pedal or steering axis",
+        "Do not leave Steam Input enabled by default if it is clearly interfering with wheel feedback",
+        "Do not start an endurance event before mapping pit-lane and visibility controls you will need"
+      ],
+      "specs": [
+        [
+          "Current branch",
+          "V1.4 / August 2026 patches"
+        ],
+        [
+          "Recommended steering option",
+          "Use Steering Wheel Range From Vehicle"
+        ],
+        [
+          "Pedal calibration",
+          "Verify 0–100% throttle/brake/clutch"
+        ],
+        [
+          "Potential FFB fix",
+          "Disable Steam Input for affected wheels"
+        ],
+        [
+          "Useful mappings",
+          "MFD / speed limiter / headlight pulse / wipers"
+        ],
+        [
+          "Starting profiles",
+          "Manufacturer/default profiles where available"
+        ]
+      ],
+      "body": "<h2>Begin with the manufacturer/default profile</h2><p>Le Mans Ultimate says most common wheelbases and pedals have suitable default profiles. Use that known baseline before building a custom file from scratch.</p>\n<h2>Calibrate every axis</h2><p>Set maximum left and right steering, then verify throttle, brake and clutch reach both 0% and 100%. A pedal that rests at 3% or tops out at 92% will cause more practical trouble than almost any force-feedback slider.</p>\n<h2>Use Steering Wheel Range From Vehicle</h2><p>The official LMU guide recommends enabling this option. It lets the sim apply the appropriate steering range for the car rather than forcing every Hypercar, GT and prototype into one manual rotation value.</p>\n<h2>Map the endurance-racing controls before you need them</h2><p>At minimum, have reliable bindings for the MFD, speed limiter and headlight pulse. If you do not automate wipers, headlights or clutch, map those too. The worst time to discover a missing pit-limiter binding is on pit entry.</p>\n<h2>If FFB is weak or missing, test Steam Input disabled</h2><p>Studio 397 explicitly notes that disabling Steam Input can improve force-feedback quality for some wheels. Treat it as a troubleshooting step, especially if a wheel is being presented through an unexpected controller layer.</p>\n<h2>V1.4 context</h2><p>Le Mans Ultimate V1.4 arrived in late July 2026 with significant game and content changes, followed by August patches. If an older profile behaves strangely after updates, confirm current control and firmware settings before assuming the hardware changed.</p>\n<h2>Then tune feel</h2><p>Once calibration and steering range are correct, adjust FFB in small steps using a familiar car. Endurance cars can have very different steering weight and assist characteristics, so avoid building one setting around a single dramatic kerb strike.</p>",
+      "faq": [
+        [
+          "Should I disable Steam Input for Le Mans Ultimate?",
+          "If wheel force feedback is weak, missing or behaving strangely, yes — Studio 397 specifically recommends trying Steam Input disabled because it can improve FFB quality for some wheels."
+        ],
+        [
+          "Should I enable Use Steering Wheel Range From Vehicle?",
+          "Yes. The official setup guide recommends it so each car can use its intended steering range."
+        ],
+        [
+          "Which controls should I map before racing?",
+          "At minimum map MFD controls, speed limiter and headlight pulse. Also map wipers, headlights and clutch if you are not using automatic options."
+        ],
+        [
+          "Why does my brake not reach 100%?",
+          "Re-run pedal calibration and confirm the axis reaches both endpoints. Check manufacturer software too if the pedal has a deadzone or calibration range there."
+        ],
+        [
+          "Should I start with a community profile?",
+          "Start with the manufacturer/default profile if LMU provides one for your hardware. It gives you a known baseline for later changes."
+        ],
+        [
+          "Does V1.4 change the need to recalibrate?",
+          "Not necessarily, but V1.4 and subsequent patches are a good reason to re-check old profiles if controls or feedback suddenly feel different."
+        ]
+      ],
+      "relatedSlugs": [
+        "sim-racing-wheel-troubleshooting-faq-2026",
+        "iracing-wheel-ffb-setup-beginner-guide-2026",
+        "beginner-sim-racing-setup-2026"
+      ],
+      "sources": [
+        [
+          "Le Mans Ultimate — wheel and pedal setup",
+          "https://guide.lemansultimate.com/hc/en-gb/articles/13152295737359-How-to-set-up-your-wheel-and-pedals"
+        ],
+        [
+          "Le Mans Ultimate — V1.4 Support Hub",
+          "https://guide.lemansultimate.com/hc/en-gb/articles/16921339994767-V1-4-Support-Hub"
+        ],
+        [
+          "Le Mans Ultimate — August 2026 community update",
+          "https://lemansultimate.com/community-update-august-2026/"
+        ],
+        [
+          "Le Mans Ultimate — The Game",
+          "https://lemansultimate.com/the-game/"
+        ]
+      ]
+    },
+    {
+      "slug": "sim-racing-wheel-troubleshooting-faq-2026",
+      "image": "assets/images/sim-troubleshooting-fallback.jpg",
+      "productImage": "https://assettocorsa.gg/wp-content/uploads/ACE_EA09-2-1920x1080.jpg",
+      "heroImages": [
+        "https://assettocorsa.gg/wp-content/uploads/ACE_EA09-2-1920x1080.jpg"
+      ],
+      "category": "SIM RACING FAQ",
+      "title": "Sim Racing Wheel Troubleshooting FAQ: No FFB, Clipping, Oscillation, Pedals and Detection Fixes",
+      "excerpt": "A practical fault-finding guide for the problems that appear across Assetto Corsa EVO, iRacing, Le Mans Ultimate and other modern sims.",
+      "score": "19 MIN",
+      "art": "sim",
+      "lastChecked": "27 August 2026",
+      "researchStatus": "Research-backed",
+      "hideProduct": true,
+      "quick": "Troubleshoot in layers: hardware/USB first, firmware and manufacturer software second, game detection/calibration third, and FFB tuning last. If the wheel is not detected, do not start changing damping. If it clips, do not blame USB. Solving the correct layer first saves a lot of random slider changes.",
+      "buyIf": [
+        "Test one layer at a time: connection → firmware → game mapping → FFB tuning",
+        "Use a known car/track after every change so you can tell whether the fix helped",
+        "Save a working profile before experimenting with advanced effects"
+      ],
+      "skipIf": [
+        "Do not unplug/reinstall/change six settings at once — you lose the cause of the fix",
+        "Do not use damping as a substitute for correcting excessive FFB Gain",
+        "Do not assume reversed pedals or wrong steering lock are force-feedback problems"
+      ],
+      "specs": [
+        [
+          "Wheel not detected",
+          "USB/power → firmware/software → game mapping"
+        ],
+        [
+          "No FFB",
+          "Confirm device profile + game FFB enabled + Steam Input layer"
+        ],
+        [
+          "Clipping",
+          "Reduce game strength / increase available Max Force"
+        ],
+        [
+          "Oscillation",
+          "Check Gain/range first, then add damping gradually"
+        ],
+        [
+          "Pedal issue",
+          "Recalibrate endpoints and axis direction"
+        ],
+        [
+          "Best diagnostic method",
+          "One change at a time on the same car/track"
+        ]
+      ],
+      "body": "<h2>Wheel not detected</h2><p>Start outside the game. Confirm power, USB connection and that the manufacturer software sees the base. Update firmware if required, then launch the sim and bind/calibrate the device. A game cannot tune force feedback for hardware it does not actually see.</p>\n<h2>Wheel detected, but no force feedback</h2><p>Confirm FFB is enabled in the game and that the correct device/profile is selected. On Le Mans Ultimate, disabling Steam Input can improve FFB for some wheels. On Assetto Corsa EVO and Thrustmaster hardware, use the current manufacturer profile before improvising.</p>\n<h2>Force feedback clips in long corners</h2><p>Clipping means the requested force has reached the available maximum, flattening different forces into the same output. Reduce in-game strength. In iRacing, use the F meter and Auto feature; in other sims, look for the same “everything becomes one heavy force” symptom.</p>\n<h2>Wheel oscillates on straights</h2><p>Check steering range and excessive gain before adding damping. With direct drive, some hands-off oscillation can be amplified by a high-gain setup. Add damping gradually only after the core range and strength make sense.</p>\n<h2>Steering in game does not match the wheel</h2><p>Match the hardware rotation/lock and the game setting where the sim requires it. Assetto Corsa EVO explicitly tells you to use the same Steering Lock as the wheel app; Le Mans Ultimate recommends letting the vehicle set its steering range.</p>\n<h2>Pedal is reversed</h2><p>Use the game’s axis inversion option or the manufacturer software, then recalibrate. Do not solve a reversed axis by adding giant deadzones — that wastes usable pedal travel.</p>\n<h2>Brake never reaches 100%</h2><p>Recalibrate endpoints. Check for a hardware-side calibration or deadzone. If you use a load cell, remember that the intended full-scale force can be adjusted in pedal software; the game should still receive a clean 0–100% signal after calibration.</p>\n<h2>Controls reset or profiles disappear</h2><p>Save named control profiles where the sim supports them. iRacing Season 3 added control-profile support in the Sim UI; manufacturer software can also maintain device-side profiles. Back up a known-good configuration before a major firmware update.</p>\n<h2>FFB feels weak after an update</h2><p>Check patch notes first. Assetto Corsa EVO 0.9 includes an FFB/input reliability pass, while live-service sims can move settings between menus or update device profiles. Retest the baseline before trying to “restore” old feel with extreme sliders.</p>",
+      "faq": [
+        [
+          "Why is my wheel not detected by the game?",
+          "Confirm power and USB first, then verify the manufacturer software sees the device. Update firmware if needed, launch the game, select the correct profile and re-run control calibration."
+        ],
+        [
+          "Why do I have steering but no force feedback?",
+          "Check that FFB is enabled and the correct wheel profile is active. If a controller layer such as Steam Input is involved, test without it where the simulator or manufacturer recommends doing so."
+        ],
+        [
+          "What does FFB clipping feel like?",
+          "Strong corners all feel like the same flat maximum force and smaller detail disappears while the wheel is loaded. Lower game strength until different high-load events remain distinguishable."
+        ],
+        [
+          "How do I stop direct-drive oscillation?",
+          "Check wheel rotation and excessive Gain first. Then add damping in small increments. Do not jump straight to a very high damping value because it can hide useful detail."
+        ],
+        [
+          "Why are my pedals backwards?",
+          "The game is reading the axis direction in reverse. Use the sim or manufacturer inversion setting, then recalibrate the full pedal travel."
+        ],
+        [
+          "Why does my brake only reach 80 or 90 percent?",
+          "Re-run calibration, check hardware-side maximum-force/range settings and verify there is no unintended deadzone. The in-game input meter should reach a clean 100%."
+        ],
+        [
+          "Should I reinstall everything when FFB feels wrong?",
+          "Usually not first. Work from the simplest layer upward: connection, firmware/software, game device detection, calibration, then FFB tuning. Reinstall only when the evidence points to corrupted software or drivers."
+        ],
+        [
+          "Why did my old settings feel different after a game update?",
+          "Live sims change physics, FFB processing, device profiles and menu structures. Check current patch notes and retest a baseline before compensating with large slider changes."
+        ]
+      ],
+      "relatedSlugs": [
+        "assetto-corsa-evo-beginner-wheel-setup-2026",
+        "iracing-wheel-ffb-setup-beginner-guide-2026",
+        "le-mans-ultimate-wheel-ffb-setup-2026"
+      ],
+      "sources": [
+        [
+          "KUNOS — Assetto Corsa EVO Wheel Setup Guide",
+          "https://assettocorsa.gg/wp-content/uploads/acevo_wheel-setup-guide.pdf"
+        ],
+        [
+          "iRacing — Controller Setup and Calibration",
+          "https://support.iracing.com/support/solutions/articles/31000133335"
+        ],
+        [
+          "Le Mans Ultimate — wheel and pedal setup",
+          "https://guide.lemansultimate.com/hc/en-gb/articles/13152295737359-How-to-set-up-your-wheel-and-pedals"
+        ],
+        [
+          "Thrustmaster — T598 support",
+          "https://support.thrustmaster.com/product/T598p/"
+        ]
+      ]
     }
   ],
   "gameGuides": [
@@ -3182,6 +3846,208 @@ window.CHECKPOINT_CONTENT = {
         "Treat every enemy group as mandatory",
         "Throw area damage through teammates",
         "Stay alone carrying important samples when extraction is close"
+      ]
+    },
+    {
+      "slug": "star-wars-zero-company-beginner-guide",
+      "image": "assets/images/zero-company-fallback.jpg",
+      "productImage": "https://drop-assets.ea.com/images/3ta1VjG1HUkaPlCORm5qtB/ce382b0196fc844657786516ccc1fef8/SWZC-keyart-16x9.jpg?im=AspectCrop%3D%2816%2C9%29%2CxPosition%3D0.5%2CyPosition%3D0.5",
+      "heroImages": [
+        "https://drop-assets.ea.com/images/3ta1VjG1HUkaPlCORm5qtB/ce382b0196fc844657786516ccc1fef8/SWZC-keyart-16x9.jpg?im=AspectCrop%3D%2816%2C9%29%2CxPosition%3D0.5%2CyPosition%3D0.5"
+      ],
+      "category": "GAME GUIDE",
+      "title": "Star Wars Zero Company Beginner Guide: 12 Things to Know Before Your First Hard Missions",
+      "excerpt": "A spoiler-light first-hours guide to Action Points, cover, Overwatch, squad bonds, Injuries, the Den and the decisions that matter most in Zero Company.",
+      "score": "16 MIN",
+      "art": "game",
+      "lastChecked": "27 August 2026",
+      "researchStatus": "Launch-day guide",
+      "hideProduct": true,
+      "quick": "Treat Zero Company as an objective-and-positioning game, not a race to wipe every enemy. Spend your three Action Points deliberately, use cover and flanking, finish Den tasks before deploying, and protect Operators from repeated Injuries if you have permadeath enabled.",
+      "buyIf": [
+        "Finish conversations, upgrades and other Den tasks before committing to the next mission",
+        "Use cover, elevation and flanking to improve the odds before spending attacks",
+        "Keep one action in reserve when repositioning or defensive play is safer than a low-percentage shot"
+      ],
+      "skipIf": [
+        "Do not assume every mission requires killing every enemy on the map",
+        "Do not burn Intel or advance the campaign cycle without checking what is still available at the Den",
+        "Do not treat a wounded Operator as disposable if permadeath is part of your chosen rules"
+      ],
+      "specs": [
+        [
+          "Released",
+          "27 August 2026"
+        ],
+        [
+          "Platforms",
+          "PC / PlayStation 5 / Xbox Series X|S"
+        ],
+        [
+          "Format",
+          "Single-player turn-based tactics"
+        ],
+        [
+          "Action economy",
+          "3 AP per Operator"
+        ],
+        [
+          "Campaign layer",
+          "The Den, Operations, Intel and squad relationships"
+        ],
+        [
+          "Online multiplayer",
+          "None"
+        ]
+      ],
+      "body": "<h2>1. Your three Action Points are the real currency</h2><p>Each Operator starts a turn with three Action Points. Movement, attacks and tactical actions compete for the same pool, so the strongest turn is often not “shoot three times.” Repositioning into cover, creating a flank or setting up a teammate can produce a much safer next round.</p>\n<h2>2. Check the objective before chasing eliminations</h2><p>Some missions can be won by completing the objective rather than clearing every enemy. Before exposing a squad member for one more kill, check what the mission is actually asking you to accomplish.</p>\n<h2>3. Cover, elevation and flanking change the maths</h2><p>Zero Company rewards positioning. A mediocre shot from the wrong tile can become a much better attack after a move to higher ground or a flank. Treat movement as part of your damage output rather than dead time.</p>\n<h2>4. Overwatch is strongest when it controls space</h2><p>Overwatch is less about hoping for a lucky reaction shot and more about telling an enemy “cross this lane and pay for it.” Aim the cone across routes enemies actually need to use, especially when protecting an objective or a wounded squadmate.</p>\n<h2>5. Learn one Operator role at a time</h2><p>The roster spans distinct specialisations and archetypes. You do not need to memorise the entire squad immediately. Learn who can safely open a fight, who creates control or support, and who is best at finishing exposed targets.</p>\n<h2>6. Advantage is a team resource</h2><p>Abilities can build and spend Advantage, with the system rewarding coordinated play. If a high-value ability is nearly available, avoid wasting the setup just because a lower-impact action can be pressed immediately.</p>\n<h2>7. Injuries should change your risk tolerance</h2><p>Wounded Operators are not just cosmetic. If you are playing with permadeath rules, repeated Injuries can have permanent consequences. Rotate a vulnerable Operator out of a risky line rather than treating every mission as a damage race.</p>\n<h2>8. Talk to people at the Den</h2><p>The campaign layer is not filler between battles. Conversations, upgrades, relationships and preparation can affect what your company can do later. Walk the Den before deployment and clear the obvious housekeeping.</p>\n<h2>9. Missions advance the campaign</h2><p>Deploying is a commitment. Finish the Den tasks you care about before moving the campaign forward so you do not accidentally leave useful conversations or preparation behind.</p>\n<h2>10. Intel is not a “spend immediately” currency</h2><p>Operations can use Intel and can open rewards, information or strategic choices. Keep some flexibility instead of assuming the first available expenditure is automatically the best one.</p>\n<h2>11. Restarting a mission is a learning tool</h2><p>If a deployment collapses because you misunderstood a mechanic or objective, restarting is often more useful than dragging a broken squad through a doomed sequence. The early campaign is where you should learn how the systems interact.</p>\n<h2>12. Build bonds by making characters work together</h2><p>Squad relationships are part of the progression layer. Rotate combinations deliberately enough to learn which synergies fit your play style instead of locking into one favourite group before you understand the roster.</p>",
+      "faq": [
+        [
+          "Is Star Wars Zero Company multiplayer?",
+          "No. EA describes Zero Company as a single-player game with no online competitive multiplayer, online co-op, local co-op or split-screen co-op."
+        ],
+        [
+          "How many Action Points does an Operator get?",
+          "Operators have three Action Points to spend on movement, attacks and tactical actions, so positioning competes directly with offense."
+        ],
+        [
+          "Do I have to kill every enemy to finish a mission?",
+          "Not always. Read the objective first; some missions are about completing the task or reaching the required state rather than wiping the entire map."
+        ],
+        [
+          "Should I enable permadeath on my first run?",
+          "Only if permanent consequences are part of the experience you want. If you are still learning the systems, a more forgiving setting makes it easier to experiment with squad roles and positioning."
+        ],
+        [
+          "What should I do before leaving the Den?",
+          "Talk to squad members, check available upgrades and Operations, review Injuries, spend resources deliberately and make sure there is no preparation task you want to finish before the campaign advances."
+        ],
+        [
+          "What PC hardware does Zero Company need?",
+          "EA lists 16 GB RAM and GTX 1080 / RX 5600 XT-class graphics for its 1080p30 minimum target, with 32 GB RAM and RTX 3080 / RX 7800 XT-class graphics for its 1440p60 High recommended target."
+        ]
+      ],
+      "relatedSlugs": [
+        "marvel-tokon-fighting-souls-beginner-guide",
+        "baldurs-gate-3-beginner-guide",
+        "helldivers-2-beginner-guide"
+      ],
+      "sources": [
+        [
+          "EA — Star Wars Zero Company official page",
+          "https://www.ea.com/games/starwars/zero-company"
+        ],
+        [
+          "EA Help — platforms and PC requirements",
+          "https://help.ea.com/en/articles/star-wars/zero-company/platforms-pc-requirements-guide/"
+        ],
+        [
+          "EA — Lead Zero Company to Victory",
+          "https://www.ea.com/games/starwars/zero-company/news/lead-zero-company-to-victory"
+        ],
+        [
+          "StarWars.com — Zero Company guide",
+          "https://www.starwars.com/news/star-wars-zero-company-guide"
+        ]
+      ]
+    },
+    {
+      "slug": "marvel-tokon-fighting-souls-beginner-guide",
+      "image": "assets/images/tokon-fallback.jpg",
+      "productImage": "https://blog.playstation.com/tachyon/2026/02/0d83e0175f979a2356ea38106bc8c8a6c209a935.jpg?crop_strategy=smart&resize=1088%2C612",
+      "heroImages": [
+        "https://blog.playstation.com/tachyon/2026/02/0d83e0175f979a2356ea38106bc8c8a6c209a935.jpg?crop_strategy=smart&resize=1088%2C612"
+      ],
+      "category": "GAME GUIDE",
+      "title": "Marvel Tōkon: Fighting Souls Beginner Guide: The Fastest Way to Learn Your First Team",
+      "excerpt": "Start with Startup Battle, learn Link Attacks and defense, then add assists and direct switching without trying to master four characters at once.",
+      "score": "15 MIN",
+      "art": "game",
+      "lastChecked": "27 August 2026",
+      "researchStatus": "Research-backed",
+      "hideProduct": true,
+      "quick": "Start in Startup Battle and finish both Basics and Assemble. Pick one lead character you enjoy, learn the simple Link Attack routes and reliable defense first, then add one assist and one direct switch pattern. Quick Skills are fine while learning; command inputs can come later.",
+      "buyIf": [
+        "Finish Startup Battle: Basics before worrying about long combos",
+        "Use Link Attacks as a reliable starter route while learning neutral and defense",
+        "Add team mechanics one layer at a time: assist first, direct switch second, advanced conversions later"
+      ],
+      "skipIf": [
+        "Do not try to memorise four full move lists before playing matches",
+        "Do not mash an assist call when your teammate will enter into an obvious punish",
+        "Do not abandon Quick Skills just because command inputs can offer more reward"
+      ],
+      "specs": [
+        [
+          "Released",
+          "6 August 2026"
+        ],
+        [
+          "Platforms",
+          "PlayStation 5 / PC"
+        ],
+        [
+          "Format",
+          "4v4 team fighting game"
+        ],
+        [
+          "Tutorial",
+          "Startup Battle — Basics + Assemble"
+        ],
+        [
+          "Basic attacks",
+          "Light / Medium / Heavy"
+        ],
+        [
+          "Beginner combo system",
+          "Link Attacks"
+        ]
+      ],
+      "body": "<h2>Start with Startup Battle, not online matchmaking</h2><p>Arc System Works built Startup Battle specifically to teach the game. <strong>Basics</strong> covers individual-character actions; <strong>Assemble</strong> introduces team mechanics. Even experienced fighting-game players should at least run Assemble because the team system is what makes Tōkon different.</p>\n<h2>Choose one lead character first</h2><p>You are controlling a team, but that does not mean you need four complete character notebooks on day one. Pick the character whose movement and normals feel natural, then let the other team members begin as useful assists.</p>\n<h2>Use Link Attacks as your training wheels</h2><p>Repeated presses of the same attack strength can produce beginner-friendly sequences. They are not the final word in damage, but they give you something reliable enough to focus on spacing, blocking and team calls.</p>\n<h2>Learn defense before advanced offense</h2><p>A beginner who can block, recognise obvious gaps and stop panic-mashing will improve faster than a player who knows one long combo but never gets a clean turn. Practice standing and crouching guard against common strings in training mode.</p>\n<h2>Make one assist call part of your normal game</h2><p>Team calls become useful when you know why you are calling them: to cover movement, extend pressure or convert a hit. Pick one teammate whose assist is easy to understand and build that call into your normal rhythm before adding complicated sequences.</p>\n<h2>Direct switching is a positioning tool</h2><p>Switching characters is not only about escaping low health. It can change matchup, range and the shape of your pressure. Learn the direct-switch input early enough that changing point characters feels deliberate rather than emergency-only.</p>\n<h2>Quick Skills are allowed</h2><p>The game supports easier Quick Skill inputs alongside traditional command inputs. Command inputs can provide extra reward, but accessibility is the point: use the version you can execute reliably while you learn the rest of the game.</p>\n<h2>Practice short situations, not hour-long combo lists</h2><p>Set training mode to repeat one problem: anti-airing a jump, blocking a pressure string, confirming a light hit or safely calling an assist. Ten focused minutes on a repeatable situation is usually more useful than chasing a showcase combo you cannot start in a real match.</p>\n<h2>Your first-team goal</h2><p>By the time you head online, aim to know: one safe starter, one simple Link Attack route, one anti-air answer, one assist call, one direct switch and your basic defensive options. That is enough structure to learn from real matches.</p>",
+      "faq": [
+        [
+          "Do I need to master four characters before playing?",
+          "No. Start with one lead character and treat the rest of the team as a small set of assists and switches. Expand their individual move knowledge over time."
+        ],
+        [
+          "What is Startup Battle?",
+          "It is the built-in tutorial. Basics teaches individual actions and Assemble teaches the team mechanics that are central to Tōkon."
+        ],
+        [
+          "Are Quick Skills bad?",
+          "No. They are an intended control option. Use the input method you can execute consistently, then experiment with command inputs when the rest of your game is stable."
+        ],
+        [
+          "What are Link Attacks?",
+          "They are beginner-friendly combo sequences created by chaining repeated Light, Medium or Heavy attacks. They provide a reliable starting route while you learn neutral and team play."
+        ],
+        [
+          "When should I call an assist?",
+          "Call an assist for a reason — to cover an approach, extend pressure or convert a hit. Random assist calls are easier for an opponent to punish."
+        ],
+        [
+          "What should I learn before ranked play?",
+          "One reliable combo, basic standing/crouching guard, an anti-air answer, one assist, one direct switch and enough training-mode familiarity to recreate situations that beat you."
+        ]
+      ],
+      "relatedSlugs": [
+        "star-wars-zero-company-beginner-guide",
+        "elden-ring-first-hours-guide",
+        "baldurs-gate-3-beginner-guide"
+      ],
+      "sources": [
+        [
+          "PlayStation Blog — beginner’s guide to Marvel Tōkon",
+          "https://blog.playstation.com/2026/07/20/beginners-guide-to-marvel-tokon-fighting-souls/"
+        ],
+        [
+          "PlayStation Blog — launch date and game overview",
+          "https://blog.playstation.com/2026/02/12/marvel-tokon-fighting-souls-arrives-on-ps5-pc-august-6/"
+        ],
+        [
+          "PlayStation Blog — Open Beta modes and Startup Battle",
+          "https://blog.playstation.com/2026/07/16/everything-you-need-to-know-about-marvel-tokon-fighting-souls-open-beta/"
+        ]
       ]
     }
   ]

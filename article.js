@@ -76,6 +76,21 @@ if (model.specs?.length) {
 }
 document.getElementById('main').innerHTML = model.body || '<h2>Main guide</h2>';
 
+const faqSection = document.getElementById('faqSection');
+const faqList = document.getElementById('faqList');
+const faqItems = model.faq || [];
+if (faqItems.length && faqSection && faqList) {
+  faqList.innerHTML = faqItems.map(([question, answer], i) => `
+    <details class="faq-item"${i === 0 ? ' open' : ''}>
+      <summary>${question}</summary>
+      <div class="faq-answer"><p>${answer}</p></div>
+    </details>`).join('');
+  faqSection.hidden = false;
+} else {
+  document.querySelector('.toc a[href="#faqSection"]')?.remove();
+}
+
+
 const heroGallery = document.getElementById('articleHeroGallery');
 const heroImages = (model.heroImages && model.heroImages.length)
   ? model.heroImages
@@ -205,7 +220,7 @@ const schema = {
   "@type": "Article",
   "headline": model.title,
   "description": model.excerpt || model.quick || "",
-  "dateModified": "2026-08-20",
+  "dateModified": "2026-08-27",
   "mainEntityOfPage": canonical.href,
   "publisher": {
     "@type": "Organization",
@@ -218,3 +233,20 @@ const schemaScript = document.createElement('script');
 schemaScript.type = 'application/ld+json';
 schemaScript.textContent = JSON.stringify(schema);
 document.head.appendChild(schemaScript);
+
+
+if (faqItems.length) {
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqItems.map(([question, answer]) => ({
+      "@type": "Question",
+      "name": question,
+      "acceptedAnswer": {"@type": "Answer", "text": answer}
+    }))
+  };
+  const faqSchemaScript = document.createElement('script');
+  faqSchemaScript.type = 'application/ld+json';
+  faqSchemaScript.textContent = JSON.stringify(faqSchema);
+  document.head.appendChild(faqSchemaScript);
+}

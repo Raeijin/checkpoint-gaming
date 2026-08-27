@@ -3,6 +3,7 @@ const reviewGrid = document.getElementById('reviewGrid');
 const guideGrid = document.getElementById('guideGrid');
 const techGrid = document.getElementById('techGrid');
 const simGrid = document.getElementById('simGrid');
+const setupGrid = document.getElementById('setupGrid');
 function card(item, kind){
   const monitorHardFix = item.slug === 'best-1440p-gaming-monitor-2026' || item.slug === 'oled-vs-mini-led-gaming-monitor-2026';
   const cardArtClass = `card-art ${item.art}${monitorHardFix ? ' monitor-card-hardfix' : ''}`;
@@ -42,6 +43,21 @@ if (simGrid) simGrid.innerHTML = simSlugs
   .map(slug => [...data.reviews,...data.guides].find(x=>x.slug===slug))
   .filter(Boolean)
   .map(x=>card(x, x.category.includes('GUIDE') ? 'guide' : 'review'))
+  .join('');
+
+
+const setupSlugs = [
+  "assetto-corsa-evo-beginner-wheel-setup-2026",
+  "assetto-corsa-evo-moza-r5-settings-2026",
+  "assetto-corsa-evo-t598-settings-2026",
+  "iracing-wheel-ffb-setup-beginner-guide-2026",
+  "le-mans-ultimate-wheel-ffb-setup-2026",
+  "sim-racing-wheel-troubleshooting-faq-2026"
+];
+if (setupGrid) setupGrid.innerHTML = setupSlugs
+  .map(slug => [...data.reviews,...data.guides].find(x=>x.slug===slug))
+  .filter(Boolean)
+  .map(x=>card(x,'guide'))
   .join('');
 
 const techSlugs = ["best-gaming-keyboard-2026", "keychron-k2-he-researched-review", "best-pc-controller-2026", "gamesir-g7-pro-researched-review", "best-1440p-gaming-monitor-2026", "oled-vs-mini-led-gaming-monitor-2026", "best-monitor-arm-for-gaming-desk-2026", "best-2tb-gaming-ssd-2026", "best-gaming-mouse-2026", "best-wireless-gaming-headset-2026"];

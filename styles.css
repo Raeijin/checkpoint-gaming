@@ -294,3 +294,15 @@ linear-gradient(180deg,#0b0f16,#07090d)}
     transform:scale(1.12)!important;
   }
 }
+
+
+/* Batch 13 — useful FAQ component */
+.faq-section{margin-top:42px}
+.faq-list{display:grid;gap:12px;margin-top:18px}
+.faq-item{border:1px solid rgba(255,255,255,.1);border-radius:14px;background:rgba(10,14,20,.68);overflow:hidden}
+.faq-item summary{cursor:pointer;list-style:none;padding:18px 54px 18px 20px;font-weight:800;color:#f5f7fb;position:relative;line-height:1.35}
+.faq-item summary::-webkit-details-marker{display:none}
+.faq-item summary:after{content:'+';position:absolute;right:20px;top:50%;transform:translateY(-50%);font-size:24px;color:#6fffc3;font-weight:500}
+.faq-item[open] summary:after{content:'–'}
+.faq-answer{padding:0 20px 18px;color:#aeb8c5}
+.faq-answer p{margin:0;line-height:1.7}
