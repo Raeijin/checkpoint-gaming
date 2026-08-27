@@ -142,6 +142,8 @@ if (heroImages.length) {
   heroGallery.hidden = false;
 }
 
+const pickSection = document.getElementById('pick');
+const pickToc = document.querySelector('.toc a[href="#pick"]');
 const recommendationGrid = document.getElementById('recommendationGrid');
 const legacyProductBox = document.getElementById('legacyProductBox');
 const amazonPriceNote = document.getElementById('amazonPriceNote');
@@ -219,8 +221,6 @@ if (recs.length) {
     legacyProductBox.hidden = true;
   }
 }
-const pickSection = document.getElementById('pick');
-const pickToc = document.querySelector('.toc a[href="#pick"]');
 if (!recs.length && (model.hideProduct || !model.affiliate_url || model.affiliate_url === '#')) {
   if (pickSection) pickSection.hidden = true;
   if (pickToc) pickToc.hidden = true;
