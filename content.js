@@ -3774,7 +3774,8 @@ window.CHECKPOINT_CONTENT = {
         "Repeatedly bash into one boss because the game points at it",
         "Spread early stats across everything",
         "Treat every death as lost progress rather than information"
-      ]
+      ],
+      "cardImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg"
     },
     {
       "slug": "baldurs-gate-3-beginner-guide",
@@ -3798,7 +3799,8 @@ window.CHECKPOINT_CONTENT = {
         "Reload every imperfect dice roll",
         "Hoard consumables forever",
         "Assume every encounter has one correct solution"
-      ]
+      ],
+      "cardImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg"
     },
     {
       "slug": "cyberpunk-2077-beginner-guide",
@@ -3822,7 +3824,8 @@ window.CHECKPOINT_CONTENT = {
         "Spread perk points across unrelated weapon styles",
         "Buy every gun just because its number is higher",
         "Ignore cyberware capacity and survivability"
-      ]
+      ],
+      "cardImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg"
     },
     {
       "slug": "helldivers-2-beginner-guide",
@@ -3846,7 +3849,8 @@ window.CHECKPOINT_CONTENT = {
         "Treat every enemy group as mandatory",
         "Throw area damage through teammates",
         "Stay alone carrying important samples when extraction is close"
-      ]
+      ],
+      "cardImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg"
     },
     {
       "slug": "star-wars-zero-company-beginner-guide",

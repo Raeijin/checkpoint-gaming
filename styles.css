@@ -306,3 +306,10 @@ linear-gradient(180deg,#0b0f16,#07090d)}
 .faq-item[open] summary:after{content:'–'}
 .faq-answer{padding:0 20px 18px;color:#aeb8c5}
 .faq-answer p{margin:0;line-height:1.7}
+
+
+/* Batch 13.1 — real game key art cards */
+#guides .content-card .card-art.game .card-image{
+  object-fit:cover;
+  object-position:center center;
+}

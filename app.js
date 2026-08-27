@@ -9,7 +9,9 @@ function card(item, kind){
   const cardArtClass = `card-art ${item.art}${monitorHardFix ? ' monitor-card-hardfix' : ''}`;
 
   let imageMarkup = '';
-  if (monitorHardFix) {
+  if (item.cardImage) {
+    imageMarkup = `<img class="card-image" src="${item.cardImage}" alt="${item.title}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${item.image}'">`;
+  } else if (monitorHardFix) {
     const src = item.productImage || item.heroImages?.[0] || item.image;
     imageMarkup = src
       ? `<img class="card-image monitor-card-hardfix-image" src="${src}" alt="${item.title}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${item.image}'">`
