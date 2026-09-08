@@ -22,7 +22,7 @@ function card(item, kind){
     imageMarkup = `<img class="card-image" src="${item.productImage || item.image}" alt="${item.title}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${item.image}'">`;
   }
 
-  return `<a class="content-card searchable${monitorHardFix ? ' monitor-card-hardfix-card' : ''}" data-slug="${item.slug}" data-image-mode="${item.cardImageMode || ''}" data-text="${(item.title+' '+item.category+' '+item.excerpt).toLowerCase()}" href="article.html?slug=${item.slug}&kind=${kind}">
+  return `<a class="content-card searchable${monitorHardFix ? ' monitor-card-hardfix-card' : ''}" data-slug="${item.slug}" data-image-mode="${item.cardImageMode || ''}" data-text="${(item.title+' '+item.category+' '+item.excerpt).toLowerCase()}" href="articles/${item.slug}/">
     <div class="${cardArtClass}">
       ${imageMarkup}
       <span class="pill card-pill">${item.category}</span>

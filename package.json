@@ -1,0 +1,16 @@
+{
+  "name": "checkpoint-loadout",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-articles.cjs",
+    "test": "node scripts/test-articles.cjs",
+    "test:browser": "node scripts/test-browser.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0",
+    "jsdom": "26.1.0"
+  }
+}

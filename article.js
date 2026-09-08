@@ -25,7 +25,7 @@ function ensureMeta(selector, attrs) {
 
 const canonical = document.createElement('link');
 canonical.rel = 'canonical';
-canonical.href = 'https://checkpointloadout.com/article.html?slug=' + encodeURIComponent(model.slug || slug || '');
+canonical.href = 'https://checkpointloadout.com/articles/' + encodeURIComponent(model.slug || slug || '') + '/';
 document.head.appendChild(canonical);
 
 ensureMeta('meta[name="description"]', {name:'description', content:model.excerpt || model.quick || ''});
@@ -250,7 +250,7 @@ const related = explicitRelated.length
   : relatedPool.slice(0,3);
 if (relatedGrid) {
   relatedGrid.innerHTML = related.map(x => `
-    <a class="related-card" href="article.html?slug=${x.slug}">
+    <a class="related-card" href="articles/${x.slug}/">
       <div class="related-thumb">${(x.cardImage || x.heroImages?.[0] || x.productImage || x.image) ? `<img src="${x.cardImage || x.heroImages?.[0] || x.productImage || x.image}" alt="">` : ''}</div>
       <div><span class="pill">${x.category}</span><h3>${x.title}</h3><span class="more">Read next →</span></div>
     </a>`).join('');
@@ -285,7 +285,7 @@ const schema = {
 if (socialImage) schema.image = [new URL(socialImage, 'https://checkpointloadout.com/').href];
 const schemaScript = document.createElement('script');
 schemaScript.type = 'application/ld+json';
-schemaScript.textContent = JSON.stringify(schema);
+schemaScript.textContent = JSON.stringify(schema).replace(/</g, '\\u003c');
 document.head.appendChild(schemaScript);
 
 
@@ -301,6 +301,6 @@ if (faqItems.length) {
   };
   const faqSchemaScript = document.createElement('script');
   faqSchemaScript.type = 'application/ld+json';
-  faqSchemaScript.textContent = JSON.stringify(faqSchema);
+  faqSchemaScript.textContent = JSON.stringify(faqSchema).replace(/</g, '\\u003c');
   document.head.appendChild(faqSchemaScript);
 }
