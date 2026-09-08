@@ -70,8 +70,8 @@ Never put a GitHub access token directly into a public website.
 For a finished article:
 1. Export its JSON.
 2. Store it in the appropriate content folder in the repo.
-3. Add the entry to `content.js` for the homepage card.
-4. Push/commit the change.
+3. Add the full entry to `content.js`, the source of truth for published articles.
+4. Run `npm ci`, `npm run build` and `npm test`, then commit the content and generated `articles/` and `sitemap.xml` changes.
 5. GitHub Pages automatically republishes.
 
 The next development step is a secure CMS/backend that lets the admin page publish directly.

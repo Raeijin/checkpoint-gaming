@@ -1,0 +1,153 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>iRacing Wheel &amp; FFB Setup Guide 2026: Direct Drive, Clipping and Pedal Calibration — Checkpoint Loadout</title>
+<meta name="description" content="Set Wheel Force to the real wheelbase torque, enable Linear Mode for direct drive, use Auto after clean laps and set Brake Force Factor correctly for load-cell or potentiometer pedals.">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="theme-color" content="#07090d">
+<link rel="icon" href="../../assets/images/favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="../../site.webmanifest">
+<link rel="stylesheet" href="../../styles.css?v=20260827-6">
+<link rel="canonical" href="https://checkpointloadout.com/articles/iracing-wheel-ffb-setup-beginner-guide-2026/"><meta property="og:title" content="iRacing Wheel &amp; FFB Setup Guide 2026: Direct Drive, Clipping and Pedal Calibration — Checkpoint Loadout"><meta property="og:description" content="Set Wheel Force to the real wheelbase torque, enable Linear Mode for direct drive, use Auto after clean laps and set Brake Force Factor correctly for load-cell or potentiometer pedals."><meta property="og:type" content="article"><meta property="og:url" content="https://checkpointloadout.com/articles/iracing-wheel-ffb-setup-beginner-guide-2026/"><meta name="twitter:card" content="summary_large_image"><meta property="og:image" content="https://mediapool.bmwgroup.com/download/edown/pressclub/publicq?actEvent=scaleBig&amp;attachment=1&amp;dokNo=P90651323&amp;quality=90&amp;square=0"><meta name="twitter:image" content="https://mediapool.bmwgroup.com/download/edown/pressclub/publicq?actEvent=scaleBig&amp;attachment=1&amp;dokNo=P90651323&amp;quality=90&amp;square=0"><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"iRacing Wheel & FFB Setup Guide 2026: Direct Drive, Clipping and Pedal Calibration","description":"Set Wheel Force to the real wheelbase torque, enable Linear Mode for direct drive, use Auto after clean laps and set Brake Force Factor correctly for load-cell or potentiometer pedals.","dateModified":"2026-08-27","mainEntityOfPage":"https://checkpointloadout.com/articles/iracing-wheel-ffb-setup-beginner-guide-2026/","publisher":{"@type":"Organization","name":"Checkpoint Loadout","url":"https://checkpointloadout.com"},"image":["https://mediapool.bmwgroup.com/download/edown/pressclub/publicq?actEvent=scaleBig&attachment=1&dokNo=P90651323&quality=90&square=0"]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should Wheel Force be in iRacing?","acceptedAnswer":{"@type":"Answer","text":"For direct drive, set Wheel Force to the manufacturer’s real wheelbase torque rating. It describes the hardware capability rather than how strong you personally want the steering to feel."}},{"@type":"Question","name":"Should I enable Linear Mode with direct drive?","acceptedAnswer":{"@type":"Answer","text":"Yes. iRacing’s official beginner guidance recommends Use Linear Mode for direct-drive wheels."}},{"@type":"Question","name":"What Brake Force Factor should I use for load-cell pedals?","acceptedAnswer":{"@type":"Answer","text":"Use 0.00. iRacing recommends the non-linear 1.60–2.00 range for common potentiometer pedals instead."}},{"@type":"Question","name":"How do I stop iRacing FFB clipping?","acceptedAnswer":{"@type":"Answer","text":"Drive clean representative laps, use Auto as a starting point, and watch the F meter. If it sits at maximum frequently, reduce strength/increase Max Force until strong events keep variation."}},{"@type":"Question","name":"Where did the advanced FFB settings go in Season 3?","acceptedAnswer":{"@type":"Answer","text":"The 2026 Season 3 build added a dedicated Force Feedback and Haptics settings page, so older screenshots may show a different layout."}},{"@type":"Question","name":"Do I need Min Force on a direct-drive wheel?","acceptedAnswer":{"@type":"Answer","text":"Usually little or none. Min Force is more useful for weaker wheels with a mechanical dead zone around center."}}]}</script></head>
+<body data-article-slug="iracing-wheel-ffb-setup-beginner-guide-2026" data-article-mode="setup">
+<header class="topbar">
+  <div class="wrap nav">
+    <a class="logo" href="../../index.html"><span class="logo-mark">CL</span><span class="logo-word">CHECKPOINT <b>LOADOUT</b></span></a>
+    <nav><a href="../../index.html#reviews">Reviews</a><a href="../../index.html#buying">Buying Guides</a><a href="../../index.html#games">Game Guides</a></nav>
+  </div>
+</header>
+
+<main id="articleRoot" class="article-page">
+  <section class="article-hero">
+    <div class="wrap narrow">
+      <div class="breadcrumbs"><a href="../../index.html">Home</a><span>/</span><span id="crumbType">SIM RACING SETUP GUIDE</span></div>
+      <span id="articleTag" class="pill">SIM RACING SETUP GUIDE</span>
+      <h1 id="articleTitle">iRacing Wheel &amp; FFB Setup Guide 2026: Direct Drive, Clipping and Pedal Calibration</h1>
+      <p id="articleIntro" class="deck">Set Wheel Force to the real wheelbase torque, enable Linear Mode for direct drive, use Auto after clean laps and set Brake Force Factor correctly for load-cell or potentiometer pedals.</p>
+      <div class="article-meta"><span id="articleUpdated">Checked 27 August 2026</span><span>•</span><span id="articleRead">18 MIN</span><span>•</span><span id="researchStatus">Updated for 2026 Season 3</span></div><div id="articleHeroGallery" class="article-hero-gallery" data-count="1"><figure class="article-product-shot"><img src="https://mediapool.bmwgroup.com/download/edown/pressclub/publicq?actEvent=scaleBig&amp;attachment=1&amp;dokNo=P90651323&amp;quality=90&amp;square=0" alt="iRacing Wheel &amp; FFB Setup Guide 2026: Direct Drive, Clipping and Pedal Calibration visual 1" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='../../assets/images/iracing-setup-fallback.jpg'"></figure></div>
+    </div>
+  </section>
+  <div class="wrap article-layout">
+    <aside class="toc">
+      <strong>ON THIS PAGE</strong>
+      <a href="#quick">Quick answer</a>
+      <a href="#decision">Setup checklist</a>
+      <a href="#specsSection">Key specs</a>
+      <a href="#main">Main guide</a>
+      <a href="#faqSection">FAQ</a>
+      <a href="#pick" hidden="">What to buy / use</a>
+      <a href="#related">Related articles</a><a href="#sourcesSection">Sources</a>
+    </aside>
+    <article class="article-content">
+      <div id="quick" class="callout"><strong>Quick answer</strong><p id="quickText">Calibrate the wheel and pedals first. For direct drive, set Wheel Force to the manufacturer’s real torque rating and enable Use Linear Mode. After several clean laps, use Auto as a starting point for FFB strength and watch the F meter for clipping. Load-cell pedals should use Brake Force Factor 0; common potentiometer pedals are generally 1.60–2.00.</p></div>
+      <section id="decision" class="decision-section">
+        <div class="decision-grid">
+          <div class="decision-card good"><span class="decision-label" id="buyIfLabel">START WITH</span><ul id="buyIfList"><li>Run iRacing’s calibration wizard whenever you add or change hardware</li><li>For direct drive, enter the wheelbase’s actual torque in Wheel Force and use Linear Mode</li><li>Use the F meter and Auto function to tune strength from real driving rather than guessing</li></ul></div>
+          <div class="decision-card caution"><span class="decision-label" id="skipIfLabel">AVOID</span><ul id="skipIfList"><li>Do not enter an invented Wheel Force number just because a profile feels heavy</li><li>Do not use potentiometer Brake Force Factor values on a load-cell pedal</li><li>Do not turn up FFB until the meter clips constantly just to make the wheel feel stronger</li></ul></div>
+        </div>
+      </section>
+      <section id="specsSection" class="specs-section"><span class="kicker">STARTING POINT</span><h2>Settings &amp; checks at a glance</h2><div class="spec-table-wrap"><table class="spec-table"><tbody id="specTableBody"><tr><th>Current context</th><td>2026 Season 3</td></tr><tr><th>Direct-drive Wheel Force</th><td>Use manufacturer torque rating</td></tr><tr><th>Direct-drive Linear Mode</th><td>On</td></tr><tr><th>Load-cell Brake Force Factor</th><td>0.00</td></tr><tr><th>Potentiometer Brake Force Factor</th><td>Typically 1.60–2.00</td></tr><tr><th>Strength tuning</th><td>Use Auto after clean representative laps</td></tr><tr><th>Clipping indicator</th><td>F meter reaches/holds maximum</td></tr></tbody></table></div></section>
+      <div id="main"><h2>Run the calibration wizard first</h2><p>iRacing’s control wizard establishes steering range and pedal endpoints. Do this before copying force-feedback values. A brake that never reaches 100% or a wheel with the wrong center will make every later setting harder to diagnose.</p>
+<h2>Direct drive: Wheel Force is a hardware fact</h2><p>iRacing’s official guidance is to set <strong>Wheel Force</strong> to the manufacturer’s listed capability and enable <strong>Use Linear Mode</strong> for direct-drive hardware. That means 5.5 Nm for an R5, 6 Nm for an R5 Pro, 8 Nm for an 8 Nm base, and so on.</p>
+<h2>Strength and Max Force are the tuning control</h2><p>Strength is preference-dependent. Drive several representative clean laps and use iRacing’s Auto function as a useful starting point. Then make small changes rather than treating somebody else’s number as a universal optimum.</p>
+<h2>Watch the F meter for clipping</h2><p>If the F meter repeatedly fills at maximum during normal cornering, the sim is asking the wheel for more force than the configured range can reproduce. Reduce strength/increase Max Force until strong events retain variation.</p>
+<h2>Brake Force Factor: load cell versus potentiometer</h2><p>iRacing recommends <strong>0.00</strong> for load-cell pedals. Common potentiometer pedal sets typically use around <strong>1.60–2.00</strong>. This is one of the most important “what kind of pedal do I own?” checks in the entire setup.</p>
+<h2>Season 3 reorganised FFB settings</h2><p>The 2026 Season 3 build added a dedicated Force Feedback and Haptics settings page while leaving basic controls accessible from the driving page. If an old tutorial points you to a menu that looks different, the setting may simply have moved.</p>
+<h2>Min Force is mainly for weaker wheels</h2><p>Min Force can help gear- or belt-driven wheels overcome a physical dead zone around center. Direct-drive wheels generally do not need the same compensation.</p></div>
+
+      <section id="faqSection" class="faq-section">
+        <div class="related-heading"><span class="kicker">COMMON QUESTIONS</span><h2>Frequently asked questions</h2></div>
+        <div id="faqList" class="faq-list">
+    <details class="faq-item" open="">
+      <summary>What should Wheel Force be in iRacing?</summary>
+      <div class="faq-answer"><p>For direct drive, set Wheel Force to the manufacturer’s real wheelbase torque rating. It describes the hardware capability rather than how strong you personally want the steering to feel.</p></div>
+    </details>
+    <details class="faq-item">
+      <summary>Should I enable Linear Mode with direct drive?</summary>
+      <div class="faq-answer"><p>Yes. iRacing’s official beginner guidance recommends Use Linear Mode for direct-drive wheels.</p></div>
+    </details>
+    <details class="faq-item">
+      <summary>What Brake Force Factor should I use for load-cell pedals?</summary>
+      <div class="faq-answer"><p>Use 0.00. iRacing recommends the non-linear 1.60–2.00 range for common potentiometer pedals instead.</p></div>
+    </details>
+    <details class="faq-item">
+      <summary>How do I stop iRacing FFB clipping?</summary>
+      <div class="faq-answer"><p>Drive clean representative laps, use Auto as a starting point, and watch the F meter. If it sits at maximum frequently, reduce strength/increase Max Force until strong events keep variation.</p></div>
+    </details>
+    <details class="faq-item">
+      <summary>Where did the advanced FFB settings go in Season 3?</summary>
+      <div class="faq-answer"><p>The 2026 Season 3 build added a dedicated Force Feedback and Haptics settings page, so older screenshots may show a different layout.</p></div>
+    </details>
+    <details class="faq-item">
+      <summary>Do I need Min Force on a direct-drive wheel?</summary>
+      <div class="faq-answer"><p>Usually little or none. Min Force is more useful for weaker wheels with a mechanical dead zone around center.</p></div>
+    </details></div>
+      </section>
+      <section id="pick" hidden="">
+        <div class="related-heading"><span class="kicker">BUYING OPTIONS</span><h2>Recommended picks</h2></div>
+        <div id="recommendationGrid" class="recommendation-grid"></div>
+        <div id="legacyProductBox" class="product-box" hidden="">
+          <div class="product-thumb"><img id="productImage" src="" alt="" hidden=""><span id="productPlaceholder" hidden="">PRODUCT</span></div>
+          <div>
+            <span class="pill">TOP PICK</span>
+            <h3 id="productName"></h3>
+            <p id="productWhy"></p>
+            <div class="buy-row">
+              <a id="affiliateBtn" class="btn primary" href="" rel="sponsored nofollow">Check price →</a>
+              <small id="affiliateNote">Affiliate link — we may earn a commission</small>
+            </div>
+          </div>
+        </div>
+        <p id="amazonPriceNote" class="amazon-price-note" hidden="">Amazon prices and availability change frequently, so we show a current Amazon UK link rather than copying a price that may be stale.</p>
+      </section>
+
+      <section id="related" class="related-section">
+        <div class="related-heading"><span class="kicker">KEEP READING</span><h2>Related articles</h2></div>
+        <div id="relatedGrid" class="related-grid">
+    <a class="related-card" href="../../articles/sim-racing-wheel-troubleshooting-faq-2026/">
+      <div class="related-thumb"><img src="https://assettocorsa.gg/wp-content/uploads/ACE_EA09-2-1920x1080.jpg" alt=""></div>
+      <div><span class="pill">SIM RACING FAQ</span><h3>Sim Racing Wheel Troubleshooting FAQ: No FFB, Clipping, Oscillation, Pedals and Detection Fixes</h3><span class="more">Read next →</span></div>
+    </a>
+    <a class="related-card" href="../../articles/beginner-sim-racing-setup-2026/">
+      <div class="related-thumb"><img src="https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&amp;width=1000" alt=""></div>
+      <div><span class="pill">SIM RACING BUYING GUIDE</span><h3>Beginner Sim Racing Setup 2026: Where To Spend Your Money First</h3><span class="more">Read next →</span></div>
+    </a>
+    <a class="related-card" href="../../articles/load-cell-pedals-first-upgrade/">
+      <div class="related-thumb"><img src="https://uk.mozaracing.com/cdn/shop/files/MOZA_SRP2_Pedals_Throttle_Brake_-1_ea85807a-cb31-4048-b3cf-e59ceeb13e65.png?v=1774429530&amp;width=2000" alt=""></div>
+      <div><span class="pill">SIM RACING BUYING GUIDE</span><h3>Why Load-Cell Pedals Should Usually Be Your First Serious Sim-Racing Upgrade</h3><span class="more">Read next →</span></div>
+    </a></div>
+      </section>
+      <section id="sourcesSection" class="sources-section">
+        <span class="kicker">RESEARCH</span>
+        <h2>Sources</h2>
+        <p class="source-intro">Key specifications and factual claims are checked against manufacturer or primary-source material where available.</p>
+        <ul id="sourcesList" class="sources-list"><li><a href="https://support.iracing.com/support/solutions/articles/31000133335" target="_blank" rel="noopener noreferrer">iRacing — Controller Setup and Calibration</a></li><li><a href="https://support.iracing.com/support/solutions/articles/31000168572" target="_blank" rel="noopener noreferrer">iRacing — Beginner Setup Guide</a></li><li><a href="https://support.iracing.com/support/solutions/articles/31000179016-2026-season-3-initial-release-notes-2026-06-09-01-" target="_blank" rel="noopener noreferrer">iRacing — 2026 Season 3 release notes</a></li><li><a href="https://www.iracing.com/seasons/2026-s3/" target="_blank" rel="noopener noreferrer">iRacing — 2026 Season 3 overview</a></li></ul>
+      </section>
+      <section class="methodology-section">
+        <span class="kicker">HOW WE WRITE</span>
+        <h2>About this article</h2>
+        <p>This page is a researched guide or comparison, not a claim of hands-on testing unless we explicitly say otherwise. Product specifications and availability can change, so important buying details are checked against current source material when the article is updated. Affiliate availability does not determine the underlying recommendation.</p>
+      </section>
+    </article>
+  </div>
+</main>
+<footer>
+  <div class="wrap footer">
+    <div>
+      <a class="logo" href="../../index.html"><span class="logo-mark">CL</span><span class="logo-word">CHECKPOINT <b>LOADOUT</b></span></a>
+      <p class="footer-tagline">Gear guides, sim racing and game guides without the filler.</p>
+    </div>
+    <div class="footer-links">
+      <a href="../../about.html">About</a>
+      <a href="../../contact.html">Contact</a>
+      <a href="../../methodology.html">How we review</a>
+      <a href="../../affiliate-disclosure.html">Affiliate Disclosure</a>
+      <a href="../../privacy.html">Privacy</a>
+    </div>
+    <p>© 2026 Checkpoint Loadout</p>
+  </div>
+</footer>
+
+
+
+</body></html>
