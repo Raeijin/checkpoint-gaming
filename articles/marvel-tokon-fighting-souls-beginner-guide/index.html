@@ -7,7 +7,7 @@
 <meta name="theme-color" content="#07090d">
 <link rel="icon" href="../../assets/images/favicon.svg" type="image/svg+xml">
 <link rel="manifest" href="../../site.webmanifest">
-<link rel="stylesheet" href="../../styles.css?v=20260827-6">
+<link rel="stylesheet" href="../../styles.css?v=20260913-1">
 <link rel="canonical" href="https://checkpointloadout.com/articles/marvel-tokon-fighting-souls-beginner-guide/"><meta property="og:title" content="Marvel Tōkon: Fighting Souls Beginner Guide: The Fastest Way to Learn Your First Team — Checkpoint Loadout"><meta property="og:description" content="Start with Startup Battle, learn Link Attacks and defense, then add assists and direct switching without trying to master four characters at once."><meta property="og:type" content="article"><meta property="og:url" content="https://checkpointloadout.com/articles/marvel-tokon-fighting-souls-beginner-guide/"><meta name="twitter:card" content="summary_large_image"><meta property="og:image" content="https://blog.playstation.com/tachyon/2026/02/0d83e0175f979a2356ea38106bc8c8a6c209a935.jpg?crop_strategy=smart&amp;resize=1088%2C612"><meta name="twitter:image" content="https://blog.playstation.com/tachyon/2026/02/0d83e0175f979a2356ea38106bc8c8a6c209a935.jpg?crop_strategy=smart&amp;resize=1088%2C612"><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Marvel Tōkon: Fighting Souls Beginner Guide: The Fastest Way to Learn Your First Team","description":"Start with Startup Battle, learn Link Attacks and defense, then add assists and direct switching without trying to master four characters at once.","dateModified":"2026-08-27","mainEntityOfPage":"https://checkpointloadout.com/articles/marvel-tokon-fighting-souls-beginner-guide/","publisher":{"@type":"Organization","name":"Checkpoint Loadout","url":"https://checkpointloadout.com"},"image":["https://blog.playstation.com/tachyon/2026/02/0d83e0175f979a2356ea38106bc8c8a6c209a935.jpg?crop_strategy=smart&resize=1088%2C612"]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I need to master four characters before playing?","acceptedAnswer":{"@type":"Answer","text":"No. Start with one lead character and treat the rest of the team as a small set of assists and switches. Expand their individual move knowledge over time."}},{"@type":"Question","name":"What is Startup Battle?","acceptedAnswer":{"@type":"Answer","text":"It is the built-in tutorial. Basics teaches individual actions and Assemble teaches the team mechanics that are central to Tōkon."}},{"@type":"Question","name":"Are Quick Skills bad?","acceptedAnswer":{"@type":"Answer","text":"No. They are an intended control option. Use the input method you can execute consistently, then experiment with command inputs when the rest of your game is stable."}},{"@type":"Question","name":"What are Link Attacks?","acceptedAnswer":{"@type":"Answer","text":"They are beginner-friendly combo sequences created by chaining repeated Light, Medium or Heavy attacks. They provide a reliable starting route while you learn neutral and team play."}},{"@type":"Question","name":"When should I call an assist?","acceptedAnswer":{"@type":"Answer","text":"Call an assist for a reason — to cover an approach, extend pressure or convert a hit. Random assist calls are easier for an opponent to punish."}},{"@type":"Question","name":"What should I learn before ranked play?","acceptedAnswer":{"@type":"Answer","text":"One reliable combo, basic standing/crouching guard, an anti-air answer, one assist, one direct switch and enough training-mode familiarity to recreate situations that beat you."}}]}</script></head>
 <body data-article-slug="marvel-tokon-fighting-souls-beginner-guide" data-article-mode="game">
 <header class="topbar">
@@ -150,6 +150,48 @@
   </div>
 </footer>
 
+
+<!-- Presentation only: retained in static output; content never depends on this. -->
+<script>
+(() => {
+  const start = () => {
+    const article = document.querySelector('.article-content');
+    const links = [...document.querySelectorAll('.toc a[href^="#"]')];
+    const sections = links.map(link => document.getElementById(link.hash.slice(1)));
+    if (!article) return;
+    const progress = document.createElement('div');
+    progress.className = 'reading-progress';
+    progress.setAttribute('aria-hidden', 'true');
+    document.body.append(progress);
+    let queued = false;
+    const update = () => {
+      queued = false;
+      const top = document.querySelector('.topbar').getBoundingClientRect().bottom + 24;
+      const bounds = article.getBoundingClientRect();
+      const distance = Math.max(1, bounds.height - innerHeight + top);
+      const value = Math.min(1, Math.max(0, (top - bounds.top) / distance));
+      progress.style.transform = `scaleX(${value})`;
+      let active = -1;
+      sections.forEach((section, index) => {
+        if (section && section.getClientRects().length && section.getBoundingClientRect().top <= top + 24) active = index;
+      });
+      links.forEach((link, index) => {
+        if (index === active) link.setAttribute('aria-current', 'location');
+        else link.removeAttribute('aria-current');
+      });
+    };
+    const schedule = () => {
+      if (!queued) { queued = true; requestAnimationFrame(update); }
+    };
+    addEventListener('scroll', schedule, { passive: true });
+    addEventListener('resize', schedule, { passive: true });
+    if ('ResizeObserver' in window) new ResizeObserver(schedule).observe(article);
+    update();
+  };
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start, { once: true });
+  else start();
+})();
+</script>
 
 
 </body></html>
