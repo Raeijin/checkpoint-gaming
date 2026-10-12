@@ -165,13 +165,15 @@ if (articleMode === 'setup' && recs.length) {
   if (pickToc) pickToc.textContent = 'Relevant hardware';
 }
 function buttonText(url){
+  if (url.includes('amzn.to/')) return 'Check Amazon listing →';
+  if (url.includes('amazon.co.uk/s?')) return 'Search Amazon UK →';
   if (url.includes('amazon.co.uk')) return 'Check on Amazon UK →';
   if (url.includes('uk.mozaracing.com')) return 'View at MOZA UK →';
   if (url.includes('fanatec.com')) return 'View at Fanatec →';
   return 'View product →';
 }
 function affiliateLabel(url){
-  return (url.includes('amazon.co.uk') || (url.includes('uk.mozaracing.com') && url.includes('ref=AIDANKING')))
+  return (url.includes('amzn.to/') || url.includes('amazon.co.uk') || (url.includes('uk.mozaracing.com') && url.includes('ref=AIDANKING')))
     ? 'Affiliate link — we may earn a commission' : 'Official product page';
 }
 if (recs.length) {
@@ -187,7 +189,7 @@ if (recs.length) {
       <div class="recommendation-copy"><span class="pill">${r.label || (i===0 ? 'TOP PICK' : 'ALTERNATIVE')}</span><h3>${r.name}</h3><p>${r.why || ''}</p>
       <div class="buy-row"><a class="btn primary" href="${r.url}" rel="sponsored nofollow">${buttonText(r.url || '')}</a><small>${affiliateLabel(r.url || '')}</small></div></div>
     </article>`).join('');
-  if (recs.some(r => (r.url || '').includes('amazon.co.uk'))) amazonPriceNote.hidden = false;
+  if (recs.some(r => /amazon\.co\.uk|amzn\.to/.test(r.url || ''))) amazonPriceNote.hidden = false;
 } else {
   const url = model.affiliate_url || '';
   const hasRealLegacyPick = Boolean(model.product && url && url !== '#' && !model.hideProduct);
@@ -216,7 +218,7 @@ if (recs.length) {
       placeholder.hidden = false;
     }
 
-    if (url.includes('amazon.co.uk')) amazonPriceNote.hidden = false;
+    if (/amazon\.co\.uk|amzn\.to/.test(url)) amazonPriceNote.hidden = false;
   } else {
     legacyProductBox.hidden = true;
   }
@@ -274,7 +276,6 @@ const schema = {
   "@type": "Article",
   "headline": model.title,
   "description": model.excerpt || model.quick || "",
-  "dateModified": "2026-08-27",
   "mainEntityOfPage": canonical.href,
   "publisher": {
     "@type": "Organization",
@@ -282,6 +283,8 @@ const schema = {
     "url": "https://checkpointloadout.com"
   }
 };
+// Only emit a recorded editorial update, never a fixed date for every article.
+if (/^\d{4}-\d{2}-\d{2}$/.test(model.dateModified || '')) schema.dateModified = model.dateModified;
 if (socialImage) schema.image = [new URL(socialImage, 'https://checkpointloadout.com/').href];
 const schemaScript = document.createElement('script');
 schemaScript.type = 'application/ld+json';
