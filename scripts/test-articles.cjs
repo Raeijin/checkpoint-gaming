@@ -57,6 +57,18 @@ for (const item of items) {
   const schemas = [...doc.querySelectorAll('script[type="application/ld+json"]')].map(el => JSON.parse(el.textContent));
   assert.equal(schemas.find(s => s['@type'] === 'Article').headline, item.title);
   assert.equal(schemas.find(s => s['@type'] === 'Article').mainEntityOfPage, url);
+  assert.equal(schemas.find(s => s['@type'] === 'Article').dateModified, item.dateModified);
+  assert(doc.querySelector('.article-content > .source-intro a[href="../../affiliate-disclosure.html"]'));
+  for (const card of doc.querySelectorAll('.recommendation-card')) {
+    const button = card.querySelector('a.btn');
+    const href = button.getAttribute('href');
+    if (href.includes('amzn.to/')) {
+      assert.equal(button.textContent, 'Check Amazon listing →');
+      assert(card.textContent.includes('Affiliate link — we may earn a commission'));
+      assert(!doc.querySelector('#amazonPriceNote').hidden);
+    }
+    if (href.includes('amazon.co.uk/s?')) assert.equal(button.textContent, 'Search Amazon UK →');
+  }
   assert.equal(doc.querySelectorAll('.faq-item').length, item.faq?.length || 0);
   for (const [question, answer] of item.faq || []) {
     assert(doc.querySelector('#faqList').textContent.includes(text(question)));

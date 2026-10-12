@@ -306,12 +306,12 @@ window.CHECKPOINT_CONTENT = {
       ],
       "productImage": "https://uk.mozaracing.com/cdn/shop/files/moza_r5_pro_bundle_1.png?v=1785493948&width=2000",
       "category": "SIM RACING COMPARISON",
-      "title": "MOZA R5 vs R5 Pro: What Does the New 6 Nm Bundle Actually Improve?",
-      "excerpt": "The newer R5 Pro adds more than half a Newton metre: the encoder and force-feedback generation also change.",
+      "title": "MOZA R5 vs R5 Pro: Which One Is Worth Buying?",
+      "excerpt": "R5 or R5 Pro? Compare the original 5.5 Nm bundle with the 6 Nm Pro, included pedals and the upgrade cost for new buyers and existing R5 owners.",
       "score": "11 MIN",
       "art": "sim",
-      "quick": "The R5 Pro is the better buy when the price gap is modest. It moves from 5.5 Nm to 6 Nm, uses a 21-bit magnetic encoder and MOZA's newer NexGen 5.0 force-feedback system.",
-      "body": "\n        <h2>R5 versus R5 Pro in one sentence</h2>\n        <p>The R5 Pro is an evolutionary update rather than a completely different class of wheelbase.</p>\n        <h2>Torque</h2>\n        <p>The standard R5 is rated at 5.5 Nm peak torque. The R5 Pro increases that to 6 Nm. That is not a dramatic leap by itself, but it adds a little more headroom before force-feedback clipping.</p>\n        <h2>Encoder and feedback system</h2>\n        <p>MOZA lists the standard R5 with a 15-bit encoder and NexGen 4.0 force feedback. The R5 Pro moves to a 21-bit magnetic encoder and NexGen 5.0.</p>\n        <h2>Bundle contents</h2>\n        <p>The R5 Pro bundle includes the compact 6 Nm base, ES Lite steering wheel and SR-P Lite2 pedals. It remains aimed at buyers who want a complete starter system rather than building a wheelbase, wheel and pedals separately.</p>\n        <h2>Verdict</h2>\n        <p>If the R5 is heavily discounted, it can still be the value choice. At similar pricing, the R5 Pro is the version to buy because the improvements are broader than the small torque increase suggests.</p><h2>Is 0.5 Nm worth upgrading for?</h2><p>Not by itself. An existing R5 owner should not expect the move from 5.5 to 6 Nm to transform the experience. The R5 Pro is more compelling as a new purchase because the encoder and force-feedback generation also move forward.</p><h2>Who should keep buying the older R5?</h2><p>A meaningful clearance discount can still make the R5 excellent value. If the saving pays for a firmer wheel stand or a better brake pedal, the older bundle may produce the stronger overall setup.</p><h2>Who should skip both?</h2><p>If you already know you want a rigid cockpit and stronger steering, compare the R9 class before spending repeatedly on small torque steps. The sweet spot is not the same for a first-time desk racer and someone building a permanent rig.</p><h2>New buyer versus existing R5 owner</h2><p>The R5 Pro is easier to justify for a new buyer than as an upgrade from an existing R5. An owner already at 5.5 Nm will usually get more from pedals, mounting or a different wheel than replacing the entire bundle for a 0.5 Nm torque increase. New buyers should compare live bundle pricing and take the Pro when the gap is modest.</p>",
+      "quick": "For a new PC buyer, favour the R5 Pro when its delivered price is close to the R5 and its delivery date works for you. Keep an existing R5 unless you have a specific reason to replace it: the small torque step alone is hard to justify. A discounted R5 can leave more budget for stable mounting or pedals.",
+      "body": "\n        <h2>R5 versus R5 Pro in one sentence</h2>\n        <p>The R5 Pro is an evolutionary update rather than a completely different class of wheelbase.</p>\n        <h2>Torque</h2>\n        <p>The standard R5 is rated at 5.5 Nm peak torque. The R5 Pro increases that to 6 Nm. The numerical increase is small; it is not evidence of a dramatic improvement in driving performance.</p>\n        <h2>Encoder and feedback system</h2>\n        <p>MOZA lists the standard R5 with a 15-bit encoder and NexGen 4.0 force feedback. The R5 Pro moves to a 21-bit magnetic encoder and NexGen 5.0.</p>\n        <h2>Bundle contents</h2>\n        <p>The R5 Pro bundle includes the compact 6 Nm base, ES Lite steering wheel and SR-P Lite2 pedals. It remains aimed at buyers who want a complete starter system rather than building a wheelbase, wheel and pedals separately.</p>\n        <h2>Verdict</h2>\n        <p>If the R5 is heavily discounted, it can still be the value choice. At similar delivered pricing, the R5 Pro is our preference for a new buyer, provided the quoted dispatch date suits you.</p><h2>Is 0.5 Nm worth upgrading for?</h2><p>Not by itself. An existing R5 owner should not expect the move from 5.5 to 6 Nm to transform the experience. The R5 Pro is more compelling as a new purchase because the encoder and force-feedback generation also move forward.</p><h2>Who should keep buying the older R5?</h2><p>A meaningful clearance discount can still make the R5 excellent value. If the saving pays for a firmer wheel stand or a better brake pedal, the older bundle may produce the stronger overall setup.</p><h2>Who should skip both?</h2><p>If you already know you want a rigid cockpit and stronger steering, compare the R9 class before spending repeatedly on small torque steps. The sweet spot is not the same for a first-time desk racer and someone building a permanent rig.</p><h2>New buyer versus existing R5 owner</h2><p>The R5 Pro is easier to justify for a new buyer than as an upgrade from an existing R5. An owner already at 5.5 Nm will usually get more from pedals, mounting or a different wheel than replacing the entire bundle for a 0.5 Nm torque increase. New buyers should compare live bundle pricing and take the Pro when the gap is modest.</p><h2>SR-P Lite2 is not SRP2</h2><p>The Pro bundle includes SR-P Lite2 Hall-sensor pedals. Do not mistake the similar name for the separate SRP2 load-cell set. A newer bundle does not automatically give you pressure-based braking.</p><h2>Check delivery as well as the price gap</h2><p>A modest price premium is less useful if the newer bundle arrives too late for you. Compare the product-specific dispatch estimate, delivery destination and return terms on both listings. We do not treat an order button as a promise of immediate stock.</p><h2>Where should an R5 owner spend next?</h2><p>If the wheel is doing what you need, use the <a href=\"articles/best-upgrades-for-moza-r5-r5-pro/\">R5 upgrade priority guide</a> to identify the weak point. For the specific original-pedal replacement decision, see <a href=\"articles/moza-srp-lite-vs-srp2/\">SR-P Lite vs SRP2</a>. Spend on a problem you can describe rather than replacing a working bundle to gain half a newton metre.</p>",
       "product": "MOZA R5 Pro Racing Simulator",
       "productWhy": "The updated 6 Nm entry bundle with a higher-resolution encoder and newer feedback system.",
       "affiliate_url": "https://uk.mozaracing.com/products/r5-pro-bundle?ref=AIDANKING",
@@ -323,9 +323,13 @@ window.CHECKPOINT_CONTENT = {
         [
           "MOZA R5 UK",
           "https://uk.mozaracing.com/products/r5-racing-bundle?ref=AIDANKING"
+        ],
+        [
+          "MOZA R5 Pro specifications and bundle contents",
+          "https://uk.mozaracing.com/products/r5-pro-bundle"
         ]
       ],
-      "lastChecked": "20 August 2026",
+      "lastChecked": "12 October 2026",
       "researchStatus": "Research-backed",
       "buyIf": [
         "The R5 Pro price is close to the older R5",
@@ -357,6 +361,18 @@ window.CHECKPOINT_CONTENT = {
         [
           "R5 Pro USB refresh",
           "1000Hz"
+        ],
+        [
+          "Original R5 bundle",
+          "ES wheel + SR-P Lite throttle/brake"
+        ],
+        [
+          "R5 Pro bundle",
+          "ES Lite wheel + SR-P Lite2 throttle/brake"
+        ],
+        [
+          "Platform",
+          "Windows PC; neither standard bundle is a PlayStation bundle"
         ]
       ],
       "recommendations": [
@@ -376,7 +392,13 @@ window.CHECKPOINT_CONTENT = {
           "image": "https://uk.mozaracing.com/cdn/shop/files/r5_racing_bundle_pc_0803.png?v=1785733268&width=1000",
           "fallbackImage": "assets/images/r5-vs-r5pro.svg"
         }
-      ]
+      ],
+      "relatedSlugs": [
+        "moza-srp-lite-vs-srp2",
+        "best-upgrades-for-moza-r5-r5-pro",
+        "moza-r5-vs-logitech-g923"
+      ],
+      "dateModified": "2026-10-12"
     },
     {
       "slug": "moza-r9-v3-vs-r12-v2",
@@ -535,7 +557,7 @@ window.CHECKPOINT_CONTENT = {
       "score": "12 MIN",
       "art": "sim",
       "quick": "For most first serious pedal upgrades, the SRP2 is the value pick. The CRP2 is for a more serious rigid rig where its premium construction and deeper tuning range will actually be used.",
-      "body": "<h2>Which makes more sense?</h2><p>The SRP2 is the easier first serious pedal upgrade for most buyers. The CRP2 is aimed at rigs where premium construction and deeper adjustment are worth paying for.</p><h2>Who should buy SRP2?</h2><p>Buy it when you want a meaningful braking upgrade without immediately jumping to flagship-pedal pricing.</p><h2>Who should buy CRP2?</h2><p>Buy it when the rest of your cockpit is already strong enough to take advantage of a higher-end pedal set.</p><h2>The decision is really about the rest of the rig</h2><p>Pedals translate leg force into braking input, so mounting rigidity matters enormously. A premium pedal set on a sliding floor plate is wasted hardware. Before choosing CRP2 over SRP2, make sure the seat, pedal deck and driving position can handle harder and more repeatable braking.</p><h2>Why braking upgrades can beat wheel upgrades</h2><p>More wheel torque makes the car feel stronger, but a better brake can directly improve repeatability into corners. Learning to hit a similar pressure point lap after lap is one of the clearest reasons serious sim racers move beyond light position-based starter brakes.</p><h2>SRP2 or CRP2?</h2><p>Start with SRP2 when you want the functional jump without paying for maximum adjustability. Move to CRP2 when you already know you care about pedal geometry, feel tuning and a more premium mechanical platform—and you have the cockpit to use it properly.</p><h2>Adjustment only matters if you use it</h2><p>Premium pedals earn their price through mechanical range: pedal angle, spacing, resistance, travel and brake feel can be tuned around the driver's body and cockpit. If you prefer to bolt the pedals down once and never touch them again, some of the CRP2's value proposition disappears.</p><h2>Think about footwear and driving position</h2><p>A very stiff brake that feels excellent in shoes can be uncomfortable in socks, and a pedal angle that works in a formula seating position can feel wrong at a desk. Set the pedal decision around how you actually drive rather than copying someone else's resistance settings.</p><h2>Bottom line</h2><p>SRP2 is the pragmatic performance upgrade. CRP2 is the enthusiast choice for a driver who already has a rigid cockpit and wants to tune pedal feel as carefully as wheelbase settings.</p>",
+      "body": "<h2>Which makes more sense?</h2><p>The SRP2 is the easier first serious pedal upgrade for most buyers. The CRP2 is aimed at rigs where premium construction and deeper adjustment are worth paying for.</p><h2>Who should buy SRP2?</h2><p>Buy it when you want a meaningful braking upgrade without immediately jumping to flagship-pedal pricing.</p><h2>Who should buy CRP2?</h2><p>Buy it when the rest of your cockpit is already strong enough to take advantage of a higher-end pedal set.</p><h2>The decision is really about the rest of the rig</h2><p>Pedals translate leg force into braking input, so mounting rigidity matters enormously. A premium pedal set on a sliding floor plate is wasted hardware. Before choosing CRP2 over SRP2, make sure the seat, pedal deck and driving position can handle harder and more repeatable braking.</p><h2>Why braking upgrades can beat wheel upgrades</h2><p>More wheel torque makes the car feel stronger, but a better brake can directly improve repeatability into corners. Learning to hit a similar pressure point lap after lap is one of the clearest reasons serious sim racers move beyond light position-based starter brakes.</p><h2>SRP2 or CRP2?</h2><p>Start with SRP2 when you want the functional jump without paying for maximum adjustability. Move to CRP2 when you already know you care about pedal geometry, feel tuning and a more premium mechanical platform—and you have the cockpit to use it properly.</p><h2>Adjustment only matters if you use it</h2><p>Premium pedals earn their price through mechanical range: pedal angle, spacing, resistance, travel and brake feel can be tuned around the driver's body and cockpit. If you prefer to bolt the pedals down once and never touch them again, some of the CRP2's value proposition disappears.</p><h2>Think about footwear and driving position</h2><p>A very stiff brake that feels excellent in shoes can be uncomfortable in socks, and a pedal angle that works in a formula seating position can feel wrong at a desk. Set the pedal decision around how you actually drive rather than copying someone else's resistance settings.</p><h2>Bottom line</h2><p>SRP2 is the pragmatic performance upgrade. CRP2 is the enthusiast choice for a driver who already has a rigid cockpit and wants to tune pedal feel as carefully as wheelbase settings.</p><h2>Comparing a different pedal upgrade?</h2><p>If you still own the original R5 starter set, see <a href=\"articles/moza-srp-lite-vs-srp2/\">SR-P Lite vs SRP2</a>. If you are cross-shopping another brand at the higher end, see <a href=\"articles/moza-crp2-vs-simagic-p1000/\">CRP2 vs Simagic P1000</a>.</p>",
       "product": "MOZA SRP2 Pedals",
       "productWhy": "The more sensible first load-cell upgrade for most MOZA and mixed-brand PC setups.",
       "affiliate_url": "https://uk.mozaracing.com/products/srp2-pedals?ref=AIDANKING",
@@ -596,7 +618,13 @@ window.CHECKPOINT_CONTENT = {
           "image": "https://uk.mozaracing.com/cdn/shop/files/MOZA_CRP2_Load_Cell_Pedals.webp?v=1767606128&width=1000",
           "fallbackImage": "assets/images/load-cell.svg"
         }
-      ]
+      ],
+      "relatedSlugs": [
+        "moza-srp-lite-vs-srp2",
+        "moza-crp2-vs-simagic-p1000",
+        "load-cell-pedals-first-upgrade"
+      ],
+      "dateModified": "2026-10-12"
     },
     {
       "slug": "moza-hgp-shifter-review",
@@ -1187,12 +1215,12 @@ window.CHECKPOINT_CONTENT = {
       ],
       "category": "SIM RACING COMPARISON",
       "title": "MOZA R5 vs Thrustmaster T598: Which Direct-Drive Bundle Should You Buy?",
-      "excerpt": "MOZA's 5.5 Nm R5 bundle and Thrustmaster's 5 Nm T598 target the same first-serious-wheel buyer, but platform support, pedals and ecosystem make the decision clearer than torque alone.",
+      "excerpt": "MOZA R5 vs T598: choose by PC, Xbox or PlayStation support, included pedals and total bundle cost. Peak and constant torque are not directly comparable.",
       "score": "17 MIN",
       "art": "sim",
-      "lastChecked": "27 August 2026",
+      "lastChecked": "12 October 2026",
       "researchStatus": "Research-backed",
-      "quick": "For a PC-first setup, the MOZA R5 is the simpler value pick: 5.5 Nm direct drive, a compact base, included table clamp and a mature MOZA upgrade path. The Thrustmaster T598 is the stronger choice when you need an Xbox or PlayStation licensed version, want its Race Dash display, or prefer the Thrustmaster wheel ecosystem. Do not choose between them on 5.5 Nm versus 5 Nm alone.",
+      "quick": "For console racing, choose the T598 version licensed for your console: Xbox/PC and PlayStation/PC are separate products. For PC, compare the delivered bundle price, wheel ecosystem and pedal plans. The R5 is a compact direct-drive option; its 5.5 Nm peak figure does not prove it is stronger than the T598’s 5 Nm constant rating.",
       "buyIf": [
         "You are moving from a gear- or belt-driven wheel to entry direct drive",
         "You have checked which platform version you actually need",
@@ -1237,7 +1265,7 @@ window.CHECKPOINT_CONTENT = {
           "Integrated Race Dash"
         ]
       ],
-      "body": "\n<h2>MOZA R5 vs Thrustmaster T598: the short answer</h2>\n<p>If you race mainly on PC, the R5 is the easier recommendation when the complete bundle price is competitive. It is compact, established, includes a desk clamp and gives you a clear MOZA ecosystem path. The T598 becomes more compelling when console licensing matters, because Thrustmaster sells dedicated Xbox/PC and PlayStation/PC versions.</p>\n\n<h2>Force feedback: 5.5 Nm versus 5 Nm is not a knockout</h2>\n<p>MOZA rates the R5 at 5.5 Nm peak torque. Thrustmaster rates the T598 at 5 Nm of constant torque and advertises short overshoot capability for stronger transient effects. Those numbers are measured and marketed differently, so this is not a clean “5.5 beats 5” comparison.</p>\n<p>Both sit in the useful entry direct-drive range where the bigger upgrade over a Logitech G923-class wheel is the direct connection between motor and wheel rather than a tiny torque difference between these two.</p>\n\n<h2>Platform support is the first real decision</h2>\n<p>The standard MOZA R5 bundle is a PC product. The T598 is sold in separate licensed versions: one for Xbox One / Xbox Series X|S / PC and another for PS4 / PS5 / PC. If you race on console, this can decide the comparison before you get to pedals, wheel rims or software.</p>\n\n<h2>Pedals: both start with two pedals</h2>\n<p>The R5 bundle uses MOZA's SR-P Lite throttle and brake. The T598 bundle includes Thrustmaster Raceline Pedals LTE, also as a two-pedal starter set. Neither should be bought under the assumption that a clutch is automatically included.</p>\n<p>For serious braking consistency later, a load-cell upgrade is more meaningful than arguing over the starter pedal faceplates.</p>\n\n<h2>Wheel and ecosystem</h2>\n<p>MOZA uses its quick-release ecosystem with a broad range of wheels, pedals, shifters and handbrakes. Thrustmaster's T598 uses a detachable 30 cm Sportcar wheel and opens the door to Thrustmaster wheel add-ons, although some older rims can require an adapter or firmware update.</p>\n\n<h2>Desk use</h2>\n<p>MOZA explicitly sells the R5 as suitable for limited-space desk setups and includes the table clamp. The T598 bundle also includes a clamping system. In both cases, desk stiffness matters: a flexible desktop can waste detail and make the whole setup feel worse.</p>\n\n<h2>T598 Race Dash is a genuine differentiator</h2>\n<p>The T598 has a built-in screen for settings and compatible telemetry information. That is something the R5 does not have on the wheelbase itself. Whether it matters depends on how much you value on-device adjustment versus doing configuration through MOZA Pit House on PC.</p>\n\n<h2>Which one would we buy?</h2>\n<p><strong>PC only:</strong> start with the MOZA R5 and compare the live complete-bundle price. <strong>Xbox:</strong> the T598 Xbox/PC version has the obvious platform advantage. <strong>PlayStation:</strong> the T598 PlayStation/PC version is the relevant product. If both are PC options at similar money, ecosystem preference and pedal upgrade plans matter more than the half-newton-metre headline.</p>\n\n<h2>Amazon buying warning: check the platform name</h2>\n<p>Amazon search results can mix the Xbox/PC and PlayStation/PC T598 versions. Read the exact product title before ordering. We keep separate Amazon checks below so you can search for the correct licensed version.</p>\n",
+      "body": "\n<h2>MOZA R5 vs Thrustmaster T598: the short answer</h2>\n<p>If you race mainly on PC, shortlist the R5 when the complete bundle price is competitive. It is compact, established, includes a desk clamp and gives you a clear MOZA ecosystem path. The T598 becomes more compelling when console licensing matters, because Thrustmaster sells dedicated Xbox/PC and PlayStation/PC versions.</p>\n\n<h2>Force feedback: 5.5 Nm versus 5 Nm is not a knockout</h2>\n<p>MOZA rates the R5 at 5.5 Nm peak torque. Thrustmaster rates the T598 at 5 Nm of constant torque and advertises short overshoot capability for stronger transient effects. Those numbers are measured and marketed differently, so this is not a clean “5.5 beats 5” comparison.</p>\n<p>Both sit in the useful entry direct-drive range where the bigger upgrade over a Logitech G923-class wheel is the direct connection between motor and wheel rather than a tiny torque difference between these two.</p>\n\n<h2>Platform support is the first real decision</h2>\n<p>The standard MOZA R5 bundle is a PC product. The T598 is sold in separate licensed versions: one for Xbox One / Xbox Series X|S / PC and another for PS4 / PS5 / PC. If you race on console, this can decide the comparison before you get to pedals, wheel rims or software.</p>\n\n<h2>Pedals: both start with two pedals</h2>\n<p>The R5 bundle uses MOZA's SR-P Lite throttle and brake. The T598 bundle includes Thrustmaster Raceline Pedals LTE, also as a two-pedal starter set. Neither should be bought under the assumption that a clutch is automatically included.</p>\n<p>For serious braking consistency later, a load-cell upgrade is more meaningful than arguing over the starter pedal faceplates.</p>\n\n<h2>Wheel and ecosystem</h2>\n<p>MOZA uses its quick-release ecosystem with a broad range of wheels, pedals, shifters and handbrakes. Thrustmaster's T598 uses a detachable 30 cm Sportcar wheel and opens the door to Thrustmaster wheel add-ons, although some older rims can require an adapter or firmware update.</p>\n\n<h2>Desk use</h2>\n<p>MOZA explicitly sells the R5 as suitable for limited-space desk setups and includes the table clamp. The T598 bundle also includes a clamping system. In both cases, desk stiffness matters: a flexible desktop can waste detail and make the whole setup feel worse.</p>\n\n<h2>T598 Race Dash is a genuine differentiator</h2>\n<p>The T598 has a built-in screen for settings and compatible telemetry information. That is something the R5 does not have on the wheelbase itself. Whether it matters depends on how much you value on-device adjustment versus doing configuration through MOZA Pit House on PC.</p>\n\n<h2>Which one would we buy?</h2>\n<p><strong>PC only:</strong> start with the MOZA R5 and compare the live complete-bundle price. <strong>Xbox:</strong> the T598 Xbox/PC version has the obvious platform advantage. <strong>PlayStation:</strong> the T598 PlayStation/PC version is the relevant product. If both are PC options at similar money, ecosystem preference and pedal upgrade plans matter more than the half-newton-metre headline.</p>\n\n<h2>Before ordering: check the platform and bundle contents</h2>\n<p>Retailer listings can mix a servo base with a complete wheel-and-pedals bundle. Read the exact title, platform, seller and included items before ordering. The existing Amazon links below are intended for different console versions, but verify the destination and selected variant yourself before checkout.</p>\n<h2>Is this the R5 or the R5 Pro comparison?</h2><p>This page covers the original R5. If your local retailer is offering the newer Pro, use our <a href=\"articles/moza-r5-pro-vs-thrustmaster-t598/\">R5 Pro vs T598 comparison</a> and <a href=\"articles/moza-r5-vs-r5-pro/\">R5 vs R5 Pro breakdown</a> instead. Keeping the exact bundle name on your shortlist prevents comparing one model’s price with another model’s specifications.</p><h2>What to budget after the bundle</h2><p>Check whether you need a clutch, a compatible wheel rim or a stand. Neither standard two-pedal set should be treated as a load-cell brake upgrade. If you already own Thrustmaster add-ons, check the official compatibility list and any required adapter before counting them as a saving.</p>",
       "recommendations": [
         {
           "label": "PC VALUE PICK",
@@ -1250,7 +1278,7 @@ window.CHECKPOINT_CONTENT = {
         {
           "label": "XBOX / PC",
           "name": "Thrustmaster T598 Xbox / PC",
-          "why": "Use this search specifically for the Xbox-licensed version; verify the listing says Xbox before checkout.",
+          "why": "Amazon UK listing checked for this platform on 12 October 2026. Confirm the selected version, seller, delivery and complete bundle contents before ordering.",
           "url": "https://amzn.to/45TrGOx",
           "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
           "fallbackImage": "assets/images/best-dd-under-500.svg"
@@ -1258,7 +1286,7 @@ window.CHECKPOINT_CONTENT = {
         {
           "label": "PLAYSTATION / PC",
           "name": "Thrustmaster T598 PlayStation / PC",
-          "why": "Use this search for the PS5/PS4/PC version; do not assume it is the same SKU as the Xbox model.",
+          "why": "Amazon UK listing checked for this platform on 12 October 2026. Confirm the selected version, seller, delivery and complete bundle contents before ordering.",
           "url": "https://amzn.to/4zHHdyC",
           "image": "https://shop.thrustmaster.com/media/wysiwyg/Products/T598_Range/Playstation/T598_LIfestyle_1B_1000x1000.jpg",
           "fallbackImage": "assets/images/best-dd-under-500.svg"
@@ -1272,26 +1300,29 @@ window.CHECKPOINT_CONTENT = {
       ],
       "sources": [
         [
-          "MOZA R5 official UK product page",
+          "MOZA R5 specifications and bundle contents",
           "https://uk.mozaracing.com/products/r5-racing-bundle"
         ],
         [
-          "MOZA R5 official UK specification page",
-          "https://uk.mozaracing.com/pages/r5-racing-bundle"
+          "Thrustmaster T598 PlayStation / PC specifications",
+          "https://www.thrustmaster.com/products/t598/"
         ],
         [
-          "Thrustmaster T598 Xbox / PC official page",
-          "https://www.thrustmaster.com/en-gb/products/t598-x/"
-        ],
-        [
-          "Thrustmaster T598 PlayStation / PC official page",
-          "https://www.thrustmaster.com/en-gb/products/t598/"
-        ],
-        [
-          "Thrustmaster T598 Xbox support page",
-          "https://support.thrustmaster.com/en/product/t598x-en/"
+          "Thrustmaster T598 Xbox / PC specifications",
+          "https://www.thrustmaster.com/en-ie/products/t598-x/"
         ]
-      ]
+      ],
+      "faq": [
+        [
+          "Does the T598 work on Xbox and PlayStation?",
+          "There are separate Xbox/PC and PlayStation/PC versions. One console version does not automatically support the other console."
+        ],
+        [
+          "Is the R5 stronger than the T598?",
+          "The R5 specification is 5.5 Nm peak; the T598 is advertised at 5 Nm constant with transient overshoot. These are different ratings, so the numbers alone do not establish a winner."
+        ]
+      ],
+      "dateModified": "2026-10-12"
     },
     {
       "slug": "moza-r5-vs-logitech-g923",
@@ -1302,13 +1333,13 @@ window.CHECKPOINT_CONTENT = {
         "https://resource.logitechg.com/w_544%2Ch_466%2Car_7%3A6%2Cc_pad%2Cq_auto%2Cf_auto%2Cdpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g923-and-trueforce/g923-gallery/g923-ps4-gallery-1-new-image.png"
       ],
       "category": "SIM RACING COMPARISON",
-      "title": "MOZA R5 vs Logitech G923: Is Direct Drive Worth the Upgrade?",
-      "excerpt": "The G923 is easier on consoles and includes three pedals; the R5 gives PC racers 5.5 Nm direct drive and a much stronger upgrade path.",
+      "title": "MOZA R5 vs Logitech G923: Which Wheel Should You Buy in 2026?",
+      "excerpt": "Choose between MOZA R5 direct drive and Logitech G923: PC or console support, two vs three pedals, upgrade costs and when to keep your current wheel.",
       "score": "16 MIN",
       "art": "sim",
-      "lastChecked": "27 August 2026",
+      "lastChecked": "12 October 2026",
       "researchStatus": "Research-backed",
-      "quick": "For a PC-first buyer, the MOZA R5 is the better long-term system if the budget fits: 5.5 Nm direct drive, detachable wheel ecosystem and cleaner force feedback put it above the G923's 2.3 Nm dual-motor system. The Logitech still makes sense when console compatibility, a three-pedal starter set and sale pricing matter more.",
+      "quick": "Choose the R5 for a PC setup when you can afford the complete system and want direct drive. Choose the correct console-compatible G923 variant when console support or a lower total price matters more. Already own a G923? Upgrade for steering feedback and modular wheels, not a promise of faster laps.",
       "buyIf": [
         "You are comparing a first serious PC sim-racing setup",
         "You want to know whether direct drive is worth paying more for",
@@ -1334,7 +1365,7 @@ window.CHECKPOINT_CONTENT = {
         ],
         [
           "G923 versions",
-          "Xbox/PC or PlayStation/PC"
+          "Separate Xbox/PC, PlayStation/PC and PC-only listings; verify SKU"
         ],
         [
           "R5 starter pedals",
@@ -1353,7 +1384,7 @@ window.CHECKPOINT_CONTENT = {
           "900°"
         ]
       ],
-      "body": "\n<h2>MOZA R5 vs Logitech G923: the short answer</h2>\n<p>On PC, the R5 is the stronger hardware platform. Direct drive removes the gears between motor and wheel, the 5.5 Nm output gives more useful force-feedback headroom, and MOZA's detachable-wheel ecosystem is built for expansion. The G923 wins when ease of console compatibility and a clutch pedal in the box matter more.</p>\n\n<h2>The biggest difference is direct drive, not TRUEFORCE branding</h2>\n<p>Logitech rates the G923 at 2.3 Nm with a dual-motor force-feedback system. TRUEFORCE can add higher-frequency game information in supported titles, but the wheel still transmits force through a conventional mechanism. The R5 drives the wheel directly from the motor shaft.</p>\n\n<h2>How different does the torque look on paper?</h2>\n<p>The R5 is rated at 5.5 Nm while Logitech lists 2.3 Nm for the G923. Torque is not the only measure of feedback quality, but that gap is large enough to represent a genuinely different hardware class rather than a minor spec bump.</p>\n\n<h2>Console support can reverse the recommendation</h2>\n<p>The standard R5 bundle is aimed at PC. Logitech sells G923 versions for Xbox/PC and PlayStation/PC. If your main platform is a console and you want minimum setup friction, the G923 can be the more sensible purchase even though the R5 is stronger hardware on PC.</p>\n\n<h2>Pedals: Logitech gives you a clutch immediately</h2>\n<p>The G923 bundle includes accelerator, brake and clutch pedals. The standard R5 bundle starts with throttle and brake. If you drive manual road cars and want a clutch immediately, include the extra MOZA pedal cost when comparing complete prices.</p>\n\n<h2>Upgrade path</h2>\n<p>The R5's strongest advantage after force feedback is ecosystem expansion. You can change wheels and move into better MOZA pedals, shifters and handbrakes. The G923 is much more of a complete fixed starter system.</p>\n\n<h2>Who should buy the G923?</h2>\n<p>Someone who finds it at a strong sale price, wants a complete three-pedal package, or values console support more than direct-drive performance. It is not obsolete; it is simply competing against much stronger entry-level hardware than it did at launch.</p>\n\n<h2>Who should buy the R5?</h2>\n<p>A PC racer who expects to keep upgrading. If you know you are likely to buy a wheel stand, better pedals or different wheel rims later, the R5 gives that spending somewhere to go.</p>\n",
+      "body": "\n<h2>MOZA R5 vs Logitech G923: the short answer</h2>\n<p>On PC, the R5 is the stronger hardware platform. Direct drive removes the gears between motor and wheel, the 5.5 Nm output gives more useful force-feedback headroom, and MOZA's detachable-wheel ecosystem is built for expansion. The G923 wins when ease of console compatibility and a clutch pedal in the box matter more.</p>\n\n<h2>Is the Logitech G923 direct drive?</h2><p>No. The G923 is gear-driven. TRUEFORCE is a feedback technology, not a direct-drive motor design.</p>\n<p>Logitech rates the G923 at 2.3 Nm with a dual-motor force-feedback system. TRUEFORCE can add higher-frequency game information in supported titles, but the wheel still transmits force through helical gears. The R5 drives the wheel directly from the motor shaft.</p>\n\n<h2>How different does the torque look on paper?</h2>\n<p>The R5 is rated at 5.5 Nm while Logitech lists 2.3 Nm for the G923. Torque is not the only measure of feedback quality, but that gap is large enough to represent a genuinely different hardware class rather than a minor spec bump.</p>\n\n<h2>Console support can reverse the recommendation</h2>\n<p>The standard R5 bundle is aimed at PC. Logitech sells G923 versions for Xbox/PC and PlayStation/PC. If your main platform is a console and you want minimum setup friction, the G923 can be the more sensible purchase even though the R5 is stronger hardware on PC.</p>\n\n<h2>Pedals: Logitech gives you a clutch immediately</h2>\n<p>The G923 bundle includes accelerator, brake and clutch pedals. The standard R5 bundle starts with throttle and brake. If you drive manual road cars and want a clutch immediately, include the extra MOZA pedal cost when comparing complete prices.</p>\n\n<h2>Upgrade path</h2>\n<p>The R5's strongest advantage after force feedback is ecosystem expansion. You can change wheels and move into better MOZA pedals, shifters and handbrakes. The G923 is much more of a complete fixed starter system.</p>\n\n<h2>Who should buy the G923?</h2>\n<p>Someone who finds it at a strong sale price, wants a complete three-pedal package, or values console support more than direct-drive performance. It is not obsolete; it is simply competing against much stronger entry-level hardware than it did at launch.</p>\n\n<h2>Who should buy the R5?</h2>\n<p>A PC racer who expects to keep upgrading. If you know you are likely to buy a wheel stand, better pedals or different wheel rims later, the R5 gives that spending somewhere to go.</p>\n<h2>Compare the complete checkout cost</h2><p>Put the wheel, pedals, any clutch or shifter you need, mounting and delivery in each basket. A cheaper headline bundle can stop being cheaper once those extras are included. Check the exact platform: current G923 listings also include a PC-only option, so the name alone does not establish console compatibility.</p><h2>Should an existing G923 owner upgrade?</h2><p>If you are happy with steering but struggle to brake consistently, first stop your chair and pedals moving. If you want a detachable wheel and direct drive, compare the R5 with the newer <a href=\"articles/moza-r5-vs-r5-pro/\">R5 Pro</a> before buying. This page compares the original R5; the <a href=\"articles/moza-r5-pro-vs-logitech-g923/\">R5 Pro vs G923 comparison</a> covers the newer bundle separately.</p><p>For console direct drive, compare <a href=\"articles/moza-r5-vs-thrustmaster-t598/\">R5 vs T598</a>. A wheel should fit your platform before its torque rating influences the decision.</p>",
       "recommendations": [
         {
           "label": "PC DIRECT-DRIVE PICK",
@@ -1366,7 +1397,7 @@ window.CHECKPOINT_CONTENT = {
         {
           "label": "CONSOLE-FRIENDLY PICK",
           "name": "Logitech G923",
-          "why": "Three-pedal starter bundle with Xbox/PC and PlayStation/PC variants; check the exact version.",
+          "why": "Amazon UK search results, not a guaranteed SKU or stock offer. Select the correct platform and check seller, condition and delivery.",
           "url": "https://www.amazon.co.uk/s?k=Logitech+G923+racing+wheel&tag=aidan0701-20",
           "image": "https://resource.logitechg.com/w_544%2Ch_466%2Car_7%3A6%2Cc_pad%2Cq_auto%2Cf_auto%2Cdpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g923-and-trueforce/g923-gallery/g923-ps4-gallery-1-new-image.png",
           "fallbackImage": "assets/images/logitech-vs-dd.svg"
@@ -1380,17 +1411,201 @@ window.CHECKPOINT_CONTENT = {
       ],
       "sources": [
         [
-          "MOZA R5 official UK product page",
+          "MOZA R5 specifications and bundle contents",
           "https://uk.mozaracing.com/products/r5-racing-bundle"
         ],
         [
-          "MOZA R5 official UK specifications",
-          "https://uk.mozaracing.com/pages/r5-racing-bundle"
+          "Logitech G923 current platform variants",
+          "https://www.logitechg.com/en-gb/shop/p/g923-trueforce-sim-racing-wheel"
         ],
         [
-          "Logitech G923 official product page",
-          "https://futureisnow.logitechg.com/en-us/shop/p/g923-trueforce-sim-racing-wheel"
+          "Logitech G923 drivetrain specifications",
+          "https://support.logi.com/hc/en-150/articles/17207101115799-Specification-G923-TRUEFORCE-Sim-Racing-Wheel-for-Xbox-One-and-PC"
         ]
+      ],
+      "faq": [
+        [
+          "Is the G923 direct drive?",
+          "No. Logitech specifies dual-motor force feedback with helical gearing. TRUEFORCE does not make it direct drive."
+        ],
+        [
+          "Should I buy the R5 or G923 for console?",
+          "The standard R5 bundle is for PC. For a G923, choose the variant licensed for your console; a PC-only listing is not interchangeable."
+        ]
+      ],
+      "dateModified": "2026-10-12"
+    },
+    {
+      "category": "SIM RACING COMPARISON",
+      "art": "sim",
+      "score": "7 MIN",
+      "image": "assets/images/load-cell.svg",
+      "lastChecked": "12 October 2026",
+      "dateModified": "2026-10-12",
+      "researchStatus": "Research-backed",
+      "slug": "moza-srp-lite-vs-srp2",
+      "title": "MOZA SR-P Lite vs SRP2: Keep the R5 Pedals or Upgrade?",
+      "excerpt": "For original R5 owners: SR-P Lite brake kit or SRP2 replacement? Compare sensing, PC connections, mounting and the parts to check before buying.",
+      "quick": "Keep SR-P Lite if your budget or mounting is the limiting factor. Choose SRP2 when you specifically want a load-cell brake and can keep the pedals and seat stable. The original SR-P Lite performance kit changes resistance; it is not a load-cell conversion. This comparison concerns the original Lite, not Lite2.",
+      "buyIf": [
+        "You own the original R5 pedals and want a specific brake upgrade",
+        "You can secure the pedal deck and chair",
+        "Your PC game accepts separate wheel and pedal USB devices"
+      ],
+      "skipIf": [
+        "You are confusing SR-P, SR-P Lite, SR-P Lite2 and SRP2",
+        "The pedals slide every time you brake",
+        "You expect a new sensor to fix technique without practice"
+      ],
+      "specs": [
+        [
+          "Original SR-P Lite",
+          "Hall-sensor pedals supplied with original R5"
+        ],
+        [
+          "SRP2 brake",
+          "100 kg load cell + 15-bit angle sensor"
+        ],
+        [
+          "SRP2 PC connection",
+          "Direct USB; can be used alongside another brand of wheel"
+        ],
+        [
+          "Standard SRP2 set",
+          "Throttle and brake; clutch is separate"
+        ],
+        [
+          "Original Lite performance kit",
+          "Spring/damping resistance upgrade; no replacement load-cell sensor"
+        ]
+      ],
+      "body": "<h2>Start with what is actually wrong with your brake</h2><p>If you cannot repeat a braking point, identify whether the pedal slides, your chair rolls back, or the input feels difficult to judge. A new pedal set only addresses some of those problems. Mark the pedal and chair positions with tape, drive a short session, then check whether either has moved. Fix movement before choosing a stiffer brake.</p><p>This is a researched buying comparison, not a hands-on lap-time test. Our recommendation is based on the connection and sensing differences below, plus the cost of making the whole setup usable.</p><h2>Four similar names, different purchases</h2><p>The original R5 includes SR-P Lite. The R5 Pro includes SR-P Lite2. SR-P and SRP2 are separate product names, so an accessory labelled for one should not be assumed to fit another. Read the name on your current set before ordering a clutch, spring kit or replacement.</p><p>MOZA’s original <a href=\"articles/moza-r5-vs-r5-pro/\">R5 vs R5 Pro bundles</a> are different purchase decisions from replacing pedals you already own. This page helps original Lite owners decide whether to keep or replace them.</p><h2>What the brake kit changes</h2><p>The official original Lite performance kit uses a spring and damping block to change resistance. The pedal still senses travel through its existing sensor. A firmer stopping point may be what you want, but buying that kit is not the same as buying pressure sensing. Check MOZA’s compatibility table in Sources rather than assuming the SR-P accessory fits the Lite.</p><p>Keeping the current pedals is reasonable if you are still learning, have a flexible desk setup or would need to sacrifice a secure mount to fund the replacement. Add up the delivered kit price and any mounting work; stop if those costs get too close to the replacement you actually want.</p><h2>What SRP2 changes</h2><p>SRP2 combines a load cell with an angle sensor. It gives you a different way to configure the brake input, rather than simply adding a stronger spring to the original pedal. The sensor’s 100 kg rating is not a requirement to press with that force at your foot. Set a comfortable, repeatable maximum and recalibrate after changing resistance.</p><h2>Connection checklist for an R5 owner on PC</h2><ol><li>Keep the wheel connected normally and plan a separate PC USB connection for SRP2.</li><li>Confirm your chosen game accepts inputs from separate wheel and pedal devices.</li><li>Follow the pedal manual, configure the pedals in Pit House and assign the throttle and brake axes in the game.</li><li>Remove duplicate brake assignments and check zero and full input before entering a race.</li></ol><p>Do not infer console support from this USB route. This article’s recommendation is for PC; a console purchase needs confirmation of the complete licensed wheel, base and pedal combination.</p><h2>Budget for the mount, not just the pedals</h2><p>Check the mounting drawing against your pedal tray before paying. Include bolts or a suitable adapter plate, and make sure the seat stays put under your chosen braking force. You do not need the hardest setting to benefit from a repeatable setup. If a purchase leaves no money to stop the rig moving, postpone it.</p><h2>Which route should you choose?</h2><p><strong>Keep Lite:</strong> you need an inexpensive resistance change or are still sorting out your driving position. <strong>Buy SRP2:</strong> you have stable mounting and specifically want load-cell braking. <strong>Consider CRP2:</strong> you have already decided to replace the pedals and want to compare a more adjustable alternative; use our <a href=\"articles/moza-srp2-vs-crp2/\">SRP2 vs CRP2 comparison</a> for that separate decision.</p><p>For shifters, wheel rims and the order of other purchases, return to the <a href=\"articles/best-upgrades-for-moza-r5-r5-pro/\">general R5 upgrade guide</a>. There is no need to buy those accessories to make this pedal change worthwhile.</p>",
+      "recommendations": [
+        {
+          "label": "REPLACEMENT OPTION",
+          "name": "MOZA SRP2 Pedals",
+          "why": "Consider SRP2 for a stable PC setup when you want load-cell braking. The standard listing is a two-pedal set; check delivery and any clutch cost.",
+          "url": "https://uk.mozaracing.com/products/srp2-pedals?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/MOZA_SRP2_Pedals_Throttle_Brake_-1_ea85807a-cb31-4048-b3cf-e59ceeb13e65.png?v=1774429530&width=2000",
+          "fallbackImage": "assets/images/load-cell.svg"
+        }
+      ],
+      "sources": [
+        [
+          "MOZA R5 specifications and bundle contents",
+          "https://uk.mozaracing.com/products/r5-racing-bundle"
+        ],
+        [
+          "MOZA R5 Pro specifications and bundle contents",
+          "https://uk.mozaracing.com/products/r5-pro-bundle"
+        ],
+        [
+          "MOZA SRP2 specifications and USB compatibility",
+          "https://uk.mozaracing.com/products/srp2-pedals"
+        ],
+        [
+          "MOZA original SR-P Lite brake performance kit",
+          "https://uk.mozaracing.com/products/srp-lite-kit"
+        ],
+        [
+          "MOZA SR-P and SR-P Lite compatibility table",
+          "https://support.mozaracing.com/en/support/solutions/articles/70000645179-sr-p-sr-p-lite-pedals-compatibility"
+        ]
+      ],
+      "relatedSlugs": [
+        "moza-srp2-vs-crp2",
+        "best-upgrades-for-moza-r5-r5-pro",
+        "moza-r5-vs-r5-pro"
+      ]
+    },
+    {
+      "category": "SIM RACING COMPARISON",
+      "art": "sim",
+      "score": "7 MIN",
+      "image": "assets/images/load-cell.svg",
+      "lastChecked": "12 October 2026",
+      "dateModified": "2026-10-12",
+      "researchStatus": "Research-backed",
+      "slug": "moza-crp2-vs-simagic-p1000",
+      "title": "MOZA CRP2 vs Simagic P1000: Which Pedals Fit Your PC Rig?",
+      "excerpt": "CRP2 or P1000? Compare complete pedal configurations, PC compatibility, mounting and optional upgrades before paying for a load-cell set.",
+      "quick": "Choose CRP2 if its delivered configuration suits you and you prefer configuring pedals in MOZA Pit House. Choose P1000 if you specifically want its modular hydraulic or haptic upgrade path. On PC, either can work alongside another brand of wheel through USB. Compare equal pedal counts and accessories before deciding which is better value.",
+      "buyIf": [
+        "You have a rigid pedal mount and are choosing a complete load-cell set",
+        "You have priced the actual two- or three-pedal configuration you need",
+        "You can identify an adjustment or accessory you will use"
+      ],
+      "skipIf": [
+        "You are choosing solely by the load-cell capacity number",
+        "You expect hydraulic or haptic accessories in every P1000 box",
+        "You need native console compatibility without checking the complete system"
+      ],
+      "specs": [
+        [
+          "CRP2 brake sensing",
+          "200 kg load cell plus 15-bit angle sensor"
+        ],
+        [
+          "P1000 brake sensing",
+          "100 kg load cell / Hall angle sensor; 12-bit resolution"
+        ],
+        [
+          "PC connection",
+          "Both support direct USB"
+        ],
+        [
+          "CRP2 listing compared",
+          "Throttle + brake; clutch sold separately"
+        ],
+        [
+          "P1000 configuration",
+          "Standard three pedals; P1000-F is the two-pedal family"
+        ],
+        [
+          "Expansion",
+          "Check exact kit: inverted, hydraulic and haptic options are not all included"
+        ]
+      ],
+      "body": "<h2>Compare two complete shopping baskets</h2><p>These are alternatives for a PC racer who already wants a substantial pedal replacement. The useful comparison is the set you will bolt into your rig, not the lowest price shown beside each family name. Decide whether you use a clutch, whether you want an inverted layout and whether feedback accessories are part of the purchase now or only a future possibility.</p><p>We have not tested these sets back to back. The judgments here concern specifications, installation and purchase choices; they are not claims that one makes you faster.</p><h2>Why 200 kg versus 100 kg does not decide the winner</h2><p>MOZA lists a 200 kg load cell for CRP2; SIMAGIC lists 100 kg for P1000. Those are sensor ratings, not directly comparable force requirements at the pedal face. Linkage geometry, your chosen resistance and calibration affect the experience. Do not double your budget merely because a sensor number doubles.</p><p>A better question is whether you can reach and release your chosen braking input comfortably while the seat and pedal deck remain still. If you cannot, the setup needs attention before a higher sensor rating becomes useful.</p><h2>Clutch and variant traps</h2><p>The CRP2 listing used here is throttle plus brake with an optional clutch. SIMAGIC distinguishes the standard P1000, two-pedal P1000-F, inverted variants and hydraulic variants. Use the official variant table in Sources, then match the retailer’s full model name and box contents to it.</p><p>For paddle-shift GT or formula driving, a clutch may not justify its cost or footprint. For manual cars, compare both baskets with a clutch added where necessary. Do not treat a cheaper two-pedal listing as a like-for-like discount on a three-pedal set.</p><h2>PC compatibility does not lock you to a wheel brand</h2><p>Both manufacturers document direct PC USB connections. A MOZA wheelbase alone is therefore not a reason to rule out SIMAGIC pedals, and a SIMAGIC base is not required for this PC route. Confirm your game supports separate input devices, calibrate in the relevant software and assign pedal axes in the game.</p><p>This does not establish native Xbox or PlayStation compatibility. Console users need confirmation of the complete supported connection chain before ordering. Do not buy a PC USB pedal set on the assumption that a console will recognize it independently.</p><h2>When the P1000 upgrade path is worth paying for</h2><p>SIMAGIC documents optional haptic reactors, hydraulic modules and inversion options, with accessory power requirements to check. Make a list of the exact modules you want and price the complete package, including power and mounting. A future upgrade path is useful only if you will use it.</p><p>Hydraulic damping changes pedal feel; haptic feedback conveys effects. Neither is a substitute for a comfortable brake position. If you want one specific effect, establish software and game support before buying the module. Start with the base configuration and learn it before adding several variables at once.</p><h2>When CRP2 makes more sense</h2><p>CRP2 is worth shortlisting when you prefer the MOZA configuration workflow and its available mechanical adjustment fits your seating position. Its clutch and inversion kit are separate purchases. MOZA also lists a pedal haptic kit, so do not assume SIMAGIC is the only route to pedal vibration; verify the exact compatible kit and total cost for either brand.</p><p>If your real question is whether you need to spend this much at all, the <a href=\"articles/moza-srp2-vs-crp2/\">SRP2 vs CRP2 guide</a> covers MOZA’s less expensive alternative. That is a different decision from choosing between these two pedal families.</p><h2>Measure before ordering</h2><ol><li>Compare the manufacturer’s mounting drawing with your pedal tray’s holes and slots.</li><li>Allow room for the control box, cables, pedal travel and any inversion frame.</li><li>Check foot reach from your normal seated position, not while leaning forward.</li><li>Include shipping, tax, a clutch if required and accessories in both totals.</li><li>Check the seller’s return process and local warranty support before choosing an overseas deal.</li></ol><h2>Our buying decision</h2><p>For a straightforward replacement, buy the configuration that fits your rig and offers the better delivered value. Prefer P1000 when you have a specific plan for its modular options; prefer CRP2 when its adjustment and MOZA software fit your needs. If both solve the same problem, local support and the complete cost can be more valuable than another unused feature.</p>",
+      "recommendations": [
+        {
+          "label": "MOZA OPTION",
+          "name": "MOZA CRP2 Pedals",
+          "why": "Existing MOZA UK affiliate destination for the throttle-and-brake set. Add a clutch or other accessories only if needed.",
+          "url": "https://uk.mozaracing.com/products/crp2-pedals?ref=AIDANKING",
+          "image": "https://uk.mozaracing.com/cdn/shop/files/MOZA_CRP2_Load_Cell_Pedals.webp?v=1767606128&width=1000",
+          "fallbackImage": "assets/images/load-cell.svg"
+        },
+        {
+          "label": "SIMAGIC OPTION",
+          "name": "SIMAGIC P1000",
+          "why": "Official store, not an affiliate link. Confirm variant, shipping destination, tax and accessories; this is not a guaranteed stock offer.",
+          "url": "https://simagic.com/products/p1000",
+          "image": "assets/images/load-cell.svg"
+        }
+      ],
+      "sources": [
+        [
+          "MOZA CRP2 specifications and USB compatibility",
+          "https://uk.mozaracing.com/products/crp2-pedals"
+        ],
+        [
+          "SIMAGIC P1000 technical specifications and variant comparison",
+          "https://simagic.com/pages/details-p1000"
+        ],
+        [
+          "SIMAGIC P1000 user manual",
+          "https://image.simagic.com/profile/upload/2024/07/18/SIMAGIC_P1000_UM.pdf"
+        ],
+        [
+          "SIMAGIC P1000 official store",
+          "https://simagic.com/products/p1000"
+        ]
+      ],
+      "relatedSlugs": [
+        "moza-srp2-vs-crp2",
+        "moza-srp-lite-vs-srp2",
+        "load-cell-pedals-first-upgrade"
       ]
     }
   ],
@@ -1811,7 +2026,7 @@ window.CHECKPOINT_CONTENT = {
       "score": "13 MIN",
       "art": "sim",
       "quick": "For most R5 and R5 Pro owners, upgrade stability and braking first. Add a shifter or handbrake only when the cars you drive actually use them.",
-      "body": "<h2>1. Make the setup stop moving</h2><p>Before buying more torque, make sure the wheel and pedals are mounted securely.</p><h2>2. Upgrade the brake pedal</h2><p>A load-cell pedal set is a logical next step because it makes braking more about repeatable pressure than pedal travel.</p><h2>3. Add car-specific controls</h2><p>An H-pattern shifter is excellent for manual road cars and historic racing. An analog handbrake is excellent for rally and drifting.</p><h2>4. Only then think about more wheelbase</h2><p>More torque can be worthwhile later, but it makes more sense once the cockpit and pedals are good enough to support it.</p><h2>1. Stop the pedals and chair moving</h2><p>The first upgrade may not be a MOZA product at all. A wheel stand, pedal tray, caster cups or a better seating solution can make every control feel more repeatable.</p><h2>2. Improve the brake</h2><p>Once the setup is stable, a stronger and more consistent brake is usually the biggest functional step. That may mean an upgrade kit or moving to a dedicated load-cell pedal set depending on budget.</p><h2>3. Add car-specific controls</h2><p>Choose an H-pattern shifter for manual cars, a handbrake for rally and drifting, or a different wheel rim when the cars you drive justify it. Accessories are best when they solve a real use case rather than filling empty mounting holes.</p><h2>4. Only then think about more wheelbase</h2><p>If you are clipping the R5 Pro regularly and the cockpit is rigid, moving to R9/R12 territory can make sense. Until then, the rest of the rig usually offers better returns.</p><h2>A simple decision tree</h2><p>If the pedals move, fix mounting. If the brake is stable but inconsistent, improve the pedals. If the driving position is uncomfortable, fix seating. If the controls are solid and you are missing a car-specific input, add the shifter, handbrake or wheel you actually need. Only when those questions are answered should stronger wheel torque move to the front of the queue.</p><h2>Do not confuse ecosystem ownership with upgrade need</h2><p>MOZA sells a broad range of compatible accessories, but compatibility is not a reason to buy all of them. A cleaner rig with three useful controls is better than a crowded rig full of devices you rarely touch.</p><h2>Resale and staged upgrades</h2><p>Buying in stages also lets you learn what bothers you before replacing it. That reduces duplicate spending and makes it easier to sell a starter component only when the upgrade solves a problem you can clearly describe.</p>",
+      "body": "<h2>1. Make the setup stop moving</h2><p>Before buying more torque, make sure the wheel and pedals are mounted securely.</p><h2>2. Upgrade the brake pedal</h2><p>A load-cell pedal set is a logical next step because it makes braking more about repeatable pressure than pedal travel.</p><h2>3. Add car-specific controls</h2><p>An H-pattern shifter is excellent for manual road cars and historic racing. An analog handbrake is excellent for rally and drifting.</p><h2>4. Only then think about more wheelbase</h2><p>More torque can be worthwhile later, but it makes more sense once the cockpit and pedals are good enough to support it.</p><h2>1. Stop the pedals and chair moving</h2><p>The first upgrade may not be a MOZA product at all. A wheel stand, pedal tray, caster cups or a better seating solution can make every control feel more repeatable.</p><h2>2. Improve the brake</h2><p>Once the setup is stable, a stronger and more consistent brake is usually the biggest functional step. That may mean an upgrade kit or moving to a dedicated load-cell pedal set depending on budget.</p><h2>3. Add car-specific controls</h2><p>Choose an H-pattern shifter for manual cars, a handbrake for rally and drifting, or a different wheel rim when the cars you drive justify it. Accessories are best when they solve a real use case rather than filling empty mounting holes.</p><h2>4. Only then think about more wheelbase</h2><p>If you are clipping the R5 Pro regularly and the cockpit is rigid, moving to R9/R12 territory can make sense. Until then, the rest of the rig usually offers better returns.</p><h2>A simple decision tree</h2><p>If the pedals move, fix mounting. If the brake is stable but inconsistent, improve the pedals. If the driving position is uncomfortable, fix seating. If the controls are solid and you are missing a car-specific input, add the shifter, handbrake or wheel you actually need. Only when those questions are answered should stronger wheel torque move to the front of the queue.</p><h2>Do not confuse ecosystem ownership with upgrade need</h2><p>MOZA sells a broad range of compatible accessories, but compatibility is not a reason to buy all of them. A cleaner rig with three useful controls is better than a crowded rig full of devices you rarely touch.</p><h2>Resale and staged upgrades</h2><p>Buying in stages also lets you learn what bothers you before replacing it. That reduces duplicate spending and makes it easier to sell a starter component only when the upgrade solves a problem you can clearly describe.</p><h2>Original R5 pedal replacement</h2><p>For the specific choice between keeping the original pedals and replacing them, read <a href=\"articles/moza-srp-lite-vs-srp2/\">SR-P Lite vs SRP2</a>. This guide remains the overview of which part of the rig to improve first.</p>",
       "product": "MOZA SRP2 Pedals",
       "productWhy": "For most R5-class owners, a load-cell brake is the highest-value functional upgrade after getting the rig stable.",
       "affiliate_url": "https://uk.mozaracing.com/products/srp2-pedals?ref=AIDANKING",
@@ -1884,7 +2099,8 @@ window.CHECKPOINT_CONTENT = {
           "image": "https://uk.mozaracing.com/cdn/shop/files/MOZA-HBP-Handbrake-1.webp?v=1767606077&width=1000",
           "fallbackImage": "assets/images/beginner-sim-setup.svg"
         }
-      ]
+      ],
+      "dateModified": "2026-10-12"
     },
     {
       "slug": "moza-r5-pro-vs-logitech-g923",

@@ -20,7 +20,7 @@ async function main() {
   try {
     browser = await chromium.launch();
     fs.mkdirSync(path.join(root, 'test-results'), { recursive: true });
-    const samples = ['asus-vy279hgr-review', 'best-budget-gaming-monitors-uk', 'moza-r5-vs-fanatec-csl-dd', 'elden-ring-first-hours-guide'];
+    const samples = ['asus-vy279hgr-review', 'best-budget-gaming-monitors-uk', 'moza-r5-vs-fanatec-csl-dd', 'elden-ring-first-hours-guide', 'moza-r5-vs-logitech-g923', 'moza-r5-vs-r5-pro', 'moza-r5-vs-thrustmaster-t598', 'moza-srp-lite-vs-srp2', 'moza-crp2-vs-simagic-p1000'];
     for (const width of [1440, 768, 390]) {
       const context = await browser.newContext({ viewport: { width, height: 900 }, reducedMotion: 'reduce' });
       // Keep comparisons deterministic: use existing local fallback artwork for
@@ -81,7 +81,7 @@ async function main() {
         }
         // Hit-test real buttons at both sizes. Intercept navigation before it
         // leaves localhost so no affiliate requests or purchases are made.
-        for (const domain of ['amazon.co.uk', 'mozaracing.com', 'fanatec.com']) {
+        for (const domain of ['amazon.co.uk', 'amzn.to', 'mozaracing.com', 'fanatec.com', 'simagic.com']) {
           const button = page.locator(`#pick a.btn[href*="${domain}"]`).first();
           if (!await button.count()) continue;
           await button.click({ trial: true });
@@ -104,7 +104,7 @@ async function main() {
       }
       assert.deepEqual(errors, []);
       await context.close();
-      const noJS = await browser.newContext({ javaScriptEnabled: false, viewport: { width, height: 900 } });
+      const noJS = await browser.newContext({ javaScriptEnabled: false, viewport: { width, height: 900 }, reducedMotion: 'reduce' });
       await noJS.route('**/*', route => new URL(route.request().url()).origin === base ? route.continue() : route.abort());
       for (const slug of samples) {
         const page = await noJS.newPage();
